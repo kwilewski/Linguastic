@@ -1,0 +1,100 @@
+efecto|efect|08538
+cuanto|how much, as|08488
+blanco/a|white|01301
+familia|family|03264
+ganar|to win|03483
+distinto|different|08582
+modo|way, manner, mode|04833
+principio|beginning, principle|05793
+camino|road|01461
+necesario/ria|necessary|04989
+mostrar|to show|04898
+seguro/a|safe|06899
+utilizar|to use|08056
+ofrecer|to offer|05137
+cara|face|01516
+terminar|to finish|07578
+tampoco|neither|07436
+olvidar|to forget|05152
+pie|foot|05510
+sacar|to remove, take out|06752
+echar|to throw, cast|02698
+ninguno/a|no, none, nobody, no one|05021
+ayer|yesterday|01174
+disponer|to arrange|02620
+quizá|perhaps, maybe|06083
+preciso/a|precise|05678
+quién|who|06062
+descubrir|to discover|02414
+lograr|to obtain, achieve, get|04469
+necesitar|to need|08583
+cambiar|to change|01457
+por ejemplo|for example|08584
+cinco|five|01721
+duda|doubt|02677
+cerrar|to close|01647
+especial|special|03020
+trabajar|to work|07758
+campo|field|01471
+reconocer|to recognize|06260
+ahí|there|00464
+ahí|there|08585
+imagen\imágenes|image|03836
+estudio|study, studio|08586
+jugar|to play, gambler|04285
+capaz\paces|able|01506
+formar|to form|03389
+papel|paper|05273
+igual|equal|03821
+fondo|bottom, rear|03380
+derecho|straight, rigth|02347
+alcanzar|to reach|00530
+resultado|result, outcome|08587
+alguien|somebody|00575
+alguien|somebody, someone|08588
+aire|air|00481
+difícil|difficult|02559
+correr|to run, race|02095
+obra|work|05093
+científico/a|scientific|01712
+posibilidad|possibility|05653
+comprender|to comprehend, to understand|01897
+mil|thousand|04775
+mas|but|04634
+proceso|process|05817
+dinero|money|02580
+actual|present|00208
+semana|week|06911
+clase|class|01751
+económico|economic, economical|08589
+andar|to walk|00770
+malo/a|bad|04543
+total|total|07753
+ocasión\siones|occasion|05111
+suyo/a|his/her/its|07395
+demás|rest of the|02319
+apenas|hardly,scarcely|08590
+dirigir|to direct|02591
+demostrar|to demonstrate|02328
+mirada|watched|08591
+meter|to put|04751
+asegurar|to assure|01027
+simple|simple|07040
+aceptar|to accept|00134
+ya que|since|08592
+condición\siones|condition|01933
+dormir|to sleep|02665
+comer|to eat|01852
+ley|law|04398
+abandonar|to abandon|00003
+ningún|none|08593
+ésta|is|08532
+escuchar|to listen, heard|02992
+mesa|it pulls|04741
+natural|natural|04972
+color|color|01836
+militar|military man|04783
+verdadero/a|true|08203
+acuerdo|agreement|00220
+ciencia|science|01711
+mover|to move, stir|04905

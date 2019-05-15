@@ -1,0 +1,99 @@
+mano|hand|04577
+sido|been|08485
+algún|some, any|08564
+propio/pia|own|05901
+conocer|to know, meet|01971
+momento|moment|04847
+llamar|to call, phone|04446
+sí|yes|08480
+quien|who|06061
+menos|less|04718
+salir|to leave, go out|06784
+alguno/a|some, any|00576
+mirar|to watch|04805
+casi|almost|01566
+medio/dia|means|04689
+e|and|08460
+caso|case|08489
+hacia|towards|03661
+mejor|better|04700
+tres|three|07888
+nunca|never|05077
+hora|hour|03761
+venir|to come|08175
+forma|shape|08496
+contra|against|02021
+sino|but, rather|07060
+ante|before|00829
+ante|before, in front of|00845
+ojo|eye|05143
+tratar|to try|07861
+creer|to believe|02143
+cierto/a|true|01715
+pues|then, since, because|05988
+tu|your, you|07954
+vivir|to live|08341
+durante|during|02691
+gran|big|08530
+cómo|how|01866
+señor/ñora|sir/madam|06953
+entonces|then|02898
+padre|father|05216
+sentir|to feel|06950
+mientras|while|04770
+según|according to|06897
+noche|night|05031
+perder|to lose, miss|08565
+esto|this|03091
+tomar|to take, to drink|07701
+mayor|greater|04666
+usted|you|08050
+persona|person|05465
+único/a|only|08011
+único|only, unique|08566
+aquí|here|00952
+bajo/a|low, short, faint|01199
+abrir|to open, unlock|00071
+solo/a|alone|07159
+político|political|08567
+españa|spain|08512
+para que|so that|08568
+nadie|nobody, no-one|04956
+esperar|to hope, wait|03026
+palabra|word|05228
+lugar|place|04489
+acabar|to finish|00101
+producir|to produce|05827
+empezar|to begin, start|02795
+hoy|today|03781
+contar|to count|02010
+problema|problem|05808
+preguntar|to ask|05702
+morir|to die|04888
+don|gift, talent|02659
+aún|still|01184
+cualquier|any|08547
+grande|big, great|03591
+madre|mother|04506
+claro/a|clearly, clear|01750
+tarde|late|07460
+allí|there|00606
+segundo|second|06898
+cuerpo|body|02217
+trabajo|job|08504
+general|general|03514
+niño/a|boy, girl|05022
+tras|after|07839
+hijo/a|son, daughter|03717
+convertir|to turn into, convert|02047
+cuyo/a|whose, of whom|02243
+español/ñola|spanish|03015
+posible|posible|08528
+cabeza|head|01407
+historia|history|03740
+alto/a|tall, high, stop|00654
+incluso|even, in fact|08569
+resultar|to turn out, work out, succeed|08570
+luego|then, later|04488
+existir|to exist|03179
+recordar|to remember, remind|06269

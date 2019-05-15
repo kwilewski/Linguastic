@@ -1,0 +1,1271 @@
+cenar|to have dinner|01620
+cenicero|ashtray|01621
+ceniza|ash|01622
+centenar|hundred|01626
+centeno|rye|01627
+centésimo/a|hundredth|01634
+centinela|sentinel|01630
+cepillo|brush|01636
+cera|wax|01637
+cerca|fense, close, near|01638
+cercar|to fence|01639
+cerda|bristle|01640
+cerdo|pig|01641
+cerebro|brain|01643
+cereza|cherry|01645
+cero|zero|01646
+cerrar|to close|01647
+cerro|hill|01648
+cerveza|beer|01651
+cesar|to cease|01653
+césped|grass|01707
+cesta|basket|01654
+chacra|farm|01656
+chal|shawl|01657
+chaleco|vest|01658
+chamarra|jacket|01659
+champiñón|mushroom|01661
+champú|shampoo|01662
+chancho|pig|01663
+chantaje|blackmail|01664
+chaqueta|jacket|01665
+charlar|chat|01666
+cheque|check|01669
+chequear|to check|01670
+chícharo|pea|01690
+chicharrón\rrones|pork rind|01671
+chicle|chewing gum|01672
+chico/a|boy, girl|01673
+chiquillo/a|child|01679
+chisme|gossip|01680
+chiste|joke|01681
+choclo|corn|01682
+chofer|driver|01684
+choque|shock|01685
+chorizo|sausage, chorizo|01686
+choza|hut|01687
+chuleta|cutlet, chop|01688
+chupar|to suck|01689
+cíclico/a|cyclical|01708
+ciclismo|cycling|01691
+ciclo|cycle|01692
+ciclón\clones|cyclone|01693
+ciego/a|blind|01694
+cielo|sky, heaven|01695
+ciempiés|centipede|01709
+cien|a hundred|01710
+ciencia|science|01711
+científico/a|scientific|01712
+ciento|one hundred|01713
+cierre|closing|01714
+cierto/a|true|01715
+cifra|number, figure|01716
+cigueña|stork|01718
+cilindro|cylinder|01720
+cinco|five|01721
+cincuenta|fifty|01722
+cine|cinema, movies|01723
+ciruela|plum|01731
+cirugía|surgery|01732
+cisne|swan|01733
+cita|appointment, date|01735
+ciudad|city|01737
+ciudadano/a|citizen|01738
+ciudadanía|citizenship|01739
+clara|egg white|01745
+claramente|clearly|01746
+claridad|clarity, clearness|01747
+clarividente|clairvoyant|01749
+claro/a|clearly, clear|01750
+claustro|cloister|01754
+clausurar|close|01757
+clavado|dive|01758
+clavar|to hammer|01759
+clave|code|01760
+clavel|carnation|01761
+clavícula|collarbone|01762
+clavo|nail, clove|01763
+cliente/a|customer, client|01766
+clip|cilp|01769
+cloaca|sewer|01770
+cloro|chlorine|01771
+coartada|alibi|01776
+cobarde|coward|01777
+cobertizo|shelter|01778
+cobertor|bedspread|01779
+cobertura|cover|01780
+cobijar|to shelter|01781
+cobrar|to charge|01783
+cobre|copper|01784
+cobro|collection|01785
+cocción\ciones|cooking|01787
+cocer|to cook|01788
+coche|car, automobile, coach, carriage|01789
+cochino/a|dirty|01790
+cocido/a|cooked|01791
+cociente|quotient|01792
+cocina|kitchen|01793
+cocodrilo|crocodrile|01795
+coctel|cocktail|01796
+codicia|greed|01797
+código|code|01798
+codo|elbow|01799
+codorniz\nices|quail|01800
+cofre|coffer|01802
+coger|to take|01803
+cohete|rocket|01805
+cojear|to limp|01807
+cojín\jines|cushion|01808
+cojo/a|lame, wobbly|01809
+col|cabbage|01810
+cola|tail, line, glue|01811
+colaborar|to collaborate|01812
+colapso|collapse|01813
+colcha|bedspread|01814
+colección|collection|01815
+colectividad|community|01816
+colector|sewer|01817
+colega|colleague|01818
+colegio|school|01819
+cólera|cholera|01820
+colesterol|cholesterol|01821
+colgar|to hang|01822
+colibr1|hummingbird|01823
+coliflor|cauliflower|01825
+colilla|butt|01826
+colina|hill|01827
+colisión\siones|collision|01829
+collar|necklace|01830
+coloquial|colloquial|01835
+columpiar|to swing|01839
+coma|coma, comma|01840
+comadre|godmother|01841
+comadreja|weasel|01842
+comadrona|midwife|01843
+comandancia|command headquarters|01844
+comarca|region|01845
+combatir|to combat, fight|01846
+combustible|fuel|01848
+comedor|dining room|01850
+comenzar|to begin, start|01851
+comer|to eat|01852
+comercio|commerce|01853
+cometer|to commit|01855
+comicios|elections|01856
+comida|food|01858
+comienzo|beginning|01859
+comillas|quotation marks|01860
+comino|cumin|01861
+comisario/ria|commissioner|01862
+comisión\siones|commission|01863
+comité|commitee|01864
+como|as, since, like|01865
+cómo|how|01866
+cómoda|chest of drawers|01867
+comodidad|comfort|01868
+cómodo/a|comfortable|01869
+comoquiera|in any way|01870
+compadre|godfather|01872
+compañero/a|partner, companion|01873
+compartir|to share|01877
+complexión\xiones|constitution|01887
+cómplice|accomplice|01889
+complot\plots|conspiracy|01890
+componer|to make up, compose|01891
+comportarse|to behave|01892
+comportamiento|behavior|01893
+comprar|to buy, purchase|01896
+comprender|to comprehend, to understand|01897
+comprobar|to check|01900
+común\munes|common|01906
+comunicar|to communicate|01907
+comunicación\ciones|communication|01908
+comunidad|community|01909
+comunión\niones|communion|01910
+comunismo|communism|01911
+conceder|to grant|01914
+concertar|to arrange|01919
+concha|shell|01920
+conciencia|conscience|01921
+concilio|council|01923
+concordar|to agree|01926
+concretar|to make concrete, specify|01927
+concurrir|to meet|01928
+concursar|to compete|01929
+condado|county|01930
+condimento|seasoning, condiment|01934
+conducir|to drive|01937
+conducta|behavior|01938
+conducto|duct|01939
+conductor/tora|driver|01940
+conectar|to connect|01941
+conejo/a|rabbit|01942
+conexión\xiones|connection|01943
+confeccionar|to make, prepare|01944
+confiar|to trust|01948
+confitería|candy store|01954
+confortar|to comfort|01957
+congeniar|to get along|01961
+conjunto|joint, outfit, band|01966
+conmigo|with me|01968
+conmutador|switch|01969
+cono|cone|01970
+conocer|to know, meet|01971
+conque|so|01972
+conseguir|to obtain|01978
+consejo|advice|01979
+consentir|to allow|01980
+conserje|caretaker, janitor|01981
+constancia|record, evidence|01993
+constar|to consist, be evident|01994
+constatar|to verify|01995
+construir|to construct, build|01999
+consumar|to complete, consummate|02002
+contabilidad|accounting|02004
+contado/a|counted, numbered|02006
+contador/dora|accountant|02007
+contagiar|to infect, transmit|02008
+contar|to count|02010
+contestar|to answer, reply|02015
+contigo|with you|02016
+contiguo/gua|contiguous, adjacent|02017
+contra|against|02021
+contraatacar|to counterattack|02022
+contrabandista|smuggler|02023
+contrabando|smuggling, contraband|02024
+contrapartida|counterpart|02029
+contrapeso|counterbalance|02030
+contrarrestar|to counteract|02031
+contraseña|password|02032
+contrincante|opponent|02036
+contundente|forceful, blunt|02040
+conversar|to talk|02045
+convertir|to turn into, convert|02047
+convidar|to invite|02050
+convivir|to coexist, live together|02052
+conyugal|conjugal|02054
+copa|glass|02059
+copia|copy|02060
+coquetear|to flirt|02061
+coraje|anger, courage|02062
+coral|choral|02064
+corán|koran|02065
+corazón|heart|02066
+corbata|necktie, tie|02067
+corcho|cork|02068
+cordero|lamb|02070
+cordial|warm|02071
+cordillera|mountain range|02072
+coreografía|choreography|02075
+corneta|bugle|02076
+coro|chorus|02077
+corona|crown, wreath, garland|02078
+coronel|colonel|02079
+coronilla|crown|02080
+corpulento|stout|02084
+corral|farmyard|02085
+correa|strap, belt, leash|02086
+corredizo/a|sliding|02090
+corredor/dora|runner|02091
+correo|mail|02094
+correr|to run, race|02095
+corresponder|to correspond, belong|02096
+corretear|to run about, scamper|02097
+corrida|run|02098
+corriente|current|02099
+cortar|to cut|02104
+cortauñas|nail clippers|02105
+corte|cut|02106
+cortejo|courtship|02107
+cortés|courteous, polite|02108
+corteza|crust, bark|02109
+cortina|curtain|02110
+corto/a|short|02111
+cosa|thing|02112
+cosechar|to harvest, reap|02113
+coser|to sew|02114
+cosquillas|tickle|02119
+costa|coast|02120
+costado|side|02121
+costilla|rib|02124
+costo|cost, price|02125
+costra|scab|02126
+costumbre|custom, habit|02127
+costura|seam, sewing|02128
+cotidiano/a|daily|02129
+cotizar|to quote|02130
+coyuntura|join, situation|02132
+cráneo|skull, cranium|02133
+crecer|to grow, increase|02138
+credo|creed|02142
+creer|to believe|02143
+crema|cream|02144
+cremallera|zipper|02146
+cremoso/a|creamy|02147
+crepe|pancake|02148
+crepúsculo|dusk, twilight|02149
+crespo/a|curly, frizzy|02150
+creyente|believer|02152
+criar|to raise, bring up|02153
+criatura|creature|02154
+cripta|crypt|02156
+cristal|crystal|02158
+cristiano/a|christian|02159
+cristianismo|christianity|02160
+cristo|Christ|02161
+cromo|chromium|02164
+crónica|chronicle|02165
+crónico/a|chronic|02166
+cronología|chronology|02167
+cronometrar|to time, clock|02168
+cruce|cross|02170
+crucero|cruise|02171
+crucigrama|crossword|02174
+crudo/a|crude, raw|02175
+cruzar|to cross|02176
+cuaderno|notebook|02177
+cuadra|block|02178
+cuadrado/a|square|02179
+cuadragésimo/a|forty, fortieth|02180
+cuadrilátero|quadrilateral|02181
+cuadrilla|group|02182
+cuadro|picture, square, painting|02183
+cuadrúpedo|quadrouped|02184
+cuadruple|quadruple|02185
+cual|as, like|02186
+cuál|which, what|02187
+cualidad|quality|02188
+cualquiera|anyone|02189
+cuán|how|02190
+cuando|when|02191
+cuándo|when|02192
+cuánto|how much|02193
+cuarenta|forty|02194
+cuarentena|quarantine|02195
+cuartear|to quarter|02196
+cuarteto|quartet|02197
+cuarto/a|quarter|02198
+cuarzo|quartz|02199
+cuatro|four|02200
+cuba|cask|02201
+cubeta|bucket, keg|02203
+cúbico/a|cubed, cubic|02204
+cubierta|cover|02205
+cubrecama|bedspread|02206
+cubrir|to cover|02207
+cucaracha|cockroach|02208
+cuchara|spoon|02209
+cuchilla|knife, blade|02210
+cuco|cuckoo|02211
+cuello|neck|02212
+cuenta|count|02213
+cuerda|cord|02214
+cuerno|horn|02215
+cuero|leather|02216
+cuerpo|body|02217
+cuervo|crow|02218
+cuestión\tiones|matter, affair|02219
+cuidar|to take care of|02220
+culebra|snake|02221
+culo|bottom|02222
+culpa|fault|02223
+cumpleaños|birthday|02226
+cumplir|to accomplish, carry out|02227
+cuna|cradle|02228
+cuñado/a|brother-in-law, sister in law|02229
+cuota|fee|02230
+cupo|quota|02231
+cupón|coupon|02232
+cúpula|dome, cupola|02233
+cura|cure|02234
+curiosear|snoop|02235
+cursiva|italics|02237
+curso|course|02238
+cúspide|apex|02239
+cutis|skin|02242
+cuyo/a|whose, of whom|02243
+dádiva|handout|02244
+daltónico/a|color-blind|02245
+dama|lady|02246
+damnificar|to damage|02247
+danés/nesa|danish|02248
+danzar|to dance|02249
+dañar|to damage|02250
+dar|to give|02251
+datar|to date|02252
+dato|data|02253
+de|of, from|02254
+debajo|underneath, under|02255
+deber|to owe|02257
+débil|weak, feeble|02258
+decaer|to decline|02263
+decano/a|dean|02264
+decepcionar|to disappoint|02267
+décimo/a|tenth|02270
+decimocuarto/a|fourteenth|02271
+decimonoveno/a|nineteenth|02272
+decimoquinto/a|fifteenth|02273
+decimoséptimo/a|seventeenth|02274
+decimosexto/a|sixteenth|02275
+decimotercero/a|thirteenth|02276
+decir|to say, tell|02277
+decolorar|to bleach|02282
+dedal|thimble|02286
+degustar|to taste|02300
+deidad|deity|02301
+dejar|to leave|02302
+delante|ahead|02303
+delantera|front|02304
+delatar|to denounce|02305
+deleitar|to delight|02307
+delfín|dolphin|02308
+delgado/a|thin|02309
+delito|crime|02315
+demacrado/a|emaciated|02317
+demás|rest of the|02319
+demasiado|too much|02320
+demencia|madness|02321
+demorar|to delay|02327
+denegar|to deny|02329
+dentro|inside, in|02335
+denunciar|to denounce|02336
+deporte|sport|02342
+derecha|right|02346
+derecho|straight, rigth|02347
+deriva|drift|02348
+derramamiento|bloodshed|02351
+derramar|to spill|02352
+derrapar|to skid|02353
+derretir|to melt|02354
+derribar|to demolish|02355
+derrochar|to waste|02356
+derrotar|to defeat|02357
+derrumbar|to collapse|02358
+desabotonar|to unbutton|02359
+desabrido/a|bland, tasteless|02360
+desacreditar|to discredit|02361
+desactivar|to deactivate|02362
+desacuerdo|disagreement|02363
+desafiar|to defy|02364
+desafío|challenge|02365
+desafortunado/a|unfortunate|02366
+desagradar|to displease|02367
+desagradecido/a|ungrateful|02368
+desahogar|to relieve|02369
+desahuciar|to evict, deprive of hope|02370
+desalentar|to discourage|02371
+desalojar|to evacuate|02372
+desamparar|abandon|02373
+desamueblado/a|unfurnished|02374
+desangrarse|to bleed, lose blood|02375
+desanimar|to discourage|02376
+desanudar|to untie|02377
+desaparecer|to disappear|02378
+desapasionado/a|dispassionate|02379
+desapercibido|unnoticed|02380
+desaprobar|to disapprove|02381
+desaprovechar|to waste|02382
+desarreglar|to mess up|02383
+desarrollar|to develop|02384
+desarrollo|development|02385
+desarticular|to break up|02386
+desaseado/a|dirty|02387
+desastre|disaster|02388
+desatar|to untie, to undo|02389
+desautorizado/a|unauthorized|02390
+desayunar|to have breakfast|02391
+desbaratar|to ruin, destoy|02392
+descafeinado/a|decaffeinated|02393
+descalificar|to disqualify|02394
+descansar|to rest|02395
+descargar|to unload|02396
+descender|to descend, go down|02397
+descifrar|to decipher, decode|02398
+descolgar|to take down|02399
+descomponer|to break down|02400
+desconectar|to disconnect|02401
+desconfiar|to distrust|02402
+descongelar|to defrost|02403
+desconsiderado/a|inconsiderate|02405
+desconsolar|to distress|02406
+descontar|to discount|02407
+descontento/a|dissatisfied|02408
+descontinuar|to discontinue|02409
+descortés\teses|discourteous, rude|02410
+descremado/a|skim, nonfat|02411
+descubierto/a|discovered|02413
+descubrir|to discover|02414
+descuento|discount|02415
+descuidar|to neglect|02416
+desde|from, since|02417
+desdicha|misfortune, misery|02418
+desear|to wish|02419
+desechar|to reject, trow away|02420
+desembarcar|to disembark|02421
+desempañar|to play a role|02422
+desempleo|unemployment|02423
+desencadenar|to unchain|02424
+desencajar|to dislocate|02425
+desencanto|disillusionment|02426
+desenchufar|to unplug, disconnect|02427
+desengañar|to disillusion|02428
+desenlace|ending|02429
+desenmascarar|to unmask|02430
+desenrollar|to unroll|02431
+desenterrar|to dig up, disinter|02432
+deseo|desire|02433
+desequilibrar|to unbalance|02434
+desesperar|to exasperate|02436
+desestimar|to reject|02437
+desfallecer|to weaken|02438
+desfigurar|to disfigure|02439
+desfilar|to march, parade|02440
+desgarrar|to tear, rip|02441
+desgastar|to wear away|02442
+desgracia|misfortune|02443
+deshabitado/a|uninhabited|02444
+deshacer|to undo|02445
+desheredar|to disinherit|02446
+deshidratar|to dehydrate|02447
+deshilachar|to unravel|02448
+deshonesto/a|dishonest|02449
+deshonrar|to dishonor|02450
+desierto/a|desert|02451
+designio|plan|02453
+desigual|unequal|02454
+desilucionar|to disillusion, disappoint|02455
+desinfectar|to disinfect|02456
+desinflar|to deflate|02457
+desinhibido/a|uninhibited|02458
+desinteresado/a|unselfish|02459
+desleal|disloyal|02460
+desleír|to dissolve, dilute|02461
+desmantelar|to dismantle|02462
+desmejorar|to get worse|02463
+desmentir|to deny|02464
+desmontar|to dismantle, take apart|02465
+desnudar|to undress|02466
+desnutrición|malnutrition|02467
+desobedecer|to disobey|02468
+desobediencia|disobedience|02469
+desobediente|disobedient|02470
+desocupar|to vacate, empty|02471
+desodorante|deodorant|02472
+desorden|disorder|02473
+desorganizar|to disorganize|02474
+despacio|slowly|02475
+despavorido/a|terrified|02476
+despedir|to dismiss, fire|02477
+despegar|to take off, detach, unstick|02478
+despeinar|to ruffle|02479
+despejar|to clear|02480
+desperdiciar|to waste|02481
+desperfecto|flaw, defect|02482
+despertar|to wake up|02483
+despido|dismissal, layoff|02484
+despierto|awake|02485
+desplomarse|to collapse|02486
+desplumar|to pluck|02487
+despoblado/a|uninhabited|02488
+despreciar|to despise, scorn|02489
+desprender|to give off, remove|02490
+despreocupado/a|carefree|02491
+desprestigiar|to discredit|02492
+desprevenido/a|unprepared|02493
+después|afterwards, then|02494
+desquiciar|to drive crazy|02495
+destacar|to emphasize, outstanding|02496
+destapar|to open|02497
+destellar|to flash|02498
+desteñir|to fade|02499
+desterrar|to exile|02500
+destierro|exile|02501
+destinar|to assign|02502
+destituir|to dismiss|02503
+destornillar|to unscrew|02504
+destreza|skill|02505
+desunir|to split, divide|02508
+desvalido/a|destitute, needy|02509
+desvanecer|to make disappear|02510
+desventaja|disadvantage|02511
+desventura|misfortune|02512
+desviación|deviation|02513
+detener|to stop|02515
+deteriorar|to damage|02517
+detonar|to detonate, explode|02520
+detrás|behind|02521
+deuda|debt|02522
+devolución|return|02525
+día|day|02528
+diablo|devil|02530
+diafragma|diaphragm|02531
+dialogar|to have a talk|02536
+diana|reveille|02539
+diario/ria|newspaper|02540
+dibujar|to draw|02542
+diccionario|dictionary|02543
+dicha|happiness|02544
+diciembre|december|02545
+diecinueve|nineteen|02547
+dieciocho|eighteen|02548
+dieciséis|sixteen|02549
+diecisiete|seventeen|02550
+diente|tooth|02551
+diestra|right hand|02553
+diez|ten|02555
+difamar|to slander, libel|02556
+diferencia|difference|02557
+diferir|to differ|02558
+difícil|difficult|02559
+difteria|diphtheria|02560
+difundir|to spread|02561
+difunto/a|deceased|02562
+difusión\siones|diffusion|02563
+dignarse|deign to|02565
+dilatar|to expand, dilate|02568
+diluvio|flood|02572
+diminuto/a|tiny|02574
+dinámico/a|dynamic|02575
+dinamita|dynamite|02576
+dínamo|dynamo|02577
+dineral|fortune|02579
+dinero|money|02580
+dios/diosa|god, goddes|02582
+diputación\ciones|delegation|02586
+dirección|address, direction|02587
+director/tora|director, manager|02588
+dirigencia|leadership|02589
+dirigente|leader, director|02590
+dirigir|to direct|02591
+disco|disc, disk, discus|02595
+disculpar|to excuse|02601
+discurso|speech, discourse|02602
+disentería|dysentery|02604
+diseñar|to design|02605
+disertación|dissertation|02606
+disfrazar|to disguise|02607
+disfrutar|to enjoy|02608
+disgustar|to upset, annoy|02609
+disidente|dissident|02610
+diskette|floppy disk, diskette|02611
+disminuir|to reduce, decrease|02614
+disolver|to dissolve|02615
+disparar|to shoot|02616
+disparo|sho|02617
+disponer|to arrange|02620
+disposición\ciones|disposition, arrangement|02621
+dispositivo|device|02622
+dispuesto/a|prepared, ready|02623
+disputar|to dispute, argue|02624
+diurno/a|day, daytime|02632
+diván|couch, divan|02633
+divertir|to entertain|02636
+divulgar|to divulge, reveal|02642
+doblar|to double|02643
+doce|twelve|02644
+docente|teaching|02645
+dólar|dollar|02651
+doler|to hurt|02652
+domicilio|home, residence|02654
+domingo|sunday|02656
+dominio|authority|02657
+don|gift, talent|02659
+donde|where|02661
+dónde|where|02662
+dondequiera|anywhere|02663
+doquier|anywhere|02664
+dormir|to sleep|02665
+dos|two|02666
+dosis|dose|02667
+dotar|to equip, provide|02668
+drenar|to drain|02672
+droga|drug|02673
+ducha|shower|02676
+duda|doubt|02677
+duende|elf|02679
+dueño/a|owner|02680
+dulce|candy, sweet|02681
+duna|dune|02682
+dúo|duo|02683
+duodécimo/a|twelfth|02684
+dúplex|duplex|02685
+duplicar|to duplicate, copy|02686
+duque|duke|02687
+duradero/a|lasting, durable|02690
+durante|during|02691
+durar|to last|02692
+durazno|peach|02693
+duro|hard|02694
+ébano|ebony|02695
+ebrio/bria|drunk|02696
+ebullición|boiling|02697
+echar|to throw, cast|02698
+ecuación|equation|02704
+ecuador|equator|02705
+edad|age|02708
+edición|edition, publishing|02709
+edificar|to build|02711
+editar|to publish|02712
+edredón|comforter|02713
+efectivo/a|cash, effective|02715
+efervescente|effervescent|02716
+eficaz\caces|effective|02717
+eficiente|efficient|02718
+efímero/a|ephemeral|02719
+efusivo/a|effusive|02720
+agipcio/a|egyptian|02721
+egresar|to graduate|02723
+eje|axis|02724
+ejecutar|to execute|02725
+ejecutivo|executive|02726
+ejemplar|exemplary, issue|02727
+ejemplo|example|02728
+ejercer|to exercise, practice|02729
+ejército|army|02730
+el/a|the|02731
+él|he, him|02732
+elefante|elephant|02743
+elegir|to choose, select|02744
+elenco|cast|02746
+elevar|to elevate, raise|02747
+elipse|ellipse|02749
+ella|she, her|02752
+ello|it|02753
+ellos/as|they, them|02754
+elocuente|eloquent|02755
+elocuencia|eloquence|02756
+elogiar|to praise|02757
+eludir|to elude, avoid|02758
+embarazar|to embarrass, make pregnant|02761
+embarcar|to embark, board|02762
+embarque|boarding|02763
+embaucar|to trick|02764
+émbolo|piston|02767
+emborracharse|to get drunk|02768
+embotellar|to bottle|02769
+embriagarse|to get drunk|02770
+embrollo|tangle|02772
+embrujar|to bewitch|02773
+embrutecer|to brutalize|02774
+embudo|funnel|02775
+empacar|to pack|02783
+empalagoso/a|cloying|02784
+empanada|pie|02785
+empapar|to soak|02786
+empapelar|to wallpaper|02787
+emparentado/a|become related|02788
+empastar|to fill with paste|02789
+empedernido|inveterate|02790
+empeñar|to pawn|02791
+empeorar|to get worse|02792
+empequeñecer|to diminish|02793
+empezar|to begin, start|02795
+emplear|to use, employ|02797
+empobrecer|to impoverish|02798
+empotrar|to fit, build into|02799
+emprender|to undertake|02800
+empresa|company|02801
+empujar|to push|02802
+en|in, into, inside, on|02804
+enagua|petticoat, slip|02805
+enaltecer|to praise|02806
+enamorar|to win the love of|02807
+enamorarse|to fall in love|02808
+enano/a|dwarf|02809
+encabezar|to head|02810
+encadenar|to chain|02811
+encanecer|to turn gray|02812
+encantar|to enchant|02813
+encarar|to face|02814
+encarcelar|to jail, imprisob|02815
+encarnar|to embody|02816
+encender|to light, switch on, set fire to|02817
+encerrar|to lock up|02818
+enchufar|to plug in, connect|02820
+encía|gum tissue|02821
+encíclica|encyclical|02822
+enciclopedia|encyclopedia|02823
+encierro|confinement|02824
+encima|on top|02825
+encinta|pregnant|02826
+encoger|to shrink|02827
+encomienda|mission, charge|02828
+encontrar|to find|02829
+encorvar|to bend, curve|02830
+encrucijada|crossroads|02831
+encuadernar|to bind|02832
+encuadrar|to fit, frame|02833
+encubrir|to conceal, cover|02834
+encuentro|encounter, meeting|02835
+encuestar|to poll|02836
+endemoniado/a|possessed, wicked|02837
+enderezar|to straighten|02838
+endeudarse|to go into debt|02839
+endiablado/a|diabolical|02840
+endulzar|to sweeten|02841
+endurecer|to harden|02842
+enero|january|02846
+enésimo/a|for the umpteenth time|02847
+enfadar|to get upset, annoy, make ungry|02848
+enfatizar|to emphasize|02849
+enfermar|to become ill, make sick|02850
+enflaquecer|to lose weight|02851
+enfocar|to focus|02852
+enfrentar|to confront|02853
+enfriar|to cool|02854
+enfurecer|to infuriate|02855
+engañar|to deceive, trick, cheat on|02856
+engendrar|to beget, engender|02857
+engomar|to glue|02858
+engordar|to get fat, fatten|02859
+engrandecer|to enlarge|02860
+engrasar|to lubricate, grease|02861
+engreído/a|conceited|02862
+enhorabuena|congratulations|02863
+enjaular|to cage|02865
+enjuagar|to rinse|02866
+enlace|link|02867
+enlatar|to can|02868
+enlazar|to link|02869
+enloquecer|to drive crazy|02870
+enmarcar|to frame|02871
+enmascarar|to mask|02872
+enojar|to anger|02873
+enorgullecer|to make proud|02874
+enredadera|vine|02876
+enrojecer|to blush, redden|02878
+enrolar|to enlist|02879
+enrollar|to coil, roll up|02880
+ensalada|salad|02881
+ensalzar|to praise|02882
+ensamblar|to assemble|02883
+ensangrentado/a|bloody|02884
+enseguida|immediately|02885
+enseñar|to teach|02886
+ensuciar|to soil|02887
+ensueño|dream, fantasy|02888
+entender|to understand|02889
+enterar|to find out, inform|02890
+enternecer|to touch|02891
+entero/a|whole|02892
+enterrar|to bury|02893
+entibiar|to cool|02894
+entidad|organization, entity|02895
+entierro|burial|02896
+entonar|to intone|02897
+entonces|then|02898
+entorpecer|to obstruct|02899
+entrar|to enter|02901
+entre|between, among|02902
+entregar|to deliver, give|02903
+entrenar|to train|02904
+entretanto|meanwhile|02905
+entretener|to entertain|02906
+entrevistar|to interview|02907
+entristecer|to sadden|02908
+entusiasmo|enthusiasm|02909
+entusiasta|enthusiastic|02910
+envasar|to package|02913
+envejecer|to age|02914
+envenenar|to poison|02915
+enviar|to send|02916
+envidiar|to envy|02917
+envío|shipment, sending|02918
+envolver|to surround, wrap|02919
+enyesar|to plaster|02920
+época|epoch, period|02927
+equilibrar|to balance|02929
+equipaje|luggage, baggage|02931
+equipo|equipment, team|02933
+equitación|horseback|02934
+equivocar|to mistake|02936
+equivocarse|to make a mistake|02937
+erguir|to raise|02940
+erizo|hedgehopg|02941
+ermitaño/a|hermit|02942
+erosionar|to erode|02944
+errar|to be mistaken, miss|02946
+error|error, mistake|02947
+eructar|to burp|02948
+esbelto/a|slim, slender|02951
+esbozar|to outline, sketch|02952
+escabel|footstool|02953
+escalar|to climb|02954
+escalera|stairs|02955
+escalofrío|shiver, chill|02956
+escama|scale, flake|02957
+escandalizar|to scandalize|02958
+escándalo|scandal|02959
+escandinavo/a|scandinavian|02960
+escáner|to scanner|02961
+escapar|to escape, run away|02962
+escaparate|store window|02963
+escape|leak, escape|02964
+escarabajo|beetle|02965
+escarbar|to dig, poke|02966
+escarlata|scarlet|02967
+escena|scene|02968
+esceptismo|skepticism|02969
+esclarecer|to clarify|02970
+esclavo/a|slave|02971
+esclerosis|sclerosis|02972
+escoba|broom|02973
+escocer|to sting|02974
+escocés|scottish|02975
+escoger|to choose|02976
+escolar|student, pupil|02977
+esconder|to hide, conceal|02979
+escopeta|shotgun|02980
+escoria|slag, dregs|02981
+escorpión\piones|scorpion|02982
+escote|neckline|02983
+escotilla|hatchway|02984
+escribir|to write|02985
+escrito/a|written|02986
+escritor/tora|writer|02987
+escritorio|desk|02988
+escritura|handwriting, deed|02989
+escrúpulo|scruple|02990
+escuadra|square, fleet|02991
+escuchar|to listen, heard|02992
+escudo|shield|02993
+escuela|school|02994
+esculpir|to sculpt|02995
+ese/a|that|02996
+esos|those|02997
+ése/a|that one|02998
+ésos|those ones|02999
+esencia|essence|03000
+esfera|sphere|03001
+esfinge|sphinx|03002
+esforzar|to strain|03003
+esfumarse|to disappear, fade away|03004
+eslavo/a|slavic|03005
+esmaltar|to enamel|03006
+esmeralda|emerald|03007
+esmoquin|tuxedo|03008
+eso|that|03009
+esófago|esophagus|03010
+espada|sword, spades|03011
+espagueti|spaghetti|03012
+espalda|back|03013
+espantar|to frighten, scare|03014
+español/ñola|spanish|03015
+esparcir|to scatter, spred|03016
+espárrago|asparagus|03017
+espasmo|spasm|03018
+espátula|spatula|03019
+especial|special|03020
+especie|species|03021
+especificar|to specify|03022
+espectáculo|show, performance, spectacle|03023
+especulación\ciones|speculation|03024
+espejo|mirror|03025
+esperar|to hope, wait|03026
+esperma|sperm|03027
+espesar|to thicken|03028
+espiar|to spy|03029
+espina|thorn|03030
+espinaca|spinach|03031
+espinilla|shin, blackhead, pimple|03032
+espinoso/a|prickly, thorny|03033
+espíritu|spirit|03035
+espléndido/a|splendid|03036
+espolvorear|to sprinkle, dust|03037
+espontaneidad|spontaneity|03038
+espontáneo/nea|spontaneous|03039
+esporádico/a|sporadic|03040
+esposo/a|husband, wife|03041
+espumar|to foam, skim|03042
+esqueleto|skeleton|03043
+esquí|ski, skiing|03044
+esquina|corner|03046
+esquivar|to evade, avoid|03047
+esquizofrenia|schizophrenia|03048
+estable|stable|03049
+establo|stable|03052
+estaca|stake|03053
+estación\ciones|season|03054
+estadía|stay|03055
+estadio|stadium, stage|03056
+estadística|statistic|03057
+estado|state|03058
+estadounidense|american|03059
+estafar|to swindle, defraud|03060
+estallar|to explode|03061
+estampar|to print, stamp|03062
+estampida|stampede|03063
+estampilla|stamp|03064
+estancia|stay|03065
+estándar|standard|03066
+estandarte|standard|03067
+estanque|pond|03068
+estante|shelf|03069
+estar|to be, stay|03070
+estático/a|static|03071
+estatua|statue|03072
+estatura|height|03073
+estatus|status|03074
+estatuto|statute|03075
+este/a|this|03076
+estos|these|03077
+este|this|03078
+éste/a|this one|03079
+éstos|these ones|03080
+estera|mat|03081
+estéreo|stereo|03082
+estereofónico/a|stereophonic|03083
+estereotipo|stereotype|03084
+estéril|sterile|03085
+estética|aesthetic|03086
+estilo|style|03087
+estima|regard, esteem|03088
+estimular|to stimulate|03089
+estirar|to stretch|03090
+esto|this|03091
+estómago|stomach|03092
+estorbar|to obstruct|03093
+estornudar|to sneeze|03094
+estrado|platform, stage|03095
+estrafalario/ria|eccentric|03096
+estrangular|to strangle|03097
+estrategia|strategy|03098
+estratosfera|stratosphere|03099
+estrechar|to narrow|03100
+estrella|star|03101
+estrellar|to crash|03102
+estremecer|to shake, tremble|03103
+estrenar|to premiere|03104
+estreno|debut, premiere|03105
+estreñirse|to constipated|03106
+estrépito|noise|03107
+estrés|stress|03108
+estría|groove|03109
+estricto/a|strict|03110
+estropajo|scouring pad|03111
+estropear|to spoil, ruin|03112
+estructura|structure|03113
+estuche|case|03114
+estudiar|to study|03115
+estupefaciente|narcotic|03116
+estupendo/a|wonderful|03117
+etapa|stage|03118
+etcétera|et cetera|03119
+etéreo/rea|ethereal|03120
+ética|ethics|03122
+etimología|etymology|03123
+etíope|ethiopian|03124
+etiqueta|label|03125
+étnico/a|ethnic|03126
+euforia|euphoria|03128
+evangelio|gospel|03133
+eventual|possible|03138
+evitar|to avoid|03141
+exaltar|to exalt, arouse|03147
+excéntrico/a|eccentric|03156
+excentricidad|eccentricity|03157
+exculpar|to exonerate|03167
+excursionista|hiker, sightseer|03169
+exigir|to demand|03175
+exigente|demanding|03177
+éxito|success|03180
+expediente|file, expedient|03187
+explayar|to extend|03195
+exposición\ciones|exhibition, exposure|03208
+exprimir|to squeeze|03212
+expuesto/a|exposed|03213
+expulsar|to expel, eject|03214
+éxtasis|ecstasy|03216
+exterior|outside, exterior|03219
+extirpar|to remove|03223
+extranjero/a|foreigner, foreign|03228
+extrañar|to miss|03229
+extrañarse|to be surprised|03230
+extraviar|to lose, misplace|03235
+extremar|to carry far|03236
+eyacular|to ejaculate|03240
+eyaculación|ejaculation|03241
+fabricar|to make, manufacture|03242
+fábula|fable|03243
+facción\ciones|faction|03245
+fachada|facade|03247
+fácil|easy|03249
+factura|invoice, bill|03251
+faja|sash, girdle|03253
+falda|skirt|03254
+fallar|to fail|03255
+fallecer|to die, pass away|03256
+fallido|failed, unsuccessful|03257
+fallo|failure, error|03258
+falo|penis, phallus|03259
+falta|lack|03262
+fama|fame|03263
+fanfarrón/rrona|boastful|03267
+fango|mud, mire|03268
+fantasma|ghost|03271
+fantasmal|ghostly|03272
+farmacéutico/a|phamarcist, pharmaceutical|03274
+faro|lighthouse, headlight|03275
+fase|phase|03280
+fastidiar|to annoy, bother|03281
+fe|faith|03287
+fecha|date|03289
+fecundar|to fertilize|03290
+felicidad|happiness|03292
+feliz|happy|03294
+femenino|feminine, female|03295
+fenómeno|phenomenon|03296
+feo/a|ugly|03297
+feria|fair|03298
+ferretería|hardware store|03300
+ferrocarril|railroad|03301
+festejar|to celebrate|03304
+fétido/a|foul-smelling|03307
+feto|fetus|03308
+fiable|reliable|03309
+fianza|bail, bond|03310
+fiar|guarantee|03311
+fibra|fiber|03312
+ficción\ciones|fiction|03313
+ficha|card, token, counter|03314
+fichar|to file|03315
+fideo|noodle|03318
+fiebre|fever|03319
+fieltro|felt|03320
+fiero/a|fierce, wild|03321
+fierro|iron|03322
+fiesta|celebration, party|03323
+fila|row, line|03325
+filantropía|philantropy|03326
+filete|fillet|03327
+filial|filial, branch|03328
+filigrana|watermark, filigree|03329
+filipino/a|Philippine|03330
+filoso/a|sharp|03332
+filosofía|philosophy|03333
+fin|end|03335
+final|end, final|03336
+finca|property, farm|03338
+fingir|to pretend, feign|03339
+finlandés/desa|finn|03341
+fino/a|fine|03342
+firma|company, signature|03343
+firme|firm, resolute|03345
+física|physics|03347
+fisiología|physiology|03348
+fisioterapia|physiotherapy|03349
+fisioterapeuta|physical therapist|03350
+fisura|fissure|03351
+flácido/a|flabby, flacid|03352
+flaco/a|skinny, thin|03353
+flamante|bright|03355
+flaquear|to weaken|03357
+flecha|arrow|03359
+flema|phlegm|03360
+flojo/a|loose, slack|03363
+flojera|lethargy|03364
+flor|flower|03365
+flota|fleet|03366
+flotar|to float|03367
+fluir|to flow|03369
+fluvial|river|03372
+fobia|phobia|03373
+foco|spotlight, floodlight|03374
+fogata|bonfire|03375
+fogoso/a|ardent|03376
+folleto|pamphlet|03378
+fomentar|to promote|03379
+fondo|bottom, rear|03380
+fonético/a|phonetic|03381
+fontanería|plumbing|03382
+fontanero/a|plumber|03383
+forajido/a|bandit|03384
+forastero/a|stranger|03385
+forrar|to cover|03395
+fortalecer|to strengthen|03396
+fortaleza|strength, fortress|03397
+forzar|to force|03401
+fósforo|phosphorus|03402
+fósil|fossil|03403
+foto|photo|03404
+fotocopia|photocopy|03405
+fotocopiadora|photocopier|03406
+fotocopiar|to photocopy|03407
+fotogénico/a|photogenic|03408
+fotografía|photography|03409
+fotosíntesis|photosynthesis|03410
+fracasar|to fail|03411
+fractura|fracture, break|03413
+fragata|frigate|03415
+fraile|friar|03419
+frambruesa|rasberry|03420
+francés/cesa|french|03421
+francés|french|03422
+francotirador/dora|sniper|03423
+franela|flannel|03424
+frasco|bottle, flask|03426
+frase|phrase|03427
+fraternal|brotherly, fraternal|03428
+frazada|blanket|03430
+frecuencia|frequency|03431
+fregadero|sink|03432
+freir|to fry|03433
+frenar|to brake, restrain|03434
+freno|brake, restraint|03435
+frente|in front|03436
+fresa|strawberry|03437
+frialdad|coldness|03439
+frigorifico|refrigerator|03442
+frijol|bean|03443
+frío/a|cold, cool|03444
+frito/a|fried|03445
+frontera|border, frontier|03447
+frotar|to rub|03448
+fructífero/a|fruitful|03449
+fruta|fruit|03452
+fucsia|fuchsia|03453
+fuego|fire|03454
+fuente|source|03455
+fuera|outside, out|03456
+fuerte|hard, strong|03457
+fuerza|force, strength|03458
+fuga|flight, escape|03459
+fumar|to smoke|03460
+funcionar|to work, run, function|03462
+funda|cover|03463
+fundar|to establish, found|03464
+fundir|to melt down, smelt|03465
+fúnebre|funeral, gloomy|03466
+gabinete|cabinet|03468
+gafas|glasses|03469
+galante|gallant|03471
+galera|galley|03473
+galería|gallery|03474
+gallego/a|galician|03475
+galleta|cookie, cracker|03476
+gallina|hen|03477
+gamuza|chamois|03478
+gana|desire|03479
+ganado|cattle, sheep|03480
+ganador/dora|winner|03481
+ganancia|gain|03482
+ganar|to win|03483
+ganga|bargain|03484
+garantizar|to guarantee|03488
+garbanzo|chickpea|03489
+garganta|throat|03490
+garrapata|tick|03491
+garza|heron|03492
+gaseosa|soda, soft drink|03494
+gastar|to spend|03496
+gatas|on all four|03499
+gatear|to crawl|03500
+gatillo|trigger|03501
+gato/a|cat|03502
+gaveta|drawer|03503
+gaviota|gull, seagull|03504
+géiser|geyser|03506
+gema|gem|03508
+gemelo|twin|03509
+gemir|to moan|03510
+género|kind, sort|03516

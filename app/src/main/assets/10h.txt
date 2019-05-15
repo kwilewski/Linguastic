@@ -1,0 +1,100 @@
+cortar|to cut|02104
+perfecto|perfect|08698
+superar|to surpass|07319
+viento|wind|08262
+alejar|to move away, remove|00547
+ejército|army|02730
+ejército|army|08699
+destino|destiny, destination|08700
+método|method|04753
+texto|text|07618
+amar|to love|00682
+dirección|address, direction|02587
+individuo|individual|08701
+cerebro|brain|01643
+entrada|entrance, entry|02900
+unidad|unit|08014
+además de|in addition to, besides, furthermore|08702
+aplicar|to apply|00922
+lento|slow|08703
+concepto|concept|01917
+famoso|famous|08704
+llenar|to fill|04452
+máquina|machine|04595
+mínimo/a|minimum|04794
+rico/a|rich|06630
+tío/tía|uncle / aunt|07651
+hermana|sister|08705
+tarea|homewrok|07462
+adelante|ahead|00245
+central|central|01631
+derecha|right|02346
+sexo|sex|06988
+funcionar|to work, run, function|03462
+título|title|07679
+fútbol|soccer, football|08706
+introducir|to introduce, insert|08707
+doble|double|08708
+árbol|tree|01186
+muchacho/cha|boy|04909
+extender|to extend|03217
+extranjero/a|foreigner, foreign|03228
+a partir de|from, as of|08709
+mitad|half|04817
+amplio/plia|ample|00741
+mío/a|mine|04803
+acordar|to decide|00176
+marchar|to march|04602
+oro|gold|05182
+cuánto|how much|02193
+recorrer|to cross, travel through|06271
+reunión\niones|meeting|06597
+participar|to participate|05315
+pecho|chest|05375
+americano/a|american|00705
+lector/tora|reader|04363
+varios|several|08710
+violencia|violence|08289
+acaso|perhaps, maybe|00113
+ropa|clothes|06691
+tía|aunt|08711
+frecuencia|frequency|03431
+conservar|to conserve|01982
+sala|room, living room|06777
+auténtico/a|authentic|01150
+fuera de|outside of, beyond|08712
+recuperar|to recover|06286
+error|error, mistake|02947
+barrio|neighborhood|01240
+estrella|star|03101
+hermoso/a|beautiful|03692
+religioso/a|religious|06412
+contacto|contact|08713
+radio|radio|08714
+desde que|since|08715
+enviar|to send|02916
+informar|to inform|04039
+informar|to inform|08716
+loco/a|crazy, insane|04460
+menudo|small, insignificant|08717
+análisis|analysis|00752
+campaña|countryside|01467
+constante|constant|08718
+fenómeno|phenomenon|03296
+fiesta|celebration, party|03323
+fuego|fire|03454
+controlar|to control|02038
+juicio|judgment, sense|04289
+piso|floor|05549
+catalán|catalan|08719
+junto|together, joined, close|08720
+lenguaje|language|04382
+literatura|literature|04439
+negocio|business|08721
+velocidad|speed|08148
+así que|so, therefore|08722
+costumbre|custom, habit|02127
+depender|to depend|02338
+manifestar|to declare|04572
+materia|matter|04651
+tender|to strech out|07541

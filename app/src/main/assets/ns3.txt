@@ -1,0 +1,1218 @@
+genial|brilliant|03520
+gente|people|03524
+gentil|gentile, kind|03525
+gentío|crowd, mob|03526
+gerencia|management|03532
+gestión|management, procedure|03537
+gigante|giant|03539
+gimnasia|gymnastics|03540
+ginebra|gin|03541
+ginecología|gynecology|03542
+gira|tour|03543
+girar|to turn, twist|03544
+girasol|sunflower|03545
+giratorio/ria|revolving|03546
+giro|turn|03547
+giroscopio|gyroscope|03548
+gitano/a|gypsy|03549
+glasear|to glaze|03553
+gliserina|glycerin|03554
+glóbulo|blood cell|03556
+glorieta|bower|03558
+gobernar|to govern|03563
+goce|enjoyment|03564
+golfo|gulf|03567
+golondrina|swallow|03568
+golosina|sweet, candy|03569
+golpe|blow|03570
+goma|rubber, glue|03571
+gordo/a|fat, plump|03572
+gorjear|to chirp|03574
+gorra|cap|03575
+gorrear|to bum|03576
+gorrión|sparrow|03577
+gorro|cap|03578
+gota|drop, gout|03579
+gótico/a|gothic|03580
+gozar|to enjoy|03581
+gozo|joy|03582
+grabar|to record|03583
+grada|step, stair|03585
+gráfico/a|graph|03587
+gragea|pill, tablet|03588
+grande|big, great|03591
+granero|barn, granary|03592
+granizar|to hail|03594
+granja|farm|03595
+grano|grain|03596
+grasa|grease, fat|03597
+gratificación\ciones|bonus, gratification|03598
+gratis|free|03599
+grato/a|pleasant|03601
+gratuito/a|free, gratuitous|03602
+gravar|to burden|03603
+gremio|guild, union|03604
+griego/a|greek|03605
+grieta|crack|03606
+grillo|cricket|03607
+gringo/a|gringo, yankee|03608
+gripe|flu|03609
+gris|gray|03610
+gritar|to shout, scream|03611
+grosería|vulgar, gross|03612
+grúa|crane, derrick|03614
+grueso/a|thick|03615
+gruñir|to growl, grunt|03616
+grupo|group|03617
+guacamayo|macaw|03618
+guagua|baby|03620
+guante|glove|03621
+guapo/a|handsome, good-looking|03622
+guarani|guarani, language of paraguay|03623
+guarda|keeper, custodian|03624
+guardabarros|mudguard, fender|03625
+guardabosque|forest ranger|03626
+guardacostas|coastguard, vessel|03627
+guardaespaldas|bodyguard|03628
+guardameta|goalkeeper|03629
+guardapolvo|cover, overalls|03630
+guardar|to keep|03631
+guardarropa|wardrobe, cloakroom|03632
+guardería|nursery|03633
+guayaba|guava|03635
+gubernamental|governmental|03636
+guerra|war|03637
+guiar|to guide|03638
+guinda|morello|03639
+guiñar|to wink|03640
+guión|script|03641
+guisado|stew|03642
+guisante|pea|03643
+guisar|to cook|03644
+gusano|worm|03646
+gustar|to taste, like|03647
+haba|broad bean|03648
+habanero/a|havanan|03649
+haber|to have, has|03650
+habichuela|bean|03651
+hábil|able, skillful, clever|03652
+habilitar|to equip, furnish|03653
+habitar|to inhabit, reside|03654
+hablar|to speak, talk|03656
+hacedor/dora|maker|03657
+hacendado/a|landowner, rancher|03658
+hacer|to do, make|03659
+hacha|hatchet, ax|03660
+hacia|towards|03661
+hacienda|property, ranch|03662
+hada|fairy|03663
+halagar|to flatter|03664
+halcón|hawk, falcon|03665
+hallar|to find, discover|03666
+hamaca|hammock|03667
+hambre|hunger|03668
+haragán/gana|lazy|03670
+harina|flour|03671
+hasta|until, even|03672
+hazaña|feat|03673
+hechizo|spell, charm|03675
+hecho/cha|fact|03676
+helar|to freeze|03677
+hembra|female|03679
+heno|hay|03683
+heredar|to inherit|03686
+herencia|inheritance|03687
+herir|to hurt|03688
+hermano/a|brother|03689
+hermanastro/a|stepbrother|03690
+hermoso/a|beautiful|03692
+herradura|horseshoe|03694
+herramienta|tool|03695
+herrero/a|blacksmith|03696
+hervir|to boil|03697
+híbrido/a|hybrid|03702
+hidratante|moisturizing|03703
+hidráulico/a|hydraulic|03704
+hidroavión\aviones|hydroplane|03705
+hidroeléctrico/a|hydroelectric|03706
+hidrofobia|rabies|03707
+hidrógeno|hydrogen|03708
+hidroplano|hydroplane|03709
+hiel|bile|03710
+hielo|ice|03711
+hierba|grass|03712
+hierro|iron|03713
+hígado|liver|03714
+higiene|hygiene|03715
+higo|fig|03716
+hijo/a|son, daughter|03717
+hilar|to spin|03718
+hilera|file, row|03719
+hilo|thread|03720
+himno|hymn|03721
+hinchar|to swell|03722
+hiperactivo/a|hyperactive|03724
+hipersensible|hypersensible|03725
+hipertensión\siones|hypertension|03726
+hipnosis|hypnosis|03727
+hipnotismo|hypnotism|03728
+hipo|hiccup|03729
+hipocrecía|hypocrisy|03731
+hipodérmico/a|hypodermic|03732
+hipódromo|racetrack|03733
+hipopótamo|hippopotamus|03734
+hipoteca|mortgage|03735
+hipótesis|hypothesis|03736
+hirviente|boiling|03737
+histeria|hysteria|03739
+hoja|leaf|03742
+hola|hello|03743
+holandés/desa|dutch|03744
+hombre|man|03746
+hombría|manliness|03747
+hombro|shoulder|03748
+homenaje|tribute, homage|03749
+homicidio|homicide, murder|03751
+hondo/a|deep|03756
+honesto/a|honest, decent|03758
+hongo|fungus, mushroom|03759
+hora|hour|03761
+horario|schedule, timetable|03762
+hormiga|ant|03764
+hormiguero|anthill|03765
+horno|oven|03767
+hortaliza|vegetable|03772
+hospedar|to lodge, put up|03774
+hostería|small hotel, inn|03776
+hostigar|to harass, whip|03778
+hoy|today|03781
+hoyo|hole|03782
+hueco/a|hollow|03783
+huelga|work strike|03784
+huella|footprint|03785
+huérfano/a|orphan|03786
+huerta|truck farm, orchard|03787
+hueso|bone|03788
+huésped/peda|guest|03789
+huesudo/a|bony|03790
+huevo|egg|03791
+huida|flight, escape|03792
+huir|to flee, escape|03793
+humear|to smoke|03795
+humedad|humidity|03796
+humo|smoke|03798
+hundir|to sink|03800
+hundido/a|sunk|03801
+hundimiento|sinking, collapse|03802
+húngaro/a|hungarian|03803
+huracán|hurricane|03804
+ida|outward journey|03808
+idioma|language|03813
+idóneo/nea|suitable|03817
+iglesia|church|03818
+iglú|igloo|03819
+igual|equal|03821
+iguladad|equality|03822
+ilegal|illegal|03824
+ilegible|illegible|03825
+ilegítimo/a|illegitimate|03826
+ileso/a|unharmed|03827
+ilícito/a|illicit|03828
+ilimitado/a|limitless|03829
+ilógico/a|illogical|03830
+iluminar|to illuminate|03831
+ilusionar|to excite|03832
+iluso/a|gulible, naive|03833
+ilustrar|to illustrate|03834
+ilustre|it illustrates|03835
+imán|magnet|03838
+imbécil|stupid, idiot|03839
+impar|odd number|03843
+impartir|to distribute, impart|03845
+impedir|to prevent|03847
+impenitente|unrepentant|03849
+imperdonable|unforgivable|03852
+impermeable|raincoat, waterproof|03853
+implicar|to imply, implicate, involve|03859
+imponer|to impose, command|03862
+impopular|unpopular|03863
+importe|price, amount|03869
+impredecible|unpredictable|03876
+imprenta|printing|03878
+imprescindible|essential|03879
+impreso/a|printed, form|03883
+imprimir|to print|03884
+improductivo/a|unproductive|03887
+impúdico/a|shameless|03892
+impuesto|tax|03893
+impugnar|to challenge|03894
+impulsar|to propel, drive|03895
+inaceptable|unacceptable|03898
+inadaptado/a|maladjusted|03900
+inalámbrico/a|wireless|03903
+inapreciable|inperceptible|03906
+incautar|to seize, confiscate|03911
+incertidumbre|uncertainty|03913
+incienso|incense|03915
+incierto/a|uncertain|03916
+incitar|to incite, rouse|03918
+incivilizado/a|uncivilized|03919
+incógnito/a|incognito, unknown|03923
+incoloro/a|colorless|03925
+incombustible|fireproof|03926
+incomible|inedible|03927
+imcomprendido/a|misunderstood|03932
+incomunicado/a|isolated|03933
+inconcluso/a|unfinished|03935
+incondicional|unconditional|03936
+inconfundible|unmistakable|03937
+inconsciente|unconscious|03939
+inconsistente|flimsy|03942
+inconstitucional|unconstitutional|03945
+incontable|countless|03946
+incontestable|indisputable|03947
+incrustar|to inlay, set|03956
+incuestionable|unquestionable|03959
+inculcar|to instill|03960
+inculpar|to accuse|03961
+inculto/a|uneducated|03962
+incumplimiento|breach, noncompliance|03963
+incursión\siones|raid|03966
+indagar|to investigate|03967
+indebido/a|undue|03968
+indecible|unexpressible|03970
+indefenso/a|defenseless, helpless|03972
+indemnizar|to compensate, indemnify|03974
+indeseable|undesirable|03978
+índice|index|03980
+indígena|native, indigenous|03982
+indirecta|hint|03986
+indisponer|to upset, make ill|03991
+inédito/a|unpublished|04003
+inefable|indescribable, inexpressible|04004
+inequivoco/a|unequivical|04009
+inesperado/a|unexpected|04012
+inexistente|nonexistent|04014
+infancia|childhood|04019
+infarto|heart attack|04020
+infatigable|tireless|04021
+infeliz\lices|unhappy|04025
+informal|unreliable, informal|04038
+informe|report|04040
+infortunado/a|unfortunate|04041
+infortunio|misfortune|04042
+infrahumano/a|subhuman|04045
+infundado/a|unfounded, baseless|04049
+infundir|to instill, infuse|04050
+ingeniar|to invent, think up|04051
+ingeniería|engineering|04052
+ingeniero/a|engineer|04053
+ingenuidad|naivete, ingenuousness|04055
+inglés/glesa|english|04057
+ingrato|ungrateful|04058
+ingresar|to enter, join|04060
+inhabitable|uninhabitable|04061
+inhumano/a|cruel, inhuman|04065
+inigualado/a|unequaled|04067
+ininterrumpido/a|uninterrupted|04068
+injerirse|to interfere|04069
+injuriar|to insult|04070
+inmaculado/a|immaculate|04072
+inmaduro/a|immature|04073
+inmediato/a|immediate|04074
+inmenso/a|immense|04075
+inmigrar|to immigrate|04076
+inmobiliario/ria|real estate|04077
+inmoral|immoral|04078
+inmortal|immortal|04079
+inmóvil|immovable, motionless|04080
+inmueble|building, property|04081
+inmunizar|to immunize|04082
+innecesario/ria|unnecessary|04083
+inocencia|innocence|04086
+inocent|innocent|04087
+inocuo/cua|innocuous|04088
+inodoro/a|toilet, odorless|04089
+inolvidable|unforgettable|04090
+inoxidable|stainless, rustproof|04093
+inquilino/a|renter, tenant|04094
+insalubre|unhealthy|04096
+insatisfecho/cha|unsatisfied|04097
+inscribir|to register, enroll|04098
+inseguro/a|insecure, uncertain|04100
+insensato/a|senseless|04101
+insignia|standard, badge|04105
+insolación\ciones|insolation, sunstroke|04108
+insospechado/a|unsuspected, unexpected|04111
+instancia|request|04116
+instaurar|to establish|04118
+intempestivo/a|untimely|04137
+intentar|to try|04140
+intercambio|exchange|04141
+intercambiar|to exchange, trade|04142
+interior|interior, inner|04147
+internar|to commit, confine|04156
+intervenir|to take part|04165
+intimar|to become friendly|04167
+intoxicar|to intoxicate, poison|04171
+intrascendente|insignificant, unimportant|04172
+intrépido/a|intrepid, fearless|04174
+intuir|to intuit, sense|04178
+inundar|to flood|04179
+inútil|useless|04180
+invalidez\deces|dissability, invadility|04182
+invencible|invincible|04185
+invernal|winter|04188
+inverso/a|inverse, opposite|04190
+invertir|to invert, reverse|04193
+invicto/a|undefeated|04197
+invierno|winter|04198
+inyectar|to inject|04203
+inyección\ciones|injection|04204
+ir|to go|04206
+ira|rage, anger|04207
+irlandés/desa|irish|04211
+irradiar|to radiate, irradiate|04213
+irrazonable|unreasonable|04214
+irreconocible|unrecognizable|04215
+irrecuperable|non-recoverable, irretrievable|04216
+irreflexivo/a|unthinking, rash|04218
+irrespetuoso/a|disrespectful|04223
+irrumpir|to burst into|04229
+islandés/desa|icelandeic|04232
+isleño/a|islander|04233
+izar|to hoist|04237
+izquierda|left|04238
+jabalí|wild boar|04239
+jabalina|javelin|04240
+jabón|soap|04241
+jactarse|to boast, brag|04242
+jadear|to pant|04243
+jalar|to pull|04245
+jalea|jelly|04246
+jamás|never|04247
+jamón|ham|04248
+japonés/nesa|Japanese|04249
+jaque|check, checkmate|04250
+jaqueca|headache, migraine|04251
+jarabe|syrup|04252
+jardín\dines|garden|04253
+jarra|pitcher, jug|04254
+jaula|cage|04255
+jauría|pack of hounds|04256
+jazmín|jasmine|04257
+jefe/a|chief, leader, boss|04260
+jengibre|ginger|04261
+jerarquía|hierarchy, rank|04262
+jerez|sherry|04263
+jeringa|syringe|04264
+jeroglífico|hieroglyphic|04265
+jesús|jesus|04267
+jinete|rider, horseman|04268
+jirafa|giraffe|04269
+joroba|hump|04270
+joven|young person|04271
+jovial|jovial, cheerful|04272
+joya|jewel|04273
+jubilación\ciones|retirement|04274
+júbilo|joy, jubilation|04275
+judía|bean|04277
+judío/a|jewish|04279
+juego|game, playing|04281
+juerga|spree, binge|04282
+jueves|Thursday|04283
+juez|judge, referee|04284
+jugar|to play, gambler|04285
+juglar|minstrel|04286
+jugo|juice|04287
+juguete|toy|04288
+juicio|judgment, sense|04289
+julio|July|04290
+junio|June|04292
+juntar|to join, unite|04293
+júpiter|jupiter|04294
+jurar|to swear|04295
+jurídico/a|legal|04296
+justo|just, fair|04301
+juvenil|youthful|04302
+juzgar|to judge|04303
+juzgado|court|04304
+kilometraje|distance in kilometers|04308
+laberinto|labyrinth|04311
+labio|lip|04312
+labor|work, labor|04313
+labrar|to work, cultivate, till|04314
+laca|hair spray|04315
+lacra|scar|04316
+lacrimógeno|tear gas|04317
+lácteo/tea|dairy, milky way|04318
+lado|side|04319
+ladrar|to bark|04320
+ladrillo|brick|04321
+ladrón/drona|thief|04322
+lagarto|lizard|04323
+lago|lake|04324
+lágrima|tear|04325
+laguna|lagoon|04326
+lamentar|to be sorry, regret|04327
+lamer|to lick|04328
+lámina|sheet|04329
+lampiño/a|beardless, hairless|04331
+lana|wool|04332
+lancha|boat, launch|04333
+langosta|lobster, locust|04334
+lanza|spear, lance|04335
+lanzar|to throw|04336
+lapicero|mechanical pencil, pen|04337
+lápida|tombstone|04338
+lápiz|pencil|04339
+largar|to release, go away|04341
+laringe|larynx|04342
+lastimar|to hurt|04345
+lateral|lateral, side|04347
+latido|beat, throb|04348
+látigo|whip|04349
+latir|to throb, beat|04352
+latoso/a|annoying|04354
+lavar|to wash|04355
+lazo|bond, lasso, link|04357
+leal|loyal|04358
+lección|lesson|04359
+leche|milk|04360
+lechoso/a|milky|04361
+lechuga|lettuce|04362
+lector/tora|reader|04363
+leer|to read|04364
+legítimo/a|legitimate, authentic|04374
+legua|league|04375
+legumbre|vegetable|04376
+lejano/a|distant, far away|04377
+lejía|lye|04378
+lejos|far|04379
+lencería|lingerie|04380
+lengua|language, tongue|04381
+lenguaje|language|04382
+lente|lens, eye-glasses|04383
+leña|firewood|04385
+león/ona|lion|04386
+lerdo/a|clumsy, slow-witted|04389
+lesión|wound, lesion|04391
+letal|lethal|04392
+letra|letter, handwritting, lyrics|04393
+leucemia|leukemia|04394
+levadura|yeast, baking powder|04395
+levantar|to lift, raise|04396
+leve|light, slight|04397
+ley|law|04398
+libanés/nesa|lebanese|04399
+libélula|dragonfly|04400
+liberar|to liberate, free|04403
+libertad|freedom|04404
+libertinaje|licentiousness|04405
+libra|pound|04407
+librar|to free|04408
+libre|free|04409
+libro|book|04410
+licencia|license, permission|04411
+licor|liquor|04412
+licuadora|mixer|04413
+líder|leader|04414
+liebre|hare|04415
+lienzo|linen cloth, canvas|04416
+liga|league|04417
+lígero/a|light|04418
+ligeramente|slightly|04419
+lija|sandpaper|04420
+lima|lime, nail file|04422
+limón\mones|lemon|04425
+limosna|alms|04426
+limpiar|to clean, wipe|04427
+limusina|limousine|04428
+lindo/a|pretty, lovely|04429
+linterna|lantern, flash-light|04432
+lírico/a|lyric, lyrical|04433
+liso/a|smooth, flat, plain|04434
+listo/a|ready, clever, smart|04436
+lisura|smoothness|04437
+litoral|coastal, shore, seabord|04440
+litro|liter|04441
+liviano/a|light|04443
+llaga|sore, wound|04444
+llama|flame, llama|04445
+llamar|to call, phone|04446
+llano|plain, flat, straightforward|04447
+llanta|rim, tire|04448
+llanto|weeping, crying|04449
+llave|key|04450
+llegar|to arrive, come|04451
+llenar|to fill|04452
+llevar|to take, carry|04453
+llorar|to cry, weep|04454
+llover|to rain|04455
+lluvia|rain|04456
+lobo/a|wolf|04457
+lóbulo|lobe|04458
+local|premises, local|04459
+loco/a|crazy, insane|04460
+locución\ciones|expression|04462
+locura|madness, insanity, folly, crazy act|04463
+locutor/tora|announcer|04464
+lodo|mud|04465
+lograr|to obtain, achieve, get|04469
+loma|hill, hillock|04470
+lomo|back|04471
+lona|canvas|04472
+lonche|lunch|04473
+longitud|length, longitude|04475
+loro|parrot|04476
+los/las|the|04477
+losa|slab, flagstone|04478
+lotería|lottery|04479
+loza|stoneware, crockery, earthenware|04480
+lucero|bright star|04482
+luchar|to fight,struggle|04483
+luciérnaga|firefly, glowworm|04485
+lucir|to shine|04486
+luego|then, later|04488
+lugar|place|04489
+lujo|luxury|04490
+lujuria|lust|04491
+luminoso/a|luminous, shining|04492
+luna|moon|04493
+lunes|monday|04494
+lupa|magnifying glass|04495
+lustrar|to shine, polish|04496
+luto|mourning|04497
+luz|light, lighting|04498
+maceta|flowerpot|04501
+macho|male|04503
+machucar|to crush, beat|04504
+madera|wood|04505
+madre|mother|04506
+madrastra|stepmother|04507
+madrina|godmother, bridesmaid|04508
+madurar|to mature, ripen|04509
+maestría|mastery, skill|04510
+magnate|tycoon, magnate|04513
+magnesia|the magnesia|04514
+mago/a|magician|04519
+maicena|cornstarch|04520
+maíz|corn|04521
+majestad|Majesty|04522
+majo/a|nice, good-looking|04523
+mal|badly, poorly, incorrectly|04524
+malabarismo|juggling|04525
+malaventura|misfortune|04528
+malcriado/a|spoiled|04530
+maldad|evil|04531
+maldecir|to curse, damn|04532
+maleante|crook|04533
+malentendido|misunderstanding|04534
+maleta|suitcase|04535
+maleza|weeds, underbrush|04536
+malgastar|to squander, waste|04537
+malhechor/chora|criminal|04538
+malhumorado/a|bad-tempered|04539
+malla|mesh|04542
+malo/a|bad|04543
+malograr|to waste, fail|04544
+maloliente|smelly|04545
+maltratar|to mistreat|04547
+malvado/a|evil, wicked|04548
+mama|teat, breast|04549
+mamá|mother, mom|04550
+mamar|to suck|04551
+manada|herd|04554
+manchar|to stain|04555
+mandar|to command|04556
+mandíbula|jaw|04558
+mandil|apron|04559
+mandón/dona|bossy|04561
+manejar|to handle|04562
+manera|way, manner|04563
+manga|sleeve|04564
+mango|handle|04565
+manguera|hose|04566
+maní|peanut|04567
+manía|odd habit|04568
+maniático/a|fussy, fanatic|04569
+manicomio|insane asylum|04570
+manifestar|to declare|04572
+maniobra|maneuver|04573
+maniquí\quíes|dummy|04575
+manjar|delicacy|04576
+mano|hand|04577
+manso/a|gentle|04579
+manta|blanket|04580
+manteca|butter|04581
+mantel|tablecloth|04582
+mantener|to maintain|04583
+mantequilla|butter|04584
+manutención\ciones|maintenance|04589
+manzana|apple|04590
+mañana|tomorrow|04591
+mapa|map|04592
+mapache|raccoon|04593
+maqueta|scale model|04594
+máquina|machine|04595
+mar|sea|04596
+maravilla|wonder|04598
+marca|it marks|04599
+marcapasos|pacemaker|04600
+marcar|to mark|04601
+marco|frame|04604
+marea|tide, make dizzy|04605
+maremoto|tidal wave|04606
+mareo|nausea|04607
+marfil|ivory|04608
+margarita|daisy|04610
+marina|navy, coast|04615
+marinero/a|sailor|04616
+marioneta|puppet|04617
+mariposa|butterfly|04618
+mariquita|ladybug|04619
+marisco|seafood|04620
+mármol|marble|04622
+marrano/a|pig|04624
+marrón\rrones|brown|04625
+marroquí|Moroccan|04626
+marte|Mars|04628
+martes|Tuesday|04629
+martillo|hammer|04630
+marzo|March|04633
+mas|but (más is more)|04634
+más|more, most|04635
+masacre|massacre|04636
+masaje|massage|04637
+mascar|to chew|04638
+máscara|mask|04639
+masilla|putty|04642
+masivo/a|massive|04643
+masoquismo|machoism|04644
+masticar|to chew|04645
+matamoscas|flyswatter|04648
+matar|to kill|04649
+matemáticas|mathematics|04650
+materia|matter|04651
+matrícula|register|04655
+matrimonial|married|04656
+matrimonio|marriage|04657
+matutino/a|morning|04658
+maullar|to meow|04659
+maxilar|jaw|04660
+maya|Mayan|04663
+mayo|May|04664
+mayor|greater|04666
+mayoría|majority|04667
+mayorista|wholesaler|04668
+mayúscula|capital letter|04669
+mazmorra|dungeon|04670
+mecánica|mechanics|04671
+mecanismo|mechanism|04672
+mecanografiar|to type|04673
+mecedora|rocking chair|04674
+mecer|to rock|04675
+mecha|wick|04676
+mediado/a|half-full|04679
+medianoche|midnight|04682
+mediante|by means of|04683
+medición\ciones|measurement|04685
+médico/a|doctor|04686
+medida|measurement|04687
+medio/dia|means|04689
+mediodía|noon|04691
+medioevo|middle ages|04692
+medir|to measure|04693
+medusa|jellyfish|04696
+mejilla|cheek|04699
+mejor|better|04700
+mejorar|to improve|04701
+melaza|molasses|04703
+melena|long hair|04704
+mellizo/a|twin|04705
+melocotón\tones|peach|04706
+membrillo|quince|04711
+mendigar|to beg|04715
+menor|minor|04717
+menos|less|04718
+mensaje|message|04719
+menso\sa|stupid|04720
+mensual|monthly|04723
+menta|mint|04725
+mente|mind|04728
+mentir|to lie|04729
+mentol|menhol|04730
+menú|menu|04731
+meñique|pinkie|04732
+mercado|market|04733
+merecer|to deserve|04737
+mes|month|04740
+mesa|table|04741
+mesías|messiah|04742
+mesura|moderation|04743
+meta|it puts|04744
+meter|to put, insert|04751
+método|method|04753
+metro|meter|04755
+mexicano/a|Mexican|04756
+mezcla|mixture|04757
+mezquita|mosque|04758
+mezquite|mesquite|04759
+mi\mis|my, not me|04760
+mí|me, not my|04761
+microbús\buses|minibus|04764
+miedo|fear|04769
+mientras|while|04770
+miércoles|Wednesday|04771
+mil|thousand|04775
+milagro|miracle|04776
+milenio|millenium|04777
+milésimo/a|thousandth|04778
+miligramo|milligram|04779
+mililitro|milliliter|04780
+milímetro|millimeter|04781
+millar|thousand|04784
+mimar|to mimar, pamper|04785
+mimo|pampering|04787
+mina|mine|04788
+minería|mining|04790
+minimizar|to diminish|04793
+minino/a|pussycat|04795
+minorista|retailer|04799
+minúsculo/a|minuscule|04801
+mío/a|mine|04803
+miope|myopic, nearsighted|04804
+mirar|to watch|04805
+misa|mass|04806
+misericordia|mercy|04809
+misil|missile|04811
+misión\siones|mission|04812
+misionero/a|missionary|04813
+mismo|same|04814
+misterio|mystery|04815
+mitad|half|04817
+mito|myth|04818
+mixto/a|compound, mixed|04819
+mobiliario|furniture|04820
+mocasín\sines|moccasin|04821
+mochila|knapsack, backpack|04822
+moco|snot, mucus|04823
+moda|fashion|04824
+modismo|idiom|04831
+modista|dressmaker|04832
+modo|way, manner, mode|04833
+moho|mould, rust|04836
+moíses\seses|cradle, bassinet|04837
+mojar|to wet|04838
+moler|to grind|04842
+molestar|to bother|04843
+molido/a|ground|04844
+molino|mill|04845
+molusco|mollusk|04846
+momia|mummy|04850
+mondadientes|toothpick|04853
+mondongo|innards, guts|04854
+moneda|currency, coinage, coin|04855
+monja|nun|04858
+mono/a|monkey|04859
+monopatín\tines|scooter|04864
+monóxido|carbon monoxide|04869
+montar|to mount, ride|04872
+monte|mountain, hill|04873
+montículo|knoll|04874
+montón|pile, heap|04875
+montura|mount|04876
+moño|hair bun|04878
+mora|mulberry, blackberry|04879
+morada|residence|04880
+morar|to dwell, reside|04882
+morder|to bite|04883
+mordisquear|to nibble|04884
+moreno/a|dark skin|04885
+moretón\tones|bruise|04886
+morfina|morphine|04887
+morir|to die|04888
+mortífero/a|deadly|04891
+mosca|fly|04894
+mostaza|mustard|04896
+mostrador|counter|04897
+mostrar|to show|04898
+mota|speck|04899
+motín|riot, revolt|04901
+motivo|reason|04902
+mover|to move, stir|04905
+móvil|mobile|04906
+movimiento|movement, motion|04907
+mozo/a|young man, waiter|04908
+muchacho/cha|boy|04909
+muchedumbre|crowd, mass|04910
+mucosidad|mucus|04912
+mudo|mute|04913
+mueble|furniture|04914
+mueca|face, grimace|04915
+muela|tooth|04916
+muelle|wharf|04917
+muerte|death|04918
+muestra|sample|04919
+mugre|dirt, grime|04920
+mujer/jeres|woman, women|04921
+muleta|crutch, prop|04923
+multa|fine, penalty|04924
+mundo|world|04931
+municiones|ammunition|04932
+municipal|policeman, municipal|04933
+muñeca|wrist, doll|04934
+mural|mural, wall|04935
+murciélago|bat|04936
+muro|wall|04939
+musaraña|shrew|04940
+músculo|muscle|04941
+musgo|moss|04943
+música|music|04944
+muslo|thigh|04945
+musulmán/mana|muslim|04946
+mutuo/tua|mutual, reciprocal|04948
+muy|very, highly|04949
+nabo|turnip|04950
+nácar|mother of pearl|04951
+nacer|to be born|04952
+nada|nothing|04954
+nadar|to swim|04955
+nadie|nobody, no-one|04956
+naipe|playing card|04957
+nalgas|buttocks, rumps|04958
+nana|granny,lullaby|04959
+naranja|orange|04960
+narciso|narcissus, daffodil|04961
+nariz\rices|nose|04963
+narrar|to narrate, tell|04964
+nata|cream, skim|04966
+natación\ciones|swimming|04967
+natal|native, birth, natal|04968
+natillas|custard|04969
+natividad|nativity, birth|04970
+naufragar|to be shipwrecked|04975
+náutico/a|navigation, nautical|04977
+navaja|knife|04978
+nave|ship|04980
+navegar|to sail|04981
+navegable|navigable|04982
+navegación\ciones|navigation|04983
+navidad|Christmas|04984
+nazi|Nazi|04985
+neblina|fog, mist|04986
+nebuloso/a|cloudy, nebulous|04987
+necedad|nonsense, silliness|04988
+necesidad|necessity,need|04991
+necio/cia|fool, silly, stupid|04992
+negar|to deny|04995
+negro/gra|black|04998
+nene/a|baby|04999
+neptuno|Neptune|05001
+neumático|pneumatic, tire|05003
+neumonía|pneumonia|05004
+nevar|to snow|05009
+nevera|refrigerator|05010
+ni|nor, neither|05011
+nido|nest|05015
+niebla|fog|05016
+nieto/a|grandson, granddaughter|05017
+nieve|snow|05018
+nigeriano/a|Nigerian|05019
+ninfa|nymph|05020
+ninguno/a|no, none, nobody, no one|05021
+niño/a|boy, girl|05022
+nipón/pona|Japanese|05023
+níquel|nickel|05024
+nítido/a|clear, bright|05025
+nivel|level|05028
+noche|night|05031
+nombrar|to name|05033
+nonagésimo/a|nineteenth|05035
+noreste|the northeast|05036
+noroeste|the northwest|05038
+norteamericano/a|North American|05040
+noruego/a|Norwegian|05042
+nosotros/tras|we|05043
+nota|note|05045
+noticia|the news|05047
+notorio|well-known, notorious|05049
+novato/a|novice|05050
+novecientos/tas|nine hundred|05051
+novedad|newness, novelty|05052
+noveno/a|ninth|05055
+noventa|ninety|05056
+noviazgo|engagement|05057
+novicio/cia|novice, beginner, apprentice|05058
+noviembre|November|05059
+novio/via|boyfriend, girlfriend, fiance, fiancee|05060
+nube|cloud|05061
+nuca|nape of the neck|05062
+núcleo|nucleus|05063
+nudillo|knuckle|05064
+nudo|knot, node|05066
+nuera|daughter-in-law|05067
+nuestro/tra|ours|05068
+nuevamente|again|05069
+nueve|nine|05070
+nuevo/a|new|05071
+nuez|nut|05072
+nulo/a|null|05073
+numerar|to number|05074
+nunca|never|05077
+nutria|otter|05079
+nutrir|to nourish|05080
+o|or|05081
+obedecer|to obey|05083
+obispo|bishop|05088
+obligar|to force, oblige|05092
+obra|work|05093
+obsequiar|to flatter, present|05094
+obsequio|present, gift|05095
+obstaculizar|to prevent|05100
+obstante|however, nevertheless|05101
+obtener|to obtain, get|05106
+obviar|to avoid, obviate|05108
+ocasión\siones|occasion|05111
+ocaso|decline|05112
+occidente|the West|05113
+ochenta|eighty|05115
+ocho|eight|05116
+ocio|leisure, idleness|05117
+octava|eighth|05119
+octeto|byte|05120
+octogésimo|eightieth|05121
+octubre|october|05122
+ocultar|to hide|05123
+ocupar|to occupy|05124
+ocupación\ciones|occupation|05125
+ocupado/a|occupied, busy|05126
+ocurrir|to happen|05127
+odiar|to hate|05128
+odontología|dentist, odonology|05129
+odontólogo/a|dentistry|05130
+oeste|the west|05131
+ofender|to offend|05132
+oferta|supply, offer|05133
+oficial|official|05134
+oficina|office|05135
+oficio|office|05136
+ofrecer|to offer|05137
+ofrenda|offering|05138
+oftalmología|ophtalmology|05139
+oftalmólogo/a|ophtalmologist|05140
+oír|to hear|05141
+ojal|eyelet|05142
+ojo|eye|05143
+ola|wave|05144
+olé|bravo|05145
+oleada|big wave|05146
+oler|to smell|05147
+olfatear|to sniff, smell|05148
+olimpiada|olympiad|05149
+olor|scent, smell, odor|05151
+olvidar|to forget|05152
+ombligo|navel|05153
+omóplato|shoulder blade|05159
+once|eleven|05160
+onceavo|eleventh|05161
+onda|wave|05162
+onza|ounce|05163
+opaco/a|opaque|05164
+opinar|to think|05169
+oriental|eastern|05170
+orilla|edge, border|05177
+orinar|to urinate|05178
+oriundo/a|native|05179
+oro|gold|05182
+orquesta|orchestra|05183
+orquídea|orchid|05184
+ortiga|nettle|05185
+ortodoxia|orthodoxy|05186
+ortografía|spelling|05187
+ortopedia|orthopedics|05188
+ortopédico/a|orthopedic|05189
+oruga|caterpillar|05190
+orzuelo|sty|05191
+oscuro/a|dark, obscure|05192
+óseo/sea|bony, osseous|05193
+oso/a|bear|05194
+ostra|oyster|05196
+otoño|autumn, fall|05197
+otorgar|to grant, award|05198
+otro/tra|another, other|05199
+oveja|sheep|05202
+ovni|ufo|05203
+oxidar|to oxidize, rust|05206
+oxígeno|oxygen|05207
+oyente|listener|05208
+pabellón|pavilion, block|05210
+pabilo|wick|05211
+pacto|pact, agreement|05214
+padecer|to suffer|05215
+padre|father|05216
+paga|wages, pay|05218
+pagar|to pay|05220
+página|page|05221
+pago|payment|05222
+país|country, nation|05223
+paja|straw|05224
+pájaro|bird|05225
+pajita|drinking straw|05226
+pala|shovel, spade|05227
+palabra|word|05228
+paladar|taste, palate|05230
+palanca|handle, lever, crowbar|05231
+palco|theater box|05232
+pálido/a|pale|05234
+palillo|small stick, toothpick|05235
+paliza|beating|05236
+palo|stick|05238
+paloma|dove, pigeon|05239
+palpar|to feel, touch|05240
+palpitar|to beat, palpitate|05241
+palta|avocado|05242
+paludismo|malaria|05243
+pan|bread|05245
+panadería|bakery|05246
+panal|honeycomb|05247
+pancito|bread roll|05249
+pandilla|gang|05251
+panecillo|bread roll|05252
+panel|panel, plywood|05253
+panfleto|pamphlet, lampoon|05254
+panqueque|pancake|05257
+pantalla|screen|05258
+pantalón\lones|pants, trousers|05259
+pantano|marsh, swamp|05260
+pantorrilla|calf of leg|05264
+pantufla|slipper|05265
+panza|belly, paunch|05266
+pañal|diaper|05267
+paño|cloth|05268
+pañuelo|handkerchief|05269
+papa|potato, pope|05270
+papagayo|parrot|05271
+paquete|package|05274
+paquistaní|pakastini|05275
+par|pair, couple|05276
+para|for, towars, stop|05277
+parabrisas|windshield|05279
+parachoques|bumper|05280
+parada|stop, parade|05281
+paraguas|umbrella|05284
+parar|to stop, stand|05291
+pararrayos|lightning rods|05292
+parecer|to seem|05295
+pared|wall|05296
+parentela|relatives|05297
+pariente|relative|05299
+parir|give birth, have a baby|05300
+parlotear|to chatter|05302
+párpado|eyelid|05304
+parque|park|05305
+parquear|to park|05307
+parquímetro|parking meter|05308
+párrafo|paragraph|05309
+parrilla|grill|05310
+párroco|priest, parish|05311
+partero/a|midwife|05313
+partición\ciones|division, sharing|05314
+particular|particular, private|05317
+partir|to start off, depart, slipt, divide|05318
+partitura|score|05319
+parto|childbirth|05320
+pasada|happened, pass|05321
+pasaje|passage|05322
+pasamanos|handrails|05323
+pasaporte|passport|05324
+pasar|to happen, pass|05325
+pasarela|footbridge|05326
+pasatiempo|pastime, hobby|05327
+pascua|passover, easter|05328
+pase|pass|05329
+pasear|to take a walk, go for a ride|05330
+pasillo|corridor, passage|05331
+pasión\siones|passion|05332
+pasivo/a|liabilities, passive|05333
+pasmar|to astonish|05334
+paso|step|05335
+pastel|pie, cake|05337
+pastilla|tablet, pill|05339
+pata|leg|05340
+patata|potato|05341
+patear|to kick|05342
+patético/a|pathetic|05345
+patillas|sideburns|05346
+patinar|to slide|05347
+patinador/dora|skater|05348
+patinaje|skating|05349
+pato/a|duck|05351
+patología|pathology|05352
+patria|mother country|05353
+patrocinador/dora|sponser|05358
+patrón/trona|pattern|05359
+pausa|it slows down|05361
+pavimento|pavement|05362
+pavo/a|turkey|05363
+pavor|terro|05364
+payaso/a|clown|05365
+paz|peace|05366
+peaje|toll|05367
+peatón\tones|pedestrian|05368
+peca|freckle|05369
+pecado|sin|05370
+pecador/dora|sinner|05371
+pecaminoso/a|sinful|05372
+pecar|to sin|05373
+pecera|fishbowl|05374
+pecho|chest|05375
+pecoso/a|freckled|05376
+pedagogía|education|05380
+pedazo|piece, bit|05383
+pedir|to request, ask for|05387
+pegar|to glue, stick|05388
+peinar|to comb|05389
+pelado/a|bare|05390
+pelar|to peel|05391
+peldaño|step|05392
+pelear|to fight|05393
+película|film, movie|05395
+peligro|danger|05396
+pelirrojo/a|red-haired|05397
+pellejo|skin, hide|05398
+pellizcar|to tweak, pinch|05399
+pelo|hair|05400
+pelota|ball|05401
+peluca|wig|05402
+peluche|plush|05403
+peludo/a|hairy|05404
+peluquería|hairdressing salon|05405
+pelusa|fuzz|05406
+pena|pain, penalty|05408
+penal|penitentiary, prison|05409
+penar|to suffer, punish|05411
+pene|penis|05413
+penitencia|penance, penitence|05417
+penoso/a|painful, distressing|05418
+pensar|to think|05419
+pentagrama|music symbol, staff|05421
+penúltimo/a|next to last, penultimate|05422
+peña|rock|05423
+peón|laborer, peon|05424
+peor|worse|05425
+pepino|cucumber|05426
+pequeño/a|small|05427
+pera|pear|05428
+perdiz\dices|partridge|05432
+perdón|pardon, forgiveness|05433
+perdonar|to pardon, forgive|05434
+perecer|to perish|05435
+peregrinaje|pilgrimage|05436
+peregrino/a|migratory|05437
+perejil|parsley|05438
+pereza|laziness|05439
+perfil|profile|05441
+pergamino|parchment|05444
+pericia|skill|05445
+periódico/a|newspaper|05446

@@ -1,0 +1,19 @@
+all.txt|All words
+1h.txt|100 most popular
+2h.txt|101-200 most popular
+3h.txt|201-300 most popular
+4h.txt|301-400 most popular
+5h.txt|401-500 most popular
+6h.txt|501-600 most popular
+7h.txt|601-700 most popular
+8h.txt|701-800 most popular
+9h.txt|801-900 most popular
+10h.txt|901-1000 most popular
+1t.txt|1000 most popular
+1t2.txt|1001-2500 most popular
+s1.txt|Similar words
+ns1.txt|Non-similar part 1
+ns2.txt|Non-similar part 2
+ns3.txt|Non-similar part 3
+ns4.txt|Non-similar part 4
+ns5.txt|Non-similar part 5

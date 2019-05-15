@@ -1,0 +1,1276 @@
+a|a, to|00001
+abajo|down, below, downstairs|00002
+abanico|fan|00006
+abanicar|to fan|00007
+abaratar|to lower the price of|00008
+abarcar|to cover|00009
+abarrotes|groceries, packings|00010
+abastecer|to supply|00011
+abastecimiento|supplying|00012
+abasto|supply|00013
+abatir|to knock down|00014
+abatirse|to get depressed|00015
+abatido/a|dejected|00016
+abatimiento|discouragement|00017
+abecedario|alphabet|00022
+abedul|birch|00023
+abeja|bee|00024
+abertura|opening|00026
+abierto/a|open|00027
+abismo|abyss|00028
+abismal|enormous|00029
+ablandar|to soften|00030
+ablandarse|to soften|00031
+abnegarse|to deny oneself|00032
+abnegado/a|self-sacrificing|00033
+abnegación\ciones|self-denial|00034
+abochornar|to embarass|00035
+abochornarse|to get embarassed|00036
+abofetear|to slap|00037
+abogado/a|lawyer|00038
+abogacía|legal profession|00039
+abogar|to defend, plead of|00040
+abollar|to dent|00043
+abolladura|dent|00044
+abominar|to detest|00045
+abonar|to pay|00048
+abonado/a|subscriber|00049
+abono|payment, fertiñizer|00050
+abordar|to tackle, accost, board|00051
+aborrecible|hateful|00053
+abotonar|to button|00056
+abrazar|to embrace|00057
+abrazo|hug|00058
+abrebotellas|bottle opener|00059
+abrelatas|can opener|00060
+abreviar|to shorten|00061
+abreviación\ciones|abbreviation|00062
+abreviatura|abbreviation|00063
+abridor|opener|00064
+abrigar|to shelter, wrap up|00065
+abrigarse|to take shelter|00066
+abrigado/a|sheltered|00067
+abrigo|coat, shelter|00068
+abril|april|00069
+abrillantar|to polish, shine|00070
+abrir|to open, unlock|00071
+abrochar|to fasten, to button|00072
+abrocharse|to fasten oneself|00073
+abrumar|to crush, to overwhelm|00074
+abrumador/dora|overwhelming|00075
+absorto/a|absorbed, engrossed|00082
+abstenerse|abstain, refrain|00083
+abstraído\da|abstracted, preoccupied|00089
+aburrir|to bore (as in yawn)|00093
+aburrirse|to become bored|00094
+aburrido/a|boring|00095
+aburrimiento|boredom|00096
+acabar|to finish|00101
+acabado/a|finished|00102
+acalorar|to warm up, to stir up|00106
+acalorarse|to get worked uo|00107
+acalorado/a|heated|00108
+acampar|to camp|00109
+acantilado|cliff|00110
+acariciar|to caress|00111
+acarrear|to carry|00112
+acaso|perhaps, maybe|00113
+acaudalado/a|wealthy, accumulated|00114
+acceder|to agree|00115
+accidentado/a|turbulent, rough, victim|00119
+acción\ciones|action|00122
+accionar|to drive, to activate|00123
+accionista|shareholder|00124
+acechar|to watch, stalk|00125
+aceite|oil|00126
+aceitar|to oil|00127
+aceitoso/a|oily|00128
+aceituna|olive|00129
+acelerar|to accelerate|00130
+acelga|chard|00131
+acentuar|to accentuate|00132
+acento|accent, emphasis|00133
+aceptar|to accept|00134
+aceptable|acceptable|00135
+aceptación\ciones|acceptance|00136
+acera|sidewalk|00137
+acero|steel|00138
+acertado/a|accurate|00139
+acertijo|riddle|00140
+achicar|to drain, to make smaller|00142
+acierto|correct|00145
+aclamar|to acclaim|00146
+aclamación\ciones|acclaim|00147
+aclarar|to clarify|00148
+aclaración\ciones|explanation|00149
+aclaratorio/ria|explanatory|00150
+aclimatar|to acclimate|00151
+aclimatarse|to become aclimated|00152
+aclimatación\ciones|acclimatization|00153
+acobadar|to intimidate|00155
+acobardarse|to become frightened|00156
+acoger|to welcome|00157
+acogerse|to take refuge|00158
+acogedor/dora|cosy|00159
+acogida|welcome|00160
+acolchar|to pad|00161
+acometer|to undertake, to attack|00162
+acomodar|to adjust|00163
+acomodarse|to settle in|00164
+acomodado/a|accommodated, well to do|00165
+acompañar|to accompany|00166
+acompañamiento|accompaniment|00167
+acompañante|companion|00168
+acondicionar|to prepare, to equip|00169
+acondicionado/a|equipped|00170
+acongojarse|to get upset|00171
+aconsejar|to advise|00172
+aconsejable|advisable|00173
+acontecer|to occur|00174
+acontecimiento|event|00175
+acordar|to decide|00176
+acordarse|to remember|00177
+acorde|agreed|00179
+acordeón\deones|accordion|00180
+acortar|to shorten|00181
+acortarse|to get shorter|00182
+acosar|to harass|00183
+acoso|harassment|00184
+acostar|to lay down|00185
+acostarse|to lie down, go to bed|00186
+acostumbrarse|to get used to|00187
+acostumbrado/a|accustomed, usual|00188
+acrecentar|to increase|00189
+acrecentamiento|increase, growth|00190
+acreditar|to accredit|00191
+acreditarse|to prove oneself|00192
+acreditado/a|accredited|00193
+acreedor/dora|creditor, whorty|00194
+acribillar|to riddle|00195
+acrílico|acrylic|00196
+acta|act|00200
+activo/a|assets|00204
+acto|act|00205
+actual|present|00208
+actualidad|the present time|00209
+actualizar|to update|00210
+actualización\ciones|update|00211
+actualmente|at present, nowadays|00212
+actuar|to act|00213
+acuarela|watercolor|00214
+acuario|aquarium|00215
+acuático/a|aquatic|00216
+acuchillar|to stab, knife|00217
+acudir|to go, come|00218
+acueducto|aqueduct|00219
+acuerdo|agreement|00220
+acumular|to accumulate|00221
+acumularse|to pile up|00222
+acumulación\ciones|accumulation|00223
+acumulador|storage battery|00224
+acumulativo/a|cumulative|00225
+acurrucarse|to curl up, nestle|00227
+acusar|to accuse|00228
+acusación\ciones|accusation|00229
+acusado/a|defendant|00230
+acústica|acoustics|00231
+acústico/a|acoustics|00232
+adagio|adage, proverb|00233
+adecuar|to adapt|00239
+adecuarse|to be appropriate|00240
+adecuado/a|adapted|00241
+adelantar|to advance|00242
+adelantarse|to go ahead|00243
+adelantado/a|advanced|00244
+adelante|ahead|00245
+adelgazar|to become thin|00246
+ademán\manes|gesture|00247
+además|in addition, besides, furthermore|00248
+adentro|inside|00249
+adentrarse|to go into, get inside of|00250
+adepto/a|follower|00251
+aderezar|to decorate|00252
+aderezo|dressing|00253
+adeudar|to owe|00254
+adición\ciones|addition|00259
+adicional|additional|00260
+adicto/a|addict|00261
+adiestrar|to train|00262
+adinerado/a|wealthy|00263
+adiós|good bye|00264
+aditivo|additive|00265
+adivinar|to guess, foretell|00266
+adivinación\ciones|guessing, prediction|00267
+adivinanza|riddle|00268
+adivino/a|fortune teller|00269
+adjudicar|to award|00271
+adjudicarse|to appropriate|00272
+adjudicación\ciones|awarding|00273
+adjuntar|to enclose|00274
+adjunto/a|associate, enclosed|00275
+administración\ciones|administration, management|00276
+administrador/dora|administrator,manager|00277
+administrar|to administer, manage|00278
+adn|dna|00286
+adobo|marinade|00288
+adoctrinar|to indoctrinate|00289
+adoctrinamiento|indoctrination|00290
+adolecer|to suffer|00291
+adonde|where|00294
+adónde|where|00295
+adorar|to adore, worship|00299
+adoración\ciones|adoration, worship|00301
+adormecer|to make sleepy|00302
+adormecerse|to doze off|00303
+adormecimiento|drowsiness|00304
+adornar|to adorn, decorate|00305
+adorno|ornament,decoration|00306
+adquirir|to acquire|00307
+adquisición\ciones|acquisition|00308
+adrede|intentionally, on purpose|00309
+aduana|customs|00310
+aduanero/a|customs officer|00311
+aducir|to cite, put forward|00312
+adueñarse|to take possession|00313
+adular|to flatter|00314
+adulación\ciones|flattery|00315
+adulador/dora|flatterer|00316
+adúltero/a|adulterer|00319
+advenimiento|advent, arrival|00321
+adyacente|adjacent|00327
+aéreo/rea|aerial|00328
+aeródromo|airfield|00331
+aerolínea|airline|00332
+aeromozo/a|flight attendant, steward|00333
+aeronave|airship|00334
+aeropuerto|airport|00335
+aerosol|aerosol, spray|00336
+afán\afanes|eagerness, effort|00337
+afanarse|to toil|00338
+afanosamente|laboriously|00339
+afanoso/a|laborious, eager|00340
+afección\ciones|affection|00341
+afectar|to affect|00342
+afectación\ciones|affectation|00343
+afectado/a|affected|00344
+afectivo/a|affective|00345
+afecto|affection|00346
+afectuoso/a|affectionate|00347
+afeitar|to shave|00348
+afeitarse|to shave|00349
+afeitada|shave|00350
+afeminado/a|made effeminate|00351
+aferrarse|to cling|00352
+afianzar|to strengthen|00353
+afianzarse|to become established|00354
+afiche|poster|00355
+afición\ciones|hobby, penchant|00356
+aficionado/a|fan|00357
+aficionarse|to become interested|00358
+afilar|to sharpen|00359
+afilado/a|sharp|00360
+afilador|knifegrinder, sharpener|00361
+afiliación\ciones|affiliation|00362
+afiliado/a|affiliated|00363
+afín|compatible|00364
+afin\afines|compatible|00365
+afinidad|affinity|00366
+afinar|to tune, refine|00367
+afirmar|to affirm|00368
+afirmación\ciones|affirmation|00369
+afirmativo/a|affirmative|00370
+afligir|to afflict, distress|00371
+afligirse|to grieve|00372
+aflición\ciones|affliction, sorrow|00373
+afligido/a|sorrowful|00374
+aflojar|to loosen, slacken|00375
+afloramiento|outcrop|00376
+afluencia|affluence|00377
+afluente|affluent|00378
+afortunado/a|lucky, fortunate|00379
+afortunadamente|fortunately, luckily|00380
+afrentar|to insult|00381
+afrenta|insult|00382
+afrontar|to confront|00384
+afuera|outside|00385
+agachar|to bend, lower|00386
+agacharse|to crouch|00387
+agalla|grill|00388
+agarrar|to grasp, catch|00389
+agarrarse|to hold on|00390
+agarradera|handle|00391
+agarrado/a|stingy|00392
+agarre|take hold, grip|00393
+agasajar|to entertain, fete|00394
+agasajo|entertainment, lavish attention|00395
+agente|agent, officer|00397
+agitar|to shake, agitate|00401
+agitarse|to be shaken, toss about|00402
+agitado/a|agitated, excited, shaken|00404
+aglomerar|to amass|00405
+aglomerarse|to crowd together|00406
+agobiado/a|weary|00408
+agobiante|oppressing|00409
+agonizar|to be dying|00410
+agonía|agony, death|00411
+agonizante|dying|00412
+agosto|august|00413
+agotar|to exhaust, deplete|00414
+agotarse|to run out, get tired|00415
+agotado/a|exhausted|00416
+agotador/dora|exhausting|00417
+agotamiento|exhaustion|00418
+agraciado/a|attractive|00419
+agradar|to be pleasing|00420
+agradable|pleasant|00421
+agrado|pleasure|00422
+agradecer|to be thankful|00423
+agradecido/a|grateful|00424
+agradecimiento|gratefulness|00425
+agrandar|to enlarge|00426
+agrandarse|to grow larger|00427
+agrario/ria|agrarian, agricultural|00428
+agravar|to make heavier|00429
+agravarse|to get worse|00430
+agraviar|to offend, insult|00431
+agredir|to attack|00432
+agregar|to add, attach|00433
+agresión\siones|aggression|00434
+agresividad|aggressiveness|00435
+agresivo/a|aggressive|00436
+agresor/sora|aggressor|00437
+agriar|to sour|00438
+agriarse|to turn sour|00439
+agricultura|agriculture, farming|00441
+agricultor/tora|farmer|00442
+agridulce|bittersweet|00443
+agrietar|to crack|00444
+agrio/agria|sour|00445
+agrupar|to group|00446
+agruparse|to form a group|00447
+agrupación\ciones|group, association|00448
+agrupamiento|grouping|00449
+agua|water|00450
+aguacate|avocado|00451
+aguado/a|watery|00452
+aguantar|to hold, bear|00453
+aguantarse|to resign oneself|00454
+aguardar|to await|00455
+aguardiente|brandy|00456
+aguarrás|turpintine|00457
+agudo/a|acute, sharp|00458
+agudeza|sharpness|00459
+águila|eagle|00460
+aguja|needle|00461
+agujero|hole|00462
+agujeta|shoelace|00463
+ahí|there|00464
+ahijado/a|godson, godchild|00465
+ahogar|to drown|00466
+ahogarse|to suffocate, drown|00467
+ahogo|breathlessness|00468
+ahondar|to deepen|00469
+ahora|now|00470
+ahorcar|to hang|00471
+ahorcarse|to hang oneself|00472
+ahorita|right now|00473
+ahorrar|to save, spare|00474
+ahorrarse|to spare oneself|00475
+ahorro|saving|00476
+ahumar|to smoke|00477
+ahumado/a|smoked|00478
+ahuyentar|to scare away|00479
+airado/a|angry|00480
+aire|air|00481
+aislar|to isolate|00482
+aislamiento|isolation|00483
+ajedrez|chess|00484
+ajeno/a|someone else's|00485
+ajetreado/a|busy|00486
+ají\ajíes|chili pepper|00487
+ajo|garlic|00488
+ajustar|to fit|00489
+ajustarse|to adjust|00490
+ajustable|adjustable|00491
+ajustado/a|fit|00492
+ajuste|fit|00493
+ala|wing|00494
+alabanza|praise|00495
+alabar|to praise|00496
+alacrán\cranes|scorpion|00497
+alambre|wire|00498
+alameda|tree-lined avenue, poplar grove|00499
+álamo|poplar|00500
+alardear|to boast|00501
+alargar|to extend|00502
+acá|here|00503
+acostumbrar|to accustom|00505
+alargarse|to become longer|00506
+alarido|howl|00507
+alba|dawn|00511
+albahaca|basil|00512
+albañil|bricklayer, mason|00513
+albaricoque|apricot|00514
+albedrío|will|00515
+alberca|reservoir, swimming pool|00516
+albergar|to lodge|00517
+albergue|lodging|00518
+albóndiga|meatball|00519
+alborotar|to excite, stir up|00520
+alborotarse|to get excited|00521
+alborotado/a|excited|00522
+alborotador/dora|agitator, rioter|00523
+alboroto|ruckus|00524
+alcachofa|artichoke|00526
+alcalde/desa|mayor|00527
+alcancía|money box|00528
+alcantarilla|sewer, drain|00529
+alcanzar|to reach|00530
+alce|moose|00531
+alcoba|bedroom|00532
+aldea|village|00536
+aldeano/a|villager|00537
+aleación\ciones|alloy|00538
+aleatorio/ria|random|00539
+aledaño/a|bordering|00540
+alegoría|allegory|00541
+alegrar|to cheer up, make happy|00542
+alegrarse|to be glad|00543
+alegre|happy, glad|00544
+alegremente|happily|00545
+alegría|joy, cheer|00546
+alejar|to move away, remove|00547
+alejarse|to move away, drift apart|00548
+alejado/a|moved away, remote|00549
+alejamiento|distance, estrangement|00550
+alemán/mana|german|00551
+alentar|to encourage|00552
+alentador/dora|encouraging|00553
+alergía|allergy|00554
+alérgico/a|allergic|00555
+aleta|fin, flipper|00558
+alfabeto|alphabet|00559
+alfabético/a|alphabetical|00560
+alfabetismo|literacy|00561
+alfabetizar|to alphabetize|00562
+alfarería|pottery|00564
+alfil|bishop|00565
+alfiler|pin|00566
+alfiletero|pincushion|00567
+alfombra|small rug, carpet|00568
+alfombrilla|rug|00569
+alga|seaweed|00570
+algo|something|00572
+algodón\dones|cotton|00573
+alguacil|bailiff, constable|00574
+alguien|somebody|00575
+alguno/a|some, any|00576
+algunos/nas|some, a few|00577
+alhaja|jewel|00578
+aliado/a|ally|00579
+alianza|alliance|00580
+aliarse|to form an alliance|00581
+alicates|pliers|00583
+aliento|breath|00586
+aligerar|to lighten|00587
+alimentar|to feed, nourish|00588
+alimentarse|to feed itself|00589
+alimentación\ciones|feeding|00590
+alimenticio/cia|nutritional, nourishing|00591
+alimento|food|00592
+alinear|to align|00593
+alineación\ciones|alignment|00594
+aliño|seasoning, dressing|00595
+aliñar|to season, dress|00596
+alisar|to smooth|00597
+alistarse|to get ready, join up, enlist|00598
+alistamiento|enlistment|00599
+aliviar|to relieve, soothe|00600
+alivio|relief|00601
+allá|there|00602
+allanar|to level out, smooth|00603
+allanamiento|breaking and entering|00604
+allegado/a|close friend|00605
+allí|there|00606
+alma|soul|00607
+almacén\cenes|warehouse|00608
+almacenamiento|storage|00609
+almacenar|to store|00610
+almeja|clam|00612
+almendra|almond|00613
+almíbar|syrup|00614
+almidón\dones|starch|00615
+almidonar|to starch|00616
+almirante|admiral|00617
+almohada|pillow|00618
+almorzar|to have lunch|00619
+almuerzo|lunch|00620
+alocado/a|crazy, wild|00621
+alojar|to lodge|00623
+alojamiento|lodging|00624
+alondra|lark|00625
+alpinismo|mountain climbing|00627
+alpinista|mountain climber|00628
+alpiste|birdseed|00629
+alquilar|to rent, lease|00630
+alquiler|rent, lease|00631
+alquitrán\tranes|tar|00632
+alrededor|around, about|00633
+alrededores|outskirts|00634
+alta|discharge|00635
+altanería|arrogance, haughtiness|00636
+altanero/a|arrogant, haughty|00637
+altavoz\voces|loudspeaker|00639
+alterarse|to get upset|00641
+alterado/a|upset|00643
+altercado|argument, altercation|00644
+alteza|heighness|00649
+altiplano|high plateau|00650
+altivez\veces|arrogance, haughtiness|00652
+altivo/a|arrogant, haughty|00653
+alto/a|tall, high, stop|00654
+altoparlante|loudspeaker|00655
+altura|height|00658
+alucinar|to hallucinate|00659
+alucinación\ciones|hallucination|00660
+alud|avalanche|00661
+aludir|to allude, refer|00662
+aludido/a|alluded, take it personally|00663
+alumbrar|to illuminate, light|00664
+alumbrado|lighting|00665
+alumbramiento|lighting, childbirth|00666
+alumno/a|student, pupil|00668
+alusión\siones|allusion|00669
+aluvión/viones|flood|00670
+alzar|to raise, lift|00671
+alza|rise|00672
+alzamiento|rise, uprising|00673
+amabilidad|kindness|00674
+amable|kind, nice|00675
+amaestrar|to train|00676
+amamantar|to nurse, breast feed|00677
+amanecer|to dawn, wake up|00678
+amanerado|mannered|00679
+amante|lover|00680
+amapola|poppy|00681
+amar|to love|00682
+amargar|to make bitter|00683
+amargado/a|bitter|00684
+amargo/a|bitter|00685
+amargura|bitterness|00686
+amarillo/lla|yellow|00687
+amarrar|to moor|00688
+ámbar|amber|00689
+ambiente|atmosphere, environment|00692
+ambiental|environmental|00693
+ámbito|sphere, domain|00696
+ambos/bas|both|00697
+ambulante|traveling, itinerant|00699
+amenazar|to threaten|00701
+amenaza|threat, menace|00702
+amenizar|to make pleasant|00703
+ameno/a|pleasant|00704
+ameritar|to deserve|00706
+ametralladora|machine gun|00707
+amígdala|tonsil|00708
+amigdalitia|tonsilitis|00709
+amigo/a|friend|00710
+amigable|friendly|00711
+aminorar|to lessen, diminish|00712
+amistad|friendship|00713
+amistoso/a|friendly|00714
+amnistía|amnesty|00716
+amo/ama|master, mistress|00717
+amoldar|to adjust, adapt|00718
+amoldarse|to adapt to|00719
+amonestar|to admonish, warn|00720
+amonestación\ciones|warning, admonition|00721
+amoníaco|ammonia|00722
+amontonar|to accumulate, pile up|00723
+amontonarse|to crowd, pile up|00724
+amor|love|00725
+amordazar|to gag|00726
+amorío|love affair|00727
+amoroso/a|loving, sweet lovable|00728
+amortiguar|to muffle, tone down|00729
+amortiguador|shock absorber|00730
+amortizar|to pay off|00731
+amotinar|to incite to riot|00732
+amotinarse|to rebel, riot|00733
+amparar|to protect, shelter|00734
+ampararse|to take shelter from|00735
+amparo|shelter, refuge|00736
+ampliar|to extend, expand, enlarge|00737
+ampliación\ciones|extension|00738
+ampolla|blister, ampoule|00743
+amueblar|to furnish|00746
+analfabeto/a|illiterate|00748
+analfabetismo|illiteracy|00749
+anaranjado/a|orange|00756
+ancho/cha|wide, broad|00761
+ancho|width|00762
+anchura|width|00764
+anciano/a|old|00765
+ancla|anchor|00766
+anclar|to anchor|00767
+andamio|scaffold|00768
+andanzas|adventures|00769
+andar|to walk|00770
+andén\denes|platform|00771
+andino/a|andean|00772
+andrajos|rags, tatters|00773
+anexar|to annex, attach|00779
+anfibio/bia|amphibian, amphibious|00780
+anfiteatro|amphitheatre|00781
+anfitrión/triona|host, hostess|00782
+angosto/a|narrow|00786
+anguila|eel|00787
+ángulo|angle|00788
+angustiar|to distress, anguish|00789
+angustiarse|to become anguished|00790
+angustia|anguish, worry|00791
+anhelar|to crave, yearn for|00793
+anhelante|yearning, longing|00794
+anhelo|yearning, longing|00795
+anidar|to nest|00796
+anillo|ring|00797
+animación\ciones|animation, liveliness|00798
+animado/a|animated, cheerful|00799
+animador/dora|host, cheerleader|00800
+animar|to aencourage, cheer up|00802
+animarse|to liven up|00803
+ánimo|spirit, soul, moods|00804
+animoso/a|spirited|00806
+aniquilar|to annihilate|00807
+aniquilación\ciones|destruction, annihilation|00808
+aniversario|anniversary|00810
+ano|anus|00811
+anoche|last night|00812
+anochecer|to get dark|00813
+anormal|abnormal|00817
+anormalidad|abnormality|00818
+anotar|to write down, annotate|00819
+anotación\ciones|annotation|00820
+ansiar|to long for|00821
+ansiedad|anxiety|00822
+ansioso/a|anxious|00823
+antaño|long ago, yesteryear|00827
+ante|before|00829
+anteanoche|the night before last|00830
+anteayer|the day before yesterday|00831
+antebrazo|forearm|00832
+anteceder|to precede|00833
+antecedente|antecedent, previous|00834
+antecesor/sora|predecessor, ancestor|00835
+antemano|beforehand|00836
+anteojos|eyeglasses|00838
+antepasado/a|ancestor|00839
+antepenúltimo/a|third from last|00840
+anteponer|to place before|00841
+anterior|previous|00842
+anterioridad|beforehand|00843
+anteriormente|previously|00844
+ante|before, in front of|00845
+antesala|waiting room|00846
+anticipar|to anticipate, move up|00849
+anticiparse|to get ahead|00850
+anticipado/a|advance|00852
+anticipo|advance payment|00853
+anticoncepción\ciones|contraception|00854
+anticonceptivo/a|contraceptive|00855
+anticuado/a|old fashioned|00857
+antiestético/a|unsightly|00860
+antifaz\faces|mask|00861
+antiguo/gua|ancient, old|00862
+antiguamente|long ago|00863
+antihigiénico/a|non-hygienic, unsanitary|00865
+antinatural|unnatural|00867
+antipatía|aversion, dislike|00868
+antipático/a|unpleasant|00869
+antirreglamentario/ria|unlawful|00870
+antirrobo|burglar alarm, antitheft|00871
+antojarse|to crave|00876
+antojadizo/a|capricious|00877
+antojo|whim, craving|00878
+antología|anthology|00879
+antorcha|torch|00880
+antro|dive, den|00881
+antropófago/a|anthropophagous, cannibal|00882
+antropología|anthropology|00883
+anual|annual|00884
+anualidad|annuity|00885
+anuario|yearbook|00886
+anular|to annul, cancel|00887
+anulación\ciones|cancellation, annulment|00888
+anunciar|to announce|00889
+anunciante|advertiser|00890
+anuncio|announcement|00891
+anzuelo|fishhook|00892
+añadir|to add|00893
+añadirura|additive|00894
+añejo/a|aged|00895
+año|year|01182
+añorar|to long for, miss|01183
+apagar|to turn off, switch off|00897
+apalear|to beat up|00898
+aparador|sideboard, shop window|00899
+aparato|machine, aparatus|00900
+aparecer|to appear|00901
+aparentar|to seem|00902
+aparición|appearance|00903
+apartar|to move away, set aside|00904
+apasionado/a|passionate, excited|00905
+apelar|to appeal|00907
+apellido|last name|00908
+apenar|sadden|00909
+apéndice|appendix|00946
+aperitivo|appetizer|00910
+apertura|opening|00911
+apestar|to stink|00912
+apetito|appetite|00913
+apilar|to pile up|00914
+apiñar|to pack|00916
+apio|celery|00915
+aplacar|to appease|00917
+aplanar|to flatten|00918
+aplastar|to crush|00919
+aplaudir|to applaud|00920
+aplazar|to postpone|00921
+aplicar|to apply|00922
+apodar|to nickname|00923
+apodo|nickname|00924
+aportar|to contribute|00927
+apostar|to bet|00928
+apoyar|to support, lean|00929
+apreciar|to appreciate|00930
+apremiar|to urge|00931
+aprender|to learn|00932
+apresar|to capture|00933
+apresurar|to speed up|00934
+apretar|to press|00935
+aprisa|quickly|00936
+aprisionar|to imprision|00937
+aprobar|to approve of|00938
+aprovechar|to take advantage of|00939
+apuesta|bet|00940
+apuesto|good looking|00941
+apuñalar|to stab|00945
+apuntar|to point, aim|00942
+apunte|note|00943
+apurar|to hurry, rush|00944
+aquel|that|00948
+aquello/a|that|00949
+aquellos|those|00950
+aquí|here|00952
+aquietar|to calm|00951
+arado|plow|00953
+araña|spider, chandelier|00955
+arancel|tariff|00954
+árbol|tree|01186
+arbusto|shrub, bush|00957
+arca|ark|00958
+arcaico|archaic|00959
+archivar|to file|00961
+arcilla|clay|00962
+arco|arch|00963
+arder|to burn|00964
+ardiente|burning|00965
+ardilla|squirrel|00966
+ardor|burning|00967
+arena|sand|00969
+arete|earring|00970
+argolla|ring, hoop|00971
+árido|arid, dry, arid|01188
+armar|to arm, assemble|00976
+armario|closet, cabinet|00977
+armonizar|to harmonize, reconcile|00978
+arngentino/a|argentinian|00979
+aro|ring, hoop|00980
+aroma|scent, aroma|00981
+arpa|harp|00982
+arqueología|archaeology|00983
+arqueólogo/a|archaeologist|00985
+arquero/a|archer|00984
+arquitectura|architecture|00986
+arrancar|to pull out|00987
+arrastrar|to drag|00988
+arrebatar|to snatch|00989
+arrecife|reef|00990
+arreglar|to tidy up, fix|00991
+arrendar|to rent, lease|00992
+arrepentirse|to regret|00993
+arriba|up|00995
+arriesgar|to risk, venture|00997
+arrodillarse|to kneel (down)|00998
+arrojar|to hurl|01000
+arroyo|stream|01001
+arroz|rice|01002
+arrugar|to wrinkle|01003
+arruinar|to ruin|01004
+arrullar|to lull to sleep|01005
+arrullo|lullaby|01006
+arte|art|01008
+artefacto|artifact|01009
+artesanía|handicrafts|01011
+ártico/a|arctic|01189
+artificio|skill|01014
+artritis|arthritis|01017
+arveja|pea|01019
+arzobispo|archbishop|01020
+asa|handle|01021
+asado|roasted|01022
+asaltar|to assault|01023
+asamblea|assembly|01024
+ascender|to rise up|01025
+asear|to clean|01026
+asegurar|to assure|01027
+asemejarse|be similar|01028
+aseo|cleanliness|01029
+asesinar|to murder, assassinate|01030
+asesorar|to advise, counsel|01031
+aseverar|to assert|01032
+asfixiar|to asphyxiate, suffocate|01033
+así|like this|01065
+asiento|seat|01034
+asignar|to assign|01035
+asilo|asylum|01036
+asimilar|to assimilate|01037
+asma|asthma|01040
+asno|donkey|01041
+asociar|to associate|01042
+asolar|to devaste|01043
+asombrar|to amaze|01044
+asombroso/a|amazing|01045
+áspero/a|rough, harsh|01190
+aspiradora|vacuum cleaner|01047
+asquerosidad|filth|01050
+asta|flagpole|01051
+astro|star, heavenly body|01055
+astronave|spaceship|01058
+astucia|astuteness, cunning|01060
+asueto|time off|01061
+asumir|to assume|01062
+asunto|matter, bussiness|01063
+asustar|to scare, frighten|01064
+atacar|to attack|01066
+atado|bundle|01067
+atadura|tie|01068
+atajar|to block|01069
+ataque|attack|01070
+atar|to tie up|01071
+atareado/a|busy|01072
+ataúd|coffin|01073
+atemorizar|to frighten|01074
+atención\ciones|attention|01075
+atender|to attend|01076
+atento/a|attentive|01077
+atenuar|to dim|01078
+ateo/a|atheistic|01079
+aterciopelado/a|velvety, downy|01080
+aterrar|to terrify|01081
+aterrizar|to land|01082
+aterrorizar|to terrify|01083
+atestiguar|to testify to|01084
+ático|penthouse, attic|01191
+atleta|athlete|01086
+atónito/a|astonished|01109
+atontar|to stun, daze|01089
+atormentar|to torment|01090
+atornillar|to screw|01091
+atorrante|burm, loafer|01092
+atracar|to dock|01093
+atracción\ciones|attraction|01094
+atractivo/a|attractive|01095
+atraer|to attrack|01096
+atragantarse|to choke|01097
+atrancar|to block|01098
+atrapar|to trap, capture|01099
+atrás|back, behind|01108
+atravesar|cross|01100
+atrayente|attractive|01101
+atreverse|to dare|01102
+atribuir|to attribute|01103
+atributo|attribute|01104
+atropellar|to run over|01106
+atún|tuna|01110
+audiencia|aundience|01112
+audífono|headphone, earphones|01115
+auge|peak|01116
+augurar|to predict|01117
+aula|classroom|01118
+aullar|to howl|01119
+aumentar|to increase, raise|01120
+aumento|increase, rise|01121
+aun|even|01122
+aún|still|01184
+aunque|though, although|01123
+auricular|headphones|01124
+aurora|dawn|01125
+ausentarse|to leave, go away|01126
+auspicios|auspcies, sponsorship|01127
+auténtico/a|authentic|01150
+auto|car|01130
+autoayuda|self-help|01131
+autobús|bus|01132
+autocontrol|self-control|01133
+autóctono/a|native|01151
+autodefensa|self-defense|01135
+autodidacta|self-taught|01136
+autodisciplina|self-discipline|01137
+autopista|highway|01142
+autor/a|author|01144
+autoretrato|self-portrait|01145
+autoridad|authority|01146
+autorizar|to authorize|01147
+autoservicio|self-service|01148
+autosuficiente|self-sufficient|01149
+auxiliar|auxiliary, aid|01152
+avalar|to guarantee, endorse|01154
+avanzar|to advance|01155
+avaricia|greed, avarice|01156
+ave|bird|01157
+avellana|hazelnut|01158
+avena|oats|01159
+aventajar|to be ahead of|01161
+aventurar|to venture|01162
+avergonzar|to shame|01163
+averiar|to damage, break down|01164
+averiguar|to find out|01165
+avestruz\truces|ostrich|01166
+avión|airplane|01171
+avisar|to notify|01169
+avispa|wasp|01170
+axila|underarm|01172
+ayer|yesterday|01174
+ayudar|to help|01175
+ayuntamiento|town hall|01176
+azar|chance|01177
+azúcar|sugar|01181
+azufre|sulphur|01179
+azul|blue|01180
+babero|bib|01193
+bacalao|cod|01194
+bahía|bay|01196
+bailar|to dance|01197
+bajar|to bring down, lower, go down|01198
+bajo/a|low, short, faint|01199
+bala|bullet|01200
+balada|ballad|01201
+balazo|shot|01203
+balde|bucket|01205
+balear|to shoot|01206
+balística|ballistics|01211
+ballena|whale|01207
+ballesta|crossbow|01208
+balneario|spa|01209
+balón|ball|01212
+balsa|raft|01210
+bañar|bathe|01253
+banca|banking|01215
+bandeja|tray|01216
+bandera|flag|01217
+baqueta|ramrod|01221
+bar|bar, tavern|01222
+barajar|to shuffle|01223
+barato/a|cheap|01224
+barba|beard|01225
+barbilla|chin|01228
+barca|boat|01229
+barman|bartender|01230
+barnizar|to varnish|01231
+barquero|boatman|01232
+barra|bar, rod|01233
+barraca|hut|01234
+barrer|to sweep|01235
+barrido|sweep|01237
+barriga|belly|01238
+barril|barrel, keg|01239
+barrio|neighborhood|01240
+barro|mud|01241
+basquetbol|basketball|01244
+basura|garbage|01246
+bata|bathrobe|01247
+batallar|to battle|01248
+batería|battery|01249
+batir|to beat|01250
+baúl|trunk, chest|01254
+bautismo|baptism|01251
+bebé|baby|01394
+beber|to drink|01255
+beca|scholarship|01256
+béisbol|baseball|01395
+belleza|beauty|01257
+bendecir|to bless|01258
+benigno|mild, benign|01260
+berenjena|eggplant|01261
+besar|to kiss|01262
+beso|kiss|01263
+bestia|beast|01264
+betún\tunes|shoe polish|01265
+biberón|baby's bottle|01266
+biblioteca|library|01269
+bicarbonato|baking soda|01270
+bicicleta|bicycle|01272
+bien|well, good|01273
+bienaventurado|blessed|01274
+bienestar|welfare|01275
+bienvenido/a|welcome|01276
+bife|steak|01277
+bigote|mustache|01280
+billar|pool|01282
+bimensual|twice a month|01284
+biofísica|biophysics|01287
+bioquímica|biochemitry|01292
+bisabuelo/a|great-grandfather|01294
+bisagra|hinge|01295
+bisnieto/a|great-grandson|01297
+bistec|steak|01298
+bisturí|scalpel|01299
+bizcocho|sponge cake|01300
+blanco/a|white|01301
+blando/a|soft|01302
+bloquear|to block|01304
+blusa|blouse|01305
+bobina|bobbin, reel|01306
+bobo|silly|01307
+boca|mouth|01308
+bochorno|embarrassment|01309
+bocina|horn|01310
+boda|wedding|01311
+bodega|wine cellar|01312
+bofetear|to slap|01313
+boina|beret|01315
+bola|ball|01316
+boleta|ticket|01317
+bolígrafo|ballpoint pen|01320
+bolsa|bag|01319
+bombear|to pump|01322
+bombilla|lightbulb|01323
+bombón|candy|01324
+bondad|goodness, kindness|01325
+bonificación\ciones|bonus|01326
+bonito/a|pretty|01327
+borracho/a|drunk|01329
+borrar|to erase|01330
+borrego/a|lamb|01331
+bosque|forest|01332
+bosquejar|to sketch|01333
+bota|boot|01334
+botar|to throw|01335
+bote|small boat|01336
+botella|bottle|01337
+botiquín\quines|first-aid kit|01338
+botón\tones|button|01340
+boxear|to box|01342
+boztezar|to yawn|01343
+bragueta|fly, pants zipper|01344
+brasa|ember|01347
+brasileño/a|brazilian|01349
+bravo/a|fierce, savage|01350
+brazalete|bracelet|01351
+brazo|arm|01352
+brea|tar|01353
+breve|brief|01354
+brillar|to shine|01356
+brincar|to jump|01357
+brisa|breeze|01358
+brizna|strand|01360
+brocha|paintbrush|01361
+broche|fastener|01362
+bromear|to joke|01363
+bronca|fight, row|01364
+brujería|witshcraft|01367
+brújula|compass|01371
+brusco/a|abrupt|01368
+budín\dines|pudding|01373
+budismo|buddhism|01372
+buenaventura|good luck|01374
+bueno/a|good, well|01375
+buey|ox|01376
+búfalo|buffalo|01397
+bufanda|scarf|01377
+búho|owl|01398
+buitre|vulture|01378
+bujía|spark plug|01379
+búlgaro/a|bulgarian|01399
+bulto|package|01380
+bumerán\ranes|boomerang|01381
+buque|ship|01382
+burbujear|to bubble|01383
+burdel|brothel|01384
+burlar|to trick|01385
+burocracia|bureaucracy|01386
+burro/a|donkey|01387
+buscar|to look for, to seek|01389
+busqueda|search|01390
+butaca|armchair|01391
+buzo|diver|01392
+cabalgar|to ride|01400
+caballería|cavaldry|01402
+caballero|gentleman|01401
+caballo|horse|01403
+cabaña|cabin, hut|01405
+cabaret\rets|nigthclub, cabaret|01404
+cabello|hair|01406
+cabeza|head|01407
+cabina|booth, cab|01408
+cabra|goat|01410
+cabrito|kid(goat)|01411
+cacarear|to crow|01413
+cacería|hunt|01415
+cacerola|pan|01414
+cacharro|thing|01416
+cachete|cheek|01417
+cadáver|corpse|01424
+cadena|chain|01419
+cadera|hip|01421
+caducar|expire|01423
+caer|to fall|01425
+café|coffe|01426
+caída|fall|01602
+caiman|alligator|01427
+caja|box|01428
+calabozo|prison|01429
+calamar|squid|01430
+calavera|skull|01432
+calcetín\tines|sock|01433
+calcomanía|decal|01435
+calefacción|heating|01437
+calentar|to heat|01439
+calidad|quality|01441
+cálido|hot|01696
+caliente|hot|01442
+calificar|to qualify|01443
+caligrafía|panmanship|01444
+cáliz|chalice|01697
+calle|street|01445
+calma|calm, quiet|01446
+calor|heat|01447
+calumnia|slander, libel|01448
+caluroso/a|hot|01449
+calvo/a|bald|01450
+calzada|roadway|01451
+calzon\zones|panties|01452
+cama|bed|01453
+cámara|camera|01698
+camarero/a|waiter, waitress|01454
+camarón|shrimp|01456
+camarote|cabin, stateroom|01455
+cambiar|to change|01457
+camilla|stretcher|01459
+caminar|to walk|01460
+camino|road|01461
+camión|truck|01463
+camisa|shirt|01462
+camote|sweet potato|01464
+campana|bell|01466
+campaña|countryside|01467
+campeón/peona|champion|01469
+campesino/a|farm|01468
+campiña|countryside|01470
+campo|field|01471
+caña|cane|01603
+cana|gray hair|01472
+canal|canal, channel|01474
+canasta|basket|01476
+cancha|court, field|01478
+canciller|chancellor|01479
+canción/ciones|song|01480
+candado|padlock|01481
+candente|red-hot|01483
+canela|cinnamon|01485
+cañería|pipes|01604
+cangrejo|crab|01486
+canguro|kangaroo|01487
+caníbal|cannibal|01501
+canjear|to exchange|01489
+canoso/a|gray-haired|01492
+cansar|to tire|01493
+cansarse|get tired|01494
+cantar|to sing|01495
+cantera|quarry|01496
+cantidad|quantity|01497
+cantimplora|canteen, water bottle|01498
+cantina|canteen, tavern|01499
+canto|song|01500
+caos|chaos|01502
+capa|cape, cloak, coat|01503
+capataz\taces|foreman|01505
+capaz\paces|able|01506
+capellán\llanes|chaplain|01507
+capilla|chapel|01508
+capitán/a|captain|01511
+capítulo|chapter|01514
+capricho|whim|01512
+caqui|khaki|01515
+cara|face|01516
+caracol|snail|01517
+carácter/racteres|character|01559
+característico|characteristic|01518
+carátula|mask, face|01560
+carbón\bones|charcoal|01522
+carcajada|loud laugh|01523
+cárcel|jail, prison|01701
+carga|to load|01528
+cargo|charge|01529
+cariarse|decay|01530
+caricia|caress|01533
+caridad|charity|01534
+cariño|affection|01536
+caritativo/a|charitable|01535
+carne|meat|01538
+carnero|sheep|01539
+carnet|card|01540
+carnicería|butcher shop|01541
+carnoso/a|fleshy|01542
+caro/a|expensive|01544
+carpa|carp, tent|01545
+carpeta|folder|01546
+carrera|running|01549
+carretera|highway|01550
+carrito|troley, cart|01551
+carro|car,wagon, automobile|01552
+carta|letter|01555
+cartera|briefcase|01556
+cartero/a|mail carrier|01557
+casa|house|01561
+casar|to marry|01562
+cascabel|small bell|01563
+cascada|waterfall|01564
+cascanueces|nutcracker|01565
+casi|almost|01566
+castaña|chestnut|01569
+castaño/a|chestnut|01570
+castellano|spanish|01572
+castidad|chastity|01573
+castigar|to punish|01574
+casual|chance|01577
+catarata|waterfall|01580
+catarro|cold|01581
+cátedra|chair|01702
+catedral|cathedral|01583
+catedrático/a|professor|01584
+catolicismo|catholicism|01586
+católico/a|catholic|01591
+catorce|fourteen|01587
+catre|cot|01588
+cauce|riverbed|01592
+caucho|rubber|01593
+causar|to cause, provoke|01594
+cautivar|to capture|01596
+cavar|to dig|01597
+cavilar|to ponder|01600
+cazar|to hunt|01601
+cd|cd, compact disc|01605
+cebada|barley|01606
+cebolla|onion|01607
+cebra|zebra|01608
+cédula|document|01704
+ceja|eyebrow|01609
+celda|cell|01611
+célebre|famous|01705
+celeste|sky blue|01612
+celo|zeal|01614
+celoso/a|jealous|01616
+célula|cell|01706
+cena|dinner|01619

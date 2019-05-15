@@ -1,0 +1,3080 @@
+a|a, to|00001
+abandonar|to abandon|00003
+abandonado/a|abandoned|00004
+abandono|abandonment|00005
+abdicar|to abdicate|00018
+abdicación\ciones|abdication|00019
+abdomen|abdomen|00020
+abdominal|abdominal|00021
+aberración\ciones|aberration|00025
+abolir|to abolish|00041
+abolición\ciones|abolition|00042
+abominable|abominable|00046
+abominación\ciones|abomination|00047
+aborigen\rígenes|aborigine|00052
+abortar|to abort|00054
+aborto|abortion|00055
+absoluto/a|absolute|00076
+absolutamente|absolutely|00077
+absolver|to absolve|00078
+absorber|to absorb|00079
+absorbente|absorbent|00080
+absorción\ciones|absorption|00081
+absorto/a|absorbed, engrossed|00082
+abstenerse|abstain, refrain|00083
+abstención\ciones|abstention|00084
+abstinencia|abstinence|00085
+abstracción\ciones|abstraction|00086
+abstracto/a|abstract|00087
+abstraer|to abstract|00088
+abstraído\da|abstracted, preoccupied|00089
+absurdo/a|absurd|00090
+abundancia|abundance|00091
+abundante|abundant|00092
+abusar|to abuse|00097
+abusivo/a|abusive|00098
+academia|academy|00104
+académico/a|academic|00105
+acceso|access|00116
+accesible|accessible|00117
+accesorio|accessory|00118
+accidental|accidental|00120
+accidente|accident|00121
+acetona|acetone|00141
+ácido/a|acid|00143
+acidez\deces|acidity|00144
+acné|acne|00154
+acrobacia|acrobatics|00197
+acróbata|acrobat|00198
+acrobático/a|acrobatic|00199
+actitud|attitude|00201
+activar|to activate|00202
+actividad|activity|00203
+actor|actor|00206
+actriz\trices|actress|00207
+acupuntura|acupuncture|00226
+adagio|adage, proverb|00233
+adaptar|to adapt|00234
+adaptarse|to adapt|00235
+adaptable|adaptable|00236
+adaptación\ciones|adaptation|00237
+adaptador|adapter|00238
+adherirse|to adhere|00255
+adherencia|adhesion|00256
+adhesión\siones|adhesion|00257
+adhesivo/a|adhesive|00258
+adjetivo/a|adjective|00270
+administración\ciones|administration, management|00276
+administrador/dora|administrator,manager|00277
+administrar|to administer, manage|00278
+administrativo/a|administrative|00279
+admirar|to admire|00280
+admirable|admirable|00281
+admiración\ciones|admiration|00282
+admirador/dora|admirer|00283
+admitir|to admit|00284
+admisión\siones|admission|00285
+adobe|adobe|00287
+adolescente|adolescent|00292
+adolescencia|adolescence|00293
+adoptar|to adopt|00296
+adopción\ciones|adoption|00297
+adoptivo/a|adoptive|00298
+adorar|to adore, worship|00299
+adorable|adorable|00300
+adoración\ciones|adoration, worship|00301
+adornar|to adorn, decorate|00305
+adulterar|to adulterate|00317
+adulterio|adultery|00318
+adulto/a|adult|00320
+advenimiento|advent, arrival|00321
+adverbio|adverb|00322
+adverbial|adverbial|00323
+adversario/ria|adversary|00324
+adverso/a|adverse|00325
+adversidad|adversity|00326
+aerobic|aerobics|00329
+aerodinámico/a|aerodynamic|00330
+aerosol|aerosol, spray|00336
+africano/a|african|00383
+agencia|agency|00396
+agente|agent, officer|00397
+agenda|agenda|00398
+ágil|agile|00399
+agilidad|agility|00400
+agitar|to shake, agitate|00401
+agitación\ciones|agitation|00403
+agitado/a|agitated, excited, shaken|00404
+agnóstico/a|agnostic|00407
+agonía|agony, death|00411
+agrario/ria|agrarian, agricultural|00428
+agrícola|agricultural|00440
+agricultura|agriculture, farming|00441
+abuso|abuse|00504
+alarmar|to alarm|00508
+alarma|alarm|00509
+alarmante|alarming|00510
+álbum|album|00525
+alcohol|alcohol|00533
+alcohólico/a|alcoholic|00534
+alcoholismo|alcoholism|00535
+alertar|to alert|00556
+alerta|alert|00557
+alfalfa|alfalfa|00563
+álgebra|algebra|00571
+alias|alias|00582
+alienar|to alienate|00584
+alienación\ciones|alienation|00585
+almanaque|almanac|00611
+aloe|aloe|00622
+alpaca|alpaca|00626
+altar|altar|00638
+alterar|to alter|00640
+alteración\ciones|alteration|00642
+altercado|argument, altercation|00644
+alternar|to alternate|00645
+alternativa|alternative|00646
+alternativo/a|alternative|00647
+alterno/a|alternate|00648
+altitud|altitude|00651
+altruista|altruist|00656
+altruismo|altruism|00657
+aluminio|aluminum|00667
+ambición\ciones|ambition|00690
+ambicioso/a|ambitious|00691
+ambiguedad|ambiguity|00694
+ambiguo/gua|ambiguous|00695
+ambulancia|ambulance|00698
+amén|amen|00700
+americano/a|american|00705
+amnesia|amnesia|00715
+amplificar|to amplify|00739
+amplificador|amplifier|00740
+amplio/plia|ample|00741
+amplitud|amplitude|00742
+ampolla|blister, ampoule|00743
+amputar|to amputate|00744
+amputación\ciones|amputation|00745
+anaconda|anaconda|00747
+analgésico|analgesic|00750
+analizar|to analyze|00751
+análisis|analysis|00752
+analítico/a|analytical|00753
+analogía|analogy|00754
+análogo/a|analog|00755
+anarquía|anarchy|00757
+anarquista|anarchist|00758
+anatomía|anatomy|00759
+ancestral|ancestral|00760
+anchoa|anchovy|00763
+anécdota|anecdote|00774
+anemia|anemia|00775
+anémico/a|anemic|00776
+anestesia|anesthesia|00777
+anestésico/a|anesthetic|00778
+ángel|angel|00783
+angelical|angelical|00784
+anglosajón/jona|anglo-Saxon|00785
+angustiar|to distress, anguish|00789
+angustia|anguish, worry|00791
+angustioso/a|anguished|00792
+animación\ciones|animation, liveliness|00798
+animado/a|animated, cheerful|00799
+animal|animal|00801
+animosidad|animosity|00805
+anís|anise|00809
+anónimo/a|anonymous|00814
+anonimato|anonymity|00815
+anorexia|anorexia|00816
+antagónico/a|antagonistic|00824
+antagonismo|antagonism|00825
+antagonista|antagonist|00826
+antártico/a|antarctic|00828
+antecedente|antecedent, previous|00834
+antena|antenna|00837
+antiaéreo/rea|antiaircraft|00847
+antibiótico|antibiotic|00848
+anticipar|to anticipate, move up|00849
+anticipación/ciones|anticipation|00851
+anticongelante|antifreeze|00856
+anticuerpo|antibody|00858
+antídoto|antidote|00859
+antiguedad|antiquity|00864
+antiinflamatorio/ria|anti-inflammatory|00866
+antirrobo|burglar alarm, antitheft|00871
+antisemitismo|anti-semitism|00872
+antiséptico/a|antiseptic|00873
+antisocial|antisocial|00874
+antítesis|antithesis|00875
+aorta|aorta|00896
+aparato|machine, aparatus|00900
+apatía|apathy|00906
+apología|apology|00925
+apoplegía|apoplexy|00926
+apóstol|apostle|00947
+árabe|arab|01185
+arbitrar|to arbitrate|00956
+archipiélago|archipelago|00960
+arduo/dua|arduous|00968
+área|area|01187
+arguir|to argue|00972
+argumentar|to argue|00973
+árido|arid, dry, arid|01188
+aristocracia|aristocracy|00974
+aritmética|arithmetic|00975
+aroma|scent, aroma|00981
+arrestar|to arrest|00994
+arribar|to arrive|00996
+arrogancia|arrogance|00999
+arsénico|arsenic|01007
+arteria|artery|01010
+articular|to articulate|01012
+artículo|article|01018
+artificial|artificial|01013
+artillería|artillery|01015
+artista|artist|01016
+asiático/a|asian|01039
+aspecto|aspect|01046
+aspirar|to aspire to|01048
+aspirina|aspirin|01049
+asterisco|asterisk|01052
+asteroide|asteroid|01053
+astigmatismo|astigmatism|01054
+astrología|astrology|01056
+astronauta|astronaut|01057
+astronomía|astronomy|01059
+astucia|astuteness, cunning|01060
+atlántico|atlantic|01087
+atlas|atlas|01085
+atmósfera|atmosphere|01088
+átomo|atom|01192
+atrocidad|atrocity|01105
+atroz|atrocious|01107
+audible|audible|01111
+audiovisual|audiovisual|01113
+auditorio|auditorium|01114
+auspicios|auspcies, sponsorship|01127
+australiano/a|australian|01128
+austriaco/a|austrian|01129
+autocracia|autocracy|01134
+autografiar|to autograph|01138
+automático/a|automatic|01139
+automóvil|automobile|01140
+autonomía|autonomy|01141
+autopsia|autopsy|01143
+auxiliar|auxiliary, aid|01152
+avalancha|avalanche|01153
+avaricia|greed, avarice|01156
+avenida|avenue|01160
+aviación|aviation|01167
+aviador/a|aviator|01168
+axioma|axiom|01173
+azteca|aztec|01178
+bacteria|bacterium|01195
+balancear|to balance|01202
+balcón|balcony|01204
+bambú|bamboo|01213
+banana|banana|01214
+banderilla|banderilla|01218
+bandido|bandit|01219
+banquete|banquet|01220
+bar|bar, tavern|01222
+barbacoa|barbecue|01226
+barbero|barber|01227
+barítono|baritone|01242
+barómetro|barometer|01243
+barrera|barrier|01236
+barril|barrel, keg|01239
+bastardo|bastard|01245
+bazar|bazaar|01252
+beneficiar|to benefit|01259
+benigno|mild, benign|01260
+biblia|bible|01267
+bibliografía|bibliography|01268
+bicentenario|bicentennial|01271
+bíceps|biceps|01396
+bifocales|bifocals|01278
+bigamia|bigamy|01279
+bikini|bikini|01281
+billete|bill|01283
+binario/a|binary|01285
+biodegradable|biodegradable|01286
+biografía|biography|01288
+biología|biology|01289
+biomecánica|biomechanics|01290
+biopsia|biopsy|01291
+biotecnología|biotechology|01293
+bisexual|bisexual|01296
+blasfemar|to blaspheme|01303
+bohemio/a|bohemian|01314
+boliviano/a|bolivian|01318
+bomba|bomb|01321
+borde|border|01328
+botánica|botany|01339
+boutique|boutique|01341
+braille|braille|01345
+brandy|brandy|01346
+brasier|brassiere|01348
+brigada|brigade|01355
+británico/a|british|01359
+brócoli|broccoli|01370
+bronce|bronze|01365
+bronquitis|bronchitis|01366
+brutal|brutal|01369
+bus|bus|01388
+byte|byte|01393
+cabaret\rets|nigthclub, cabaret|01404
+cable|cable|01409
+cacao|cacao|01412
+cactus|cactus|01418
+cadencia|cadence|01420
+cadete|cadet|01422
+calamidad|calamity|01431
+calcio|calcium|01434
+calcular|to calculate|01436
+calendario|calendar|01438
+calibre|caliber|01440
+calma|calm, quiet|01446
+camellos|camel|01458
+campamento|camp|01465
+canadiense|canadian|01473
+canal|canal, channel|01474
+canario|canary|01475
+cancelar|to cancel|01477
+cáncer|cancer|01699
+candela|candle|01482
+candidato|candidate|01484
+canino/a|canine|01488
+canoa|canoe|01490
+canonizar|to canonize|01491
+cantimplora|canteen, water bottle|01498
+cantina|canteen, tavern|01499
+capacidad|capacity|01504
+capital|capital|01509
+capitolio|capitol|01510
+cápsula|capsule|01700
+capturar|to capture|01513
+caramelo|caramel|01519
+caravana|caravan|01520
+carbohidrato|carbohydrate|01521
+cardenal|cardinal|01524
+cardiáco/a|cardiac|01526
+cardinal|cardinal|01525
+cardiólogo/a|cardiologist|01527
+caribe|caribbean|01531
+caricatura|caricature|01532
+carnal|carnal|01537
+carnívoro/a|carnivorous|01543
+carpa|carp, tent|01545
+carpintería|carpentry|01548
+carpintero/a|carpenter|01547
+carroña|carrion|01554
+carroza|carriage|01553
+cartílago|cartilage|01558
+casino|casino|01567
+cassette|cassette|01568
+castañuela|castanet|01571
+castillo|castle|01575
+castrar|castrate|01576
+cataclismo|cataclysm|01578
+catalogar|to catalog|01579
+catálogo|catalog|01589
+catástrofe|catastrophe|01590
+catecismo|catechism|01582
+categoría|category|01585
+causar|to cause, provoke|01594
+cáustico/a|caustic|01703
+cautela|caution|01595
+caverna|cavern|01598
+cavidad|cavity|01599
+cd|cd, compact disc|01605
+celebrar|to celebrate|01610
+celibato|celibacy|01613
+celofán|celophane|01615
+cementerio|cementery|01617
+cemento|cement|01618
+censo|census|01623
+censurar|to censor|01624
+centavo|cent|01625
+centigrado|centigrade|01628
+centigramo|centigram|01629
+centímetro|centimeter|01635
+central|central|01631
+centrar|to center|01632
+centroamericano|central american|01633
+cerámica|ceramics|01652
+cereal|cereal|01642
+ceremonia|ceremony|01644
+certeza|certainty|01649
+certificar|to certify|01650
+cesárea|cesarean|01655
+champaña|champagne|01660
+chauvinismo|chauvinism|01667
+chef|chef|01668
+chile|chili pepper|01674
+chileno/a|chilean|01675
+chimenea|chimney|01676
+chimpancé|chimpanzee|01677
+chino/a|chinese|01678
+chocolate|chocolate|01683
+chorizo|sausage, chorizo|01686
+cigarrillo|cigarrette|01717
+cilantro|cilantro|01719
+cine|cinema, movies|01723
+circo|circus|01724
+circuito|circuit|01725
+circulación|circulation|01726
+círculo|circle|01727
+circunferencia|circumference|01729
+circunstancia|circumstance|01730
+cisterna|cistern|01734
+cítrico|citrus|01736
+cívico/a|civic|01740
+civil|civil|01741
+clamar|to clamor|01742
+clan|clan|01743
+clandestino/a|clandestine|01744
+claridad|clarity, clearness|01747
+clarificar|to clarify|01748
+clase|class|01751
+clásico/a|classic|01752
+clasificar|to classify|01753
+claustrofobia|claustrophobia|01755
+cláusula|clause|01756
+clemencia|clemency|01764
+clerical|clerical|01765
+cliente/a|customer, client|01766
+clima|climate|01767
+climax|climax|01768
+clóset\sets|closet|01772
+club|club|01773
+coagular|to coagulate|01774
+coalición|coalition|01775
+cobra|cobra|01782
+cocaína|cocaine|01786
+coco|coconut|01794
+coexistir|to coexist|01801
+coherencia|coherence|01804
+coincidir|to coincide|01806
+cólico|colic|01824
+coliseo|coliseum|01828
+colombiano/a|colombian|01831
+colon|colon|01832
+colonia|colony|01833
+colonial|colonial|01834
+color|color|01836
+colosal|colossal|01837
+columna|column|01838
+coma|coma, comma|01840
+combatir|to combat, fight|01846
+combinar|to combine|01847
+comedia|comedy|01849
+cometa|comet|01854
+cómico/a|comic|01857
+compacto/a|compact|01871
+compañero/a|partner, companion|01873
+compañía|company|01874
+comparar|to compare|01875
+compartimiento|compartment|01876
+compás|compass|01878
+compasión\siones|compassion|01879
+compatible|compatible|01880
+compatriota|compatriot|01881
+competir|to compete|01882
+compilar|to compile|01883
+complejidad|complexity|01884
+complementar|to complement|01885
+completar|to complete|01886
+complicar|to complicate|01888
+componer|to make up, compose|01891
+composición\ciones|composition|01894
+compostura|composure|01895
+comprender|to comprehend, to understand|01897
+compresa|compress|01898
+comprensión\siones|compression|01899
+comprometer|to compromise|01901
+compuesto/a|compound|01902
+compulsivo/a|compelling|01903
+computar|to compute|01904
+computadora|computer|01905
+cóncavo/a|concave|01912
+concebir|to conceive|01913
+concentrar|to concentrate|01915
+concepción\ciones|conception|01916
+concepto|concept|01917
+concernir|concern|01918
+concierto|concert|01922
+concluir|to conclude|01924
+conclusión\siones|conclusion|01925
+condenar|to condemn|01931
+condensar|to condense|01932
+condición\siones|condition|01933
+condimento|seasoning, condiment|01934
+condominio|condominium|01935
+condón|condom|01936
+confederación\ciones|confederation|01945
+conferencia|conference|01946
+confesar|to confess|01947
+confidencia|confidence|01949
+confidencial|confidential|01950
+confidencialidad|confidentiality|01951
+configuración\ciones|configuration|01952
+confirmar|to confirm|01953
+conflicto|conflict|01955
+confluencia|confluence|01956
+confrontar|to confront|01958
+confundir|to confuse|01959
+confusión\siones|confusion|01960
+congestión\tiones|congestion|01962
+congratular|to congratulate|01963
+congreso|congress|01964
+conjunción\ciones|conjuction|01965
+conmemorar|to conmemorate|01967
+conquistar|to conquer|01973
+consagrar|to consecrate|01974
+consciencia|conscience|01975
+consecuencia|consequence|01976
+consecutivo/a|consecutive|01977
+conservar|to conserve|01982
+considerar|to consider|01983
+consiguiente|consequence|01984
+consistir|to consist|01985
+consolar|to console|01986
+consolarse|to console oneself|01987
+consolidar|to consolidate|01988
+consomé|consommé|01989
+consonante|consonant|01990
+consorcio|consortium|01991
+conspirar|to conspire|01992
+constar|to consist, be evident|01994
+constelación\ciones|constellation|01996
+consternación\ciones|consternation|01997
+constituir|to constitute|01998
+construir|to construct, build|01999
+consuelo|consolation|02000
+consultar|to consult|02001
+consumar|to complete, consummate|02002
+consumir|to consume|02003
+contactar|to contact|02005
+contaminar|to contaminate|02009
+contemplar|to contemplate|02011
+contemporáneo/nea|contemporary|02012
+contender|to contend|02013
+contener|to contain|02014
+contiguo/gua|contiguous, adjacent|02017
+continente|continent|02018
+contingencia|contingency|02019
+continuar|to continue|02020
+contrabando|smuggling, contraband|02024
+contracción|contraction|02025
+contradecir|to contradict|02026
+contraer|to contract|02027
+contralto|contralto|02028
+contratar|to contract|02033
+contrato|contract|02034
+contribuir|to contribute|02035
+contrito|contrito|02037
+controlar|to control|02038
+controversia|controversy|02039
+convalecencia|convalescence|02041
+convencer|to convince|02042
+convención\ciones|convention|02043
+convento|convent|02044
+conversión|conversion|02046
+convertir|to turn into, convert|02047
+convexo/a|convex|02048
+convicción|conviction|02049
+convincente|convincing|02051
+convocar|to convoke|02053
+cooperar|to cooperate|02055
+cooperación\ciones|cooperation|02056
+coordenada|coordinate|02057
+coordinar|to coordinate|02058
+coral|coral|02063
+cordel|cord|02069
+córdoba|cordoba (nicaraguin currency)|02073
+cordón|cord|02074
+corporación\ciones|corporation|02081
+corporal|corporal|02082
+corporativo/a|corporative|02083
+corrección\ciones|correction|02087
+correctivo/a|corrective|02088
+correcto/a|correct|02089
+corregir|to correct|02092
+correlación\ciones|correlation|02093
+corresponder|to correspond, belong|02096
+corromper|to corrupt|02100
+corrosión\siones|corrosion|02101
+corrupción\ciones|corruption|02102
+corsé|corset|02103
+cosmético/a|cosmetic|02115
+cósmico/a|cosmic|02116
+cosmopolita|cosmopolitan|02117
+cosmos|cosmos|02118
+costar|to cost|02122
+costarricense|costa Rican|02123
+costo|cost, price|02125
+coyote|coyote|02131
+cráneo|skull, cranium|02133
+crater|crater|02134
+crear|to create|02135
+creación\ciones|creation|02136
+creativo/a|creative|02137
+credenciales|credentials|02139
+credibilidad|credibility|02140
+crédito|credit|02141
+cremación|cremation|02145
+cresta|crest|02151
+crimen|crime|02155
+crisis|crisis|02157
+criterio|criterion|02162
+criticar|to criticize|02163
+croqueta|croquette|02169
+crucial|crucial|02172
+crucificar|to crucify|02173
+crudo/a|crude, raw|02175
+cubano/a|cuban|02202
+cultivar|to cultivate|02224
+culto|cultured|02225
+currículum|curriculum vitae|02236
+custodia|custody|02240
+cutícula|cuticle|02241
+debatir|to debate|02256
+débito|debit|02259
+debutar|to debut|02260
+década|decade|02261
+decadencia|decadence|02262
+decencia|decency|02265
+decente|decent|02266
+decidir|to decide|02268
+decimal|decimal|02269
+decisión|decision|02278
+declarar|to declare|02279
+declinar|to decline|02280
+declive|decline|02281
+decoloración|decoration|02283
+decrépito/a|decrepit|02284
+decretar|to decree|02285
+dedicar|to dedicate|02287
+deducir|to deduce|02288
+defectar|to defecate|02289
+defecto|defect|02290
+defender|to defend|02291
+deferencia|deference|02292
+deficiencia|deficiency|02293
+déficit|deficit|02294
+definir|to define|02295
+deformar|to deform|02296
+defraudar|to defraud|02297
+degenerar|to degenerate|02298
+degradar|to degrade|02299
+delegar|to delegate|02306
+deliberar|to deliberate|02310
+delicia|delight|02311
+delimitar|to delimit|02312
+delicuencia|deliquency|02313
+delirante|delirious|02314
+delta|delta|02316
+demandar|to demand|02318
+democracia|democracy|02322
+demócrata|democrat|02323
+democrático/a|democratic|02324
+demoler|to demolish|02325
+demonio|demon|02326
+demostrar|to demonstrate|02328
+denigrar|to denigrate|02330
+denominador|denominator|02331
+denotar|to denote|02332
+densidad|density|02333
+dental|dental|02334
+departamento|department|02337
+depender|to depend|02338
+dependencia|dependency|02339
+deplorar|to deplore|02340
+deportar|to deport|02341
+depositar|to deposit|02343
+depravado/a|depraved|02344
+deprimir|to depress|02345
+derivada|derive|02349
+derivación\ciones|derivation|02350
+descender|to descend, go down|02397
+descongestionante|descongestant|02404
+describir|to describe|02412
+desertar|to desert|02435
+designar|to designate|02452
+despreciar|to despise, scorn|02489
+destrozar|to destroy|02506
+destrucción|destruction|02507
+detectar|to detect|02514
+detergente|detergent|02516
+determinar|to determine|02518
+detestar|to detest|02519
+detonar|to detonate, explode|02520
+devastar|to devastate|02523
+devoción|devotion|02524
+devorar|to devour|02526
+devoto/a|devotee, devout|02527
+diabetes|diabetes|02529
+diagnosticar|to diagnose|02532
+diagonal|diagonal|02533
+diagrama|diagram|02534
+dialecto|dialect|02535
+diamante|diamond|02537
+diámetro|diameter|02538
+diarrea|diarrhea|02541
+dictar|to dictate|02546
+diesel|diesel|02552
+dieta|diet|02554
+dígito|digit|02564
+dignatario/ria|dignitary|02566
+digresión\ciones|digression|02567
+dilatar|to expand, dilate|02568
+dilema|dilemma|02569
+diligencia|diligence|02570
+diluir|to dilute|02571
+dimensión\siones|dimension|02573
+dinastía|dinasty|02578
+dinosaurio|dinosaur|02581
+diploma|diploma|02583
+diplomacia|diplomacy|02584
+diplomático/a|diplomat, diplomatic|02585
+dirección|address, direction|02587
+director/tora|director, manager|02588
+discernir|to discern|02592
+disciplinar|to discipline|02593
+discípulo/a|disciple|02594
+disco|disc, disk, discus|02595
+discordante|discordant|02596
+discoteca|disco|02597
+discreción\ciones|discretion|02598
+discreto/a|discreet|02599
+discriminar|to discriminate|02600
+discurso|speech, discourse|02602
+discutir|to discuss|02603
+diskette|floppy disk, diskette|02611
+dislexia|dislexia|02612
+dislocar|to dislocate|02613
+dispensar|to dispense|02618
+dispersar|to disperse|02619
+disposición\ciones|disposition, arrangement|02621
+disputar|to dispute, argue|02624
+distanciar|to distance|02625
+distingguier|to distinguish|02626
+distorsión|distortion|02627
+distraer|to distract|02628
+distribuir|to distribute|02629
+distrito|district|02630
+disturbio|disturbance|02631
+diván|couch, divan|02633
+diversidad|diversity|02634
+diversificar|to diversify|02635
+dividendo|dividend|02637
+dividir|to divide|02638
+divinidad|divinity|02639
+división\siones|division|02640
+divorciar|to divorce|02641
+divulgar|to divulge, reveal|02642
+dócil|docile|02646
+doctor/tora|doctor|02647
+doctrina|doctrine|02648
+documentar|to document|02649
+dogma|dogma|02650
+domesticar|to domesticate|02653
+dominar|to dominate|02655
+dominó|dominoes|02658
+donar|to donate|02660
+dragón|dragon|02669
+drama|drama|02670
+drástico/a|drastic|02671
+dromedario|dromedary|02674
+dual|dual|02675
+duelo|duel|02678
+duplicar|to duplicate, copy|02686
+durabilidad|durability|02688
+duración|duration|02689
+duradero/a|lasting, durable|02690
+eclipse|eclipse|02699
+eco|echo|02700
+ecología|ecology|02701
+economía|economy|02702
+ecosistema|ecosystem|02703
+ecuatoriano/a|ecuadorian|02706
+ecuestre|ecuestrian|02707
+edición|edition, publishing|02709
+edicto|edict|02710
+educar|to educate|02714
+ego|ego|02722
+elaborar|to elaborate|02733
+elástico/a|elastic|02734
+elección|election|02735
+electricidad|electricity|02736
+electrodo|electrode|02737
+electrodoméstico|electric appliance|02738
+electromagnético/a|electromagnetic|02739
+electrón|electron|02740
+electrónico/a|electronic|02741
+electrónica|electronics|02742
+elemento|element|02745
+elevar|to elevate, raise|02747
+eliminar|to eliminate|02748
+elite|elite|02750
+elixir|elixir|02751
+eludir|to elude, avoid|02758
+emancipar|to emancipate|02759
+embajada|embassy|02760
+embarazar|to embarrass, make pregnant|02761
+embarcar|to embark, board|02762
+embellecer|to embellish|02765
+emblema|emblem|02766
+embrión|embryo|02771
+emergencia|emergency|02776
+emerger|to emerge|02777
+emigrar|to emigrate|02778
+eminente|eminent|02779
+emitir|to emit|02780
+emoción|emotion|02781
+emocional|emotional|02782
+emperador|emperor|02794
+empírico/a|empirical|02796
+emplear|to use, employ|02797
+emular|to emulate|02803
+enchilada|enchilada|02819
+enema|enema|02843
+enemigo/a|enemy|02844
+energía|energy|02845
+engendrar|to beget, engender|02857
+enigma|enigma|02864
+enorme|enormous|02875
+enriquecer|to enrich|02877
+entidad|organization, entity|02895
+entrada|entrance, entry|02900
+enumerar|to enumerate|02911
+enunciar|to enunciate|02912
+épico/a|epic|02921
+epidemia|epidemic|02922
+epilepsia|epilepsy|02923
+epílogo|epilogue|02924
+episodio|episode|02925
+epitafio|epitaph|02926
+época|epoch, period|02927
+equilátero/a|equilateral|02928
+equinoccio|equinox|02930
+equipar|to equip|02932
+equipo|equipment, team|02933
+equitativo/a|equitable|02935
+era|era|02938
+erección|erection|02939
+erosión|erosion|02943
+erótico|erotic|02945
+error|error, mistake|02947
+erudito/a|erudite|02949
+erupción\ciones|eruption|02950
+escapar|to escape, run away|02962
+escape|leak, escape|02964
+escolta|escort|02978
+espionaje|espionage|03034
+esquimal|esquimo|03045
+establecer|to establish|03050
+establecimiento|establishment|03051
+eterno/a|eternal|03121
+eucalipto|eucalyptus|03127
+europeo/pea|european|03129
+evacuar|to evacuate|03130
+evadir|to evade|03131
+evaluar|to evaluate|03132
+evaporar|to evaporate|03134
+evaporación\ciones|evaporation|03135
+evasión\ciones|evasion|03136
+evento|event|03137
+evidencia|evidence|03139
+evidentemente|evidently|03140
+evolución\ciones|evolution|03142
+exacerbar|to exacerbate|03143
+exacto/a|exact|03144
+exagerar|to exaggerate|03145
+exagerado/a|exaggerated|03146
+exaltar|to exalt, arouse|03147
+examen|examination|03148
+exasperar|to exasperate|03149
+excavar|to excavate|03150
+excavación\ciones|excavation|03151
+excerder|to exceed|03152
+excedente|excessive|03153
+excelente|excellent|03154
+excelencia|excellence|03155
+excepción\ciones|exception|03158
+excepcional|exceptional|03159
+excepto|except|03160
+exceso|excess|03161
+excitar|to excite|03162
+exclamar|to exclaim|03163
+excluir|to exclude|03164
+excomulgar|to excommunicate|03165
+excremento|excrement|03166
+excursión\siones|excursion|03168
+excusar|to excuse|03170
+exhalar|to exhale|03171
+exhaustivo/a|exhaustive|03172
+exhausto/a|exhausted|03173
+exhortar|to exhort|03174
+exigencia|exigency|03176
+exiliar|to exile|03178
+existir|to exist|03179
+éxodo|exodus|03181
+exorcizar|to exorcise|03182
+exótico/a|exotic|03183
+expandir|to expand|03184
+expectativa|expectation|03185
+expedición\ciones|expedition|03186
+expediente|file, expedient|03187
+experiencia|experience|03188
+experimentar|to experiment|03189
+experimentado/a|experimented|03190
+experimental|experimental|03191
+experimento|experiment|03192
+experto/a|expert|03193
+expirar|to expire|03194
+explicar|to explain|03196
+explícito/a|explicit|03197
+explorar|to explore|03198
+exploración\ciones|exploration|03199
+explorador/dora|explorer|03200
+exploratorio/ria|exploratory|03201
+explosión\ciones|explosion|03202
+explosivo/a|explosive|03203
+explotar|to exploit|03205
+exponer|to expose|03206
+exportar|to export|03207
+exposición\ciones|exhibition, exposure|03208
+exprés|express|03209
+expresar|to express|03210
+expreso/a|express|03211
+exquisito/a|exquisite|03215
+extender|to extend|03217
+extensión\siones|extension|03218
+exterior|outside, exterior|03219
+exterminar|to exterminate|03220
+externo/a|external|03221
+extinguir|to extinguish|03222
+extorsión\siones|extortion|03224
+extra|extra|03225
+extraditar|to extradite|03226
+extraer|to extract|03227
+extraordinario/ria|extraordinary|03231
+extrasensorial|extrasensorial|03232
+extraterrestre|extraterrestrial|03233
+extravagante|extravagant|03234
+extremidad|extremities|03237
+extrovertido/a|extrovert|03238
+exuberante|exuberante|03239
+fabuloso/a|fabulous|03244
+faceta|facet|03246
+facial|facial|03248
+factoría|factory|03250
+facultad|faculty|03252
+falsear|to falsify|03260
+falsificación\ciones|falsification|03261
+familia|family|03264
+famosos/a|famous|03265
+fanático/a|fanatic|03266
+fantasear|to fantasize|03269
+fantasía|fantasy|03270
+fantástico/a|fantastic|03273
+fascinar|to fascinate|03276
+fascinación\ciones|fascination|03277
+fascinante|fascinating|03278
+fascismo|fascism|03279
+fatal|fatal|03282
+fatiga|fatigue|03283
+fauna|fauna|03284
+favor|favor|03285
+fax|fax|03286
+febrero|february|03288
+federación|federation|03291
+felino|feline|03293
+fermentar|to ferment|03299
+ferry|ferry|03302
+fervor|fervor|03303
+festival|festival|03305
+fetiche|fetish|03306
+ficticio/cia|fictitious|03316
+fidelidad|fidelity|03317
+fiero/a|fierce, wild|03321
+figura|to figure|03324
+filial|filial, branch|03328
+filigrana|watermark, filigree|03329
+filmar|to film|03331
+filtrar|to filter|03334
+final|end, final|03336
+financiar|to finance|03337
+finito/a|finite|03340
+firmamento|firmament|03344
+firme|firm, resolute|03345
+fiscal|fiscal|03346
+flácido/a|flabby, flacid|03352
+flagrante|flagrant|03354
+flamenco/a|flamenco|03356
+flash|flash|03358
+flexible|flexible|03361
+flirtear|to flirt|03362
+fluctuar|to fluctuate|03368
+fluorescente|fluorescent|03370
+fluoruro|fluoride|03371
+folklore|folklore|03377
+forense|forensic|03386
+formal|formal|03387
+formalidad|formality|03388
+formar|to form|03389
+formato|format|03390
+formidable|formidable|03391
+fórmula|formula|03392
+formular|to formulate|03393
+formulario|form|03394
+fortaleza|strength, fortress|03397
+fortificar|to fortify|03398
+fortuito/a|fortuitous|03399
+fortuna|fortune|03400
+fracción\ciones|fraction|03412
+fractura|fracture, break|03413
+fragancia|fragrance|03414
+frágil|fragile|03416
+fragilidad|fragility|03417
+fragmento|fragment|03418
+franqueza|frankness|03425
+fraternal|brotherly, fraternal|03428
+fraude|fraud|03429
+fresco/a|fresh|03438
+fricción\ciones|friction|03440
+frigidez|frigidity|03441
+frívolo/a|frivolous|03446
+frontera|border, frontier|03447
+frugal|frugal|03450
+frustar|to frustate|03451
+función|function|03461
+funcionar|to work, run, function|03462
+funeral|funeral|03467
+gala|gala|03470
+galaxia|galaxy|03472
+gangrena|gangrene|03485
+gángster|gangster|03486
+garaje|garage|03487
+gas|gas|03493
+gasolina|gasoline|03495
+gástrico/a|gastric|03497
+gastronomía|gastronomy|03498
+gay|gay|03505
+gelatina|gelatin|03507
+genealogía|genealogy|03511
+generación\ciones|generation|03512
+generador|generator|03513
+general|general|03514
+generar|to generate|03515
+generoso/a|generous|03517
+génesis|genesis|03518
+genética|genetics|03519
+genio|genius|03521
+genital|genital|03522
+genocidio|genocide|03523
+gentil|gentile, kind|03525
+genuino/a|genuine|03527
+geografía|geography|03528
+geología|geology|03529
+geometría|geometry|03530
+geranio|geranium|03531
+geriatría|geriatrics|03533
+germen|germ|03534
+germinar|to germinate|03535
+gestación|gestation|03536
+gesto|gesture|03538
+glaciar|glacier|03550
+gladiador|gladiator|03551
+glándula|gland|03552
+globo|globe|03555
+gloria|glory|03557
+glorificar|to glorify|03559
+glorioso/a|glorious|03560
+glosario|glossary|03561
+glucosa|glucose|03562
+gol|goal|03565
+golf|golf|03566
+gorila|gorilla|03573
+gracia|grace|03584
+graduar|to graduate|03586
+gramática|grammar|03589
+gramo|gram|03590
+granero|barn, granary|03592
+granito|granite|03593
+gratificación\ciones|bonus, gratification|03598
+gratitud|gratitude|03600
+gratuito/a|free, gratuitous|03602
+gringo/a|gringo, yankee|03608
+grosería|vulgar, gross|03612
+grotesco|grotesque|03613
+gruñir|to growl, grunt|03616
+guacamole|guacamole|03619
+guarani|guarani, language of paraguay|03623
+guatemalteco/a|guatemalan|03634
+guitarra|guitar|03645
+hábito|habit|03655
+hamburguesa|hamburger|03669
+hebreo/brea|hebrew|03674
+helicóptero|helicopter|03678
+hemisferio|hemisphere|03680
+hemorragia|hemorrhage|03681
+hemorroides|hemorrhoids|03682
+hepatitis|hepatitis|03684
+heraldo|herald|03685
+hermético/a|hermetic|03691
+héroe|hero|03693
+heterogéneo/a|heterogenous|03698
+heterosexual|heterosexual|03699
+hexágono|hexagon|03700
+hexagonal|hexagonal|03701
+hindú|hindu|03723
+hipocondríaco/a|hipocondriacal|03730
+hispano/a|hispanic|03738
+historia|history|03740
+hockey|hockey|03741
+holocausto|holocaust|03745
+homeopatía|homeopathy|03750
+homicidio|homicide, murder|03751
+homogéneo/nea|homogenous|03752
+homólogo/a|homologous|03753
+homosexual|homosexual|03754
+homosexualidad|homosexuality|03755
+hondureño/a|honduran|03757
+honesto/a|honest, decent|03758
+honor|honor|03760
+horizonte|horizon|03763
+hormona|hormone|03766
+horóscopo|horoscope|03768
+horrendo|horrendous|03769
+horripilante|horrifying|03770
+horroroso/a|horrifying|03771
+horticultura|horticulture|03773
+hospital|hospital|03775
+hostia|host|03777
+hostil|hostile|03779
+hotel|hotel|03780
+humano/a|human|03794
+humildad|humility|03797
+humor|humor|03799
+ibérico/a|iberian|03805
+iceberg|iceberg|03806
+icono|icon|03807
+idea|idea|03809
+ideal|ideal|03810
+identidad|identity|03811
+ideología|ideology|03812
+idiosincrasia|idiosyncrasy|03814
+idiota|idiot|03815
+ídolo|idol|03816
+ignorar|to ignore|03820
+iguana|iguana|03823
+imagen\imágenes|image|03836
+imaginar|to imagine|03837
+imitar|to imitate|03840
+impaciencia|impatience|03841
+impacto|impact|03842
+imparcial|impartial|03844
+impartir|to distribute, impart|03845
+impecable|impeccable|03846
+impenetrable|impenetrable|03848
+imperativo/a|imperative|03850
+imperceptible|imperceptible|03851
+impersonal|impersonal|03854
+impertinente|impertinent|03855
+implacable|implacable|03856
+implantar|to implant|03857
+implemento|implement|03858
+implicar|to imply, implicate, involve|03859
+implícito/a|implicit|03860
+implorar|to implore|03861
+imponer|to impose, command|03862
+importación\ciones|importation|03864
+importaciones|imports|03865
+importado|imported|03866
+importador/dora|importer, importing|03867
+importancia|importance|03868
+imposible|impossible|03870
+imposibilidad|impossibility|03871
+imposición\ciones|imposition|03872
+impostor/tora|impostor|03873
+impotente|impotent|03874
+impotencia|impotence|03875
+impregnar|to impregnate|03877
+impresión\siones|impression|03880
+impresionante|impressive|03881
+impresionar|to impress|03882
+improbable|improbable|03885
+improbabilidad|improbability|03886
+impropio/pia|improper|03888
+improvisar|to improvise|03889
+imprudente|imprudent|03890
+imprudencia|imprudence|03891
+impuro/a|impure|03896
+inaccesible|inaccessible|03897
+inactivo/a|inactive|03899
+inadecuado/a|inadequate|03901
+inadvertido/a|inadvertent|03902
+inanimado/a|inanimate|03904
+inaplicable|inapplicable|03905
+inaugurar|to inaugurate|03907
+inca|inca, incan|03908
+incalculable|incalculable|03909
+incandescencia|incandescence|03910
+incentivo|incentive|03912
+incidencia|incidence|03914
+incipiente|incipient|03917
+incitar|to incite, rouse|03918
+inclinar|to incline|03920
+incluir|to include|03921
+inclusión|inclusion|03922
+incógnito/a|incognito, unknown|03923
+incoherente|incoherent|03924
+incomodar|inconvienence|03928
+incomparable|incomparable|03929
+incompatible|incompatible|03930
+incompetente|incompetent|03931
+inconcebible|inconceivable|03934
+incongruente|incongruous|03938
+inconsecuente|inconsistent|03940
+inconsiderado/a|inconsiderate|03941
+inconsolable|inconsolable|03943
+inconstante|inconstant|03944
+incontinente|incontinent|03948
+incontinencia|incontinence|03949
+inconveniente|inconvenient|03950
+incorporar|to incorporate|03951
+incorrecto/a|incorrect|03952
+incorregible|incorrigible|03953
+increíble|incredible|03954
+incrementar|to increase|03955
+incubar|to incubate|03957
+incubadora|incubator|03958
+incurable|incurable|03964
+incurrir|to incur|03965
+indecente|indecent|03969
+indecisión|indecision|03971
+indefinido/a|indefinite|03973
+indemnizar|to compensate, indemnify|03974
+independiente|independent|03975
+independencia|independence|03976
+indescriptible|indescribable|03977
+indicar|to indicate|03979
+indiferente|indifferent|03981
+indígena|native, indigenous|03982
+indigente|indigent|03983
+indigestión\tiones|indigestion|03984
+indio/dia|indian|03985
+indisciplina|indiscipline|03987
+indiscreto/a|indiscreet|03988
+indiscriminado/a|indiscriminate|03989
+indispensable|indispensable|03990
+indistinto/a|indistinct|03992
+individual|individual|03993
+individualidad|individuality|03994
+indivisible|indivisible|03995
+indolente|indolent|03996
+indómito/a|indomitable|03997
+indonesio/sia|indonesian|03998
+inducir|to induce|03999
+indulgente|indulgent|04000
+indulgencia|indulgence|04001
+industria|industry|04002
+ineficaz|ineffective|04005
+ineficiente|inefficient|04006
+ineligible|ineligible|04007
+inepto|inept|04008
+inercia|inertia|04010
+inerte|inert|04011
+inevitable|inevitable|04013
+inexorable|inexorable|04015
+inexperiencia|inexperience|04016
+inexplicable|inexplicable|04017
+infalible|infallible|04018
+infectar|to infect|04022
+infección\ciones|infection|04023
+infeccioso/a|infectious|04024
+inferior|inferior|04026
+infernal|infernal|04027
+infestar|to infest|04028
+infiltrar|to infiltrate|04029
+inflación|inflation|04030
+inflamar|to inflame|04031
+inflar|to inflate|04032
+inflexible|inflexible|04033
+infligir|to inflict|04034
+influencia|influence|04035
+influir|to influence|04036
+información\ciones|information|04037
+informal|unreliable, informal|04038
+informar|to inform|04039
+infracción\ciones|infraction|04043
+infraestructura|infrastructure|04044
+infrarrojo/a|infrared|04046
+infrecuente|infrequent|04047
+infringir|to infringe|04048
+infundir|to instill, infuse|04050
+ingenio|ingenuity|04054
+ingenuidad|naivete, ingenuousness|04055
+ingerir|to ingest|04056
+ingrediente|ingredient|04059
+inhalar|to inhale|04062
+inherente|inherent|04063
+inhóspito/a|inhospitable|04064
+inhumano/a|cruel, inhuman|04065
+iniciar|to initiate|04066
+injusticia|injustice|04071
+innovar|to innovate|04084
+innumerable|innumerable|04085
+inoperable|inoperable|04091
+inorgánico/a|inorganic|04092
+inquirir|to inquire|04095
+insecto|insect|04099
+inseguro/a|insecure, uncertain|04100
+insensible|insensitive|04102
+inseparable|inseparable|04103
+insertar|to insert|04104
+insignificante|insignificant|04106
+insistir|to insist|04107
+insolación\ciones|insolation, sunstroke|04108
+insolencia|insolence|04109
+insoluble|insoluble|04110
+inspeccionar|to inspect|04112
+inspirar|to inspire|04113
+inspirador/dora|inspirational|04114
+instalar|to install|04115
+instantáneo/nea|instantaneous|04117
+instinto|instinct|04119
+institución\ciones|institution|04120
+institucionalizar|to institutionalize|04121
+instruir|to instruct|04122
+instrumento|instrument|04123
+insubordinado/a|insubordinate|04124
+insuficiente|insufficient|04125
+insulina|insulin|04126
+insultar|to insult|04127
+insuperable|insurmountable|04128
+insurrección\ciones|insurrection|04129
+intacto/a|intact|04130
+intangible|intangible|04131
+integrar|to integrate|04132
+intelecto|intellect|04133
+inteligencia|intelligence|04134
+inteligente|intelligent|04135
+inteligible|intelligible|04136
+intención\ciones|intention|04138
+intensidad|intensity|04139
+interceder|to intercede|04143
+interés\reses|interest|04144
+interfaz|interface|04145
+interferir|to interfere|04146
+interior|interior, inner|04147
+interjección\ciones|interjection|04148
+intermediario/ria|intermediary|04149
+intermedio/dia|intermediate|04150
+intermedio|intermission|04151
+interminable|interminable|04152
+intermisión\siones|intermission|04153
+intermitente|intermittent|04154
+internacional|international|04155
+interponer|to interpose|04157
+interpretar|to interpret|04158
+interpretación\ciones|interpretation|04159
+interrogar|to interrogate|04160
+interrogación\ciones|interrogation|04161
+interrumpir|to interrupt|04162
+interrupción\ciones|interruption|04163
+interscción\ciones|intersection|04164
+intestino|intestine|04166
+intimidar|to intimidate|04168
+íntimo/a|intimate|04169
+intolerable|intolerable|04170
+intoxicar|to intoxicate, poison|04171
+intravenoso/a|intravenous|04173
+intrépido/a|intrepid, fearless|04174
+introducción\ciones|introduction|04175
+introvertido/a|introvert, introverted|04176
+intrusión\siones|intrusion|04177
+intuir|to intuit, sense|04178
+invadir|to invade|04181
+invalidez\deces|dissability, invadility|04182
+invariable|invariable|04183
+invasión\siones|invasion|04184
+inventar|to invent|04186
+inventario|inventory|04187
+inversión\siones|investment|04189
+inverso/a|inverse, opposite|04190
+inversor/sora|investor|04191
+invertebrado/a|invertebrate|04192
+invertir|to invert, reverse|04193
+investidura|investiture|04194
+investigar|to investigate|04195
+investir|to invest|04196
+invisible|invisible|04199
+invitar|to invite|04200
+invocar|to invoke|04201
+invulnerable|invulnerable|04202
+ion|ion|04205
+iraní|iranian|04208
+iraquí|iraqi|04209
+iris|iris|04210
+irracional|irrational|04212
+irradiar|to radiate, irradiate|04213
+irrecuperable|non-recoverable, irretrievable|04216
+irreemplazable|irreplaceable|04217
+irregular|irregular|04219
+irrelevante|irrelevant|04220
+irreparable|irreparable|04221
+irresistible|irresistible|04222
+irresponsable|irresponsible|04224
+irresponsabilidad|irresponsibility|04225
+irreverente|irreverent|04226
+irrigar|to irrigate|04227
+irritar|to irritate|04228
+isla|island|04230
+islámico/a|islamic|04231
+israelí|israeli|04234
+italiano|italian|04235
+itinerario|itinerary|04236
+jaguar|jaguar|04244
+jazz|jazz|04258
+jeans|jeans|04259
+jersey|jersey|04266
+jovial|jovial, cheerful|04272
+judaíismo|judaism|04276
+judicial|judicial|04278
+judo|judo|04280
+jungla|jungle|04291
+jurisdicción\ciones|jurisdiction|04297
+jurisprudencia|jurisprudence|04298
+justicia|justice|04299
+justificar|to justify|04300
+justo|just, fair|04301
+karate|karate|04305
+kilo|kilo, kilogram|04306
+kilómetro|kilometer|04307
+kilométrico/a|kilometer|04309
+kilovatio|kilowatt|04310
+labor|work, labor|04313
+lámpara|lamp|04330
+lapso|lapse|04340
+larva|larva|04343
+láser|laser|04344
+latente|latent|04346
+lateral|lateral, side|04347
+latín|latin|04350
+latino/a|latin-american, latin|04351
+latitud|latitude|04353
+laxante|laxative|04356
+legal|legal|04365
+legendario/ria|legendary|04366
+legible|legible|04367
+legión\giones|legion|04368
+legionario/ria|legionary|04369
+legislar|to legislate|04370
+legislación\ciones|legislation|04371
+legislador/dora|legislator|04372
+legislatura|legislature|04373
+legítimo/a|legitimate, authentic|04374
+lenteja|lentil|04384
+leopardo|leopard|04387
+lepra|leprosy|04388
+lesbiano/a|lesbian|04390
+lesión|wound, lesion|04391
+liberación|liberation|04401
+liberal|liberal|04402
+liberar|to liberate, free|04403
+libido|libido|04406
+licencia|license, permission|04411
+lila|lilac|04421
+limbo|limbo|04423
+limitar|to limit|04424
+línea|line|04430
+linguísta|linguist|04431
+lista|list|04435
+literal|literal|04438
+literatura|literature|04439
+liturgia|liturgy|04442
+llama|flame, llama|04445
+local|premises, local|04459
+locomoción\ciones|locomotion|04461
+logaritmo|logarithm|04466
+lógica|logic|04467
+logotipo|logo|04468
+longevidad|longevity|04474
+longitud|length, longitude|04475
+lubricar|to lubricate|04481
+lucidez\deces|lucidity|04484
+lucrativo|lucrative|04487
+luminoso/a|luminous, shining|04492
+macabro|macabre|04499
+macarrón\rrones|macaroni, macaroon|04500
+machete|machete|04502
+mafia|mafia|04511
+magia|magic|04512
+magnate|tycoon, magnate|04513
+magnético/a|magnetic|04515
+magnifeciencia|magnificence|04516
+magnitud|magnitude|04517
+magnolia|magnolia|04518
+malaria|malaria|04526
+malasio/sia|malaysian|04527
+malayo/a|malayan|04529
+malicia|malice|04540
+maligno/a|malignant|04541
+malta|malt|04546
+mambo|mambo|04552
+mamografía|mamogram|04553
+mandarina|mandarin orange|04557
+mandolina|mandolin|04560
+manicura|manicure|04571
+manipular|to manipulate|04574
+mansión\siones|mansion|04578
+manto|mantle|04585
+manual|manual|04586
+manufactura|manufacture|04587
+manuscrito|manuscript|04588
+maratón\tones|marathon|04597
+marchar|to march|04602
+marcial|martial|04603
+margarina|margarine|04609
+margen|margin|04611
+mariachi|mariachi band|04612
+marihuana|marijuana|04613
+marimba|marimba|04614
+marítimo/a|marine|04621
+marquesina|marquee|04623
+marsupial|marsupial|04627
+mártir|martyr|04631
+marxismo|marxism|04632
+mascota|mascot|04640
+masculino/a|masculine|04641
+mástil|mast|04646
+masturbarse|masturbate|04647
+maternal|maternal|04652
+matinal|matinal|04653
+matiné|matinee|04654
+máxima|maxim|04661
+máximo|maximum|04662
+mayonesa|mayonnaise|04665
+medalla|medal|04677
+mediación\ciones|mediation|04678
+mediador/dora|mediator|04680
+mediano/a|medium|04681
+medicación\ciones|medication|04684
+medieval|medieval|04688
+mediocre|mediocre|04690
+meditar|to meditate|04694
+mediterráneo/nea|mediterranean|04695
+megabyte|megabyte|04697
+megáfono|megaphone|04698
+melancolía|melancholy|04702
+melodía|melody|04707
+melodrama|melodrama|04708
+melón\lones|melon|04709
+membrana|membrane|04710
+memorable|memorable|04712
+memoria|memory|04713
+mencionar|to mention|04714
+menopausia|menopause|04716
+menstruar|to menstruate|04721
+menstruación|menstruation|04722
+mensurable|mensurable|04724
+mental|mental|04726
+mentar|to mention|04727
+mercancía|merchandise|04734
+mercenario/ria|mercenary|04735
+mercurio|mercury|04736
+merengue|merengue dance|04738
+mérito|merit|04739
+metabolismo|metabolism|04745
+metafísica|metaphysics|04746
+metáfora|metaphor|04747
+metal|metal|04748
+metamorfosis|metamorphosis|04749
+meteoro|meteor|04750
+meticuloso/a|meticulous|04752
+métrico/a|metric|04754
+microbio|microbe|04762
+microbiología|microbiology|04763
+micrófono|microphone|04765
+microondas|microwaves|04766
+microorganismo|microorganism|04767
+microscopio|microscope|04768
+migración\ciones|migration|04772
+migraña|migraine|04773
+migrar|to migrate|04774
+militante|militant|04782
+militar|military man|04783
+mimar|to mimar, pamper|04785
+mímica|mimic|04786
+mineral|mineral|04789
+miniatura|miniature|04791
+minifalda|miniskirt|04792
+mínimo/a|minimum|04794
+ministerio|ministry|04796
+ministro/tra|minister|04797
+minoría|minority|04798
+minoritario/ria|minority|04800
+minuto|minute|04802
+miscelánea|miscellany|04807
+miserable|miserable|04808
+mísero/a|miserable|04810
+mistica|misticism|04816
+modelar|to model|04825
+módem|modem|04826
+moderar|to moderate|04827
+moderno/a|modern|04828
+modesto/a|modest|04829
+modificar|to modify|04830
+modular|to modulate|04834
+módulo|module|04835
+molar|to molar|04839
+moldear|to mold|04840
+molécula|molecule|04841
+momento|moment|04847
+momentáneamente|momentarily|04848
+momentáneo/nea|momentary|04849
+monarca|monarch|04851
+monasterio|monastery|04852
+monetario/ria|monetary|04856
+monitor|monitor|04857
+monogamia|monogamy|04860
+monografía|monograph|04861
+monograma|monogram|04862
+monólogo|monologue|04863
+monopolio|monopoly|04865
+monosílabo|monosyllable|04866
+monoteísmo|monotheism|04867
+monotonía|monotony|04868
+monstruo|monster|04870
+montaña|montain|04871
+monumento|monument|04877
+moral|moral|04881
+morse|morse code|04889
+mortal|mortal|04890
+mortificar|to mortify|04892
+mosaico|mosaic|04893
+mosquito|mosquito|04895
+motel|motel|04900
+moto|motorcycle|04903
+motor|motor|04904
+mover|to move, stir|04905
+mucho|much|04911
+mulato/a|mulatto|04922
+multicolor|multicolor|04925
+multicultural|multicultural|04926
+multimedia|multimedia|04927
+multinacional|multinational|04928
+multiplicar|to multiply|04929
+multitud|multitude|04930
+municipal|policeman, municipal|04933
+mural|mural, wall|04935
+murmullo|murmur|04937
+murmurar|to murmur|04938
+museo|museum|04942
+mutar|to mutate|04947
+mutuo/tua|mutual, reciprocal|04948
+nación\ciones|nation|04953
+narciso|narcissus, daffodil|04961
+narcótico/a|narcotic|04962
+narrar|to narrate, tell|04964
+nasal|nasal|04965
+natal|native, birth, natal|04968
+natividad|nativity, birth|04970
+nativo/a|native|04971
+natural|natural|04972
+naturaleza|nature|04973
+naturalidad|naturalness|04974
+náusea|nausea|04976
+náutico/a|navigation, nautical|04977
+naval|naval|04979
+nebuloso/a|cloudy, nebulous|04987
+necesario/ria|necessary|04989
+necesariamente|necessarily|04990
+necesidad|necessity,need|04991
+necrología|necrology|04993
+néctar|nectar|04994
+negligente|negligent|04996
+negociar|to negotiate|04997
+nepotismo|nepotism|05000
+nervio|nerve|05002
+neurología|neurology|05005
+neurosis|neurosis|05006
+neutral|neutral|05007
+neutrón|neutron|05008
+nicaraguense|nicaraguan|05012
+nicho|niche|05013
+nicotina|nicotine|05014
+nitrato|nitrate|05026
+nitrógeno|nitrogen|05027
+no|no|05029
+noble|nobleman, noble|05030
+nocturno/a|nocturnal|05032
+nomo|nomo|05034
+norma|norm|05037
+norte|north|05039
+norteño/a|northern|05041
+nostalgia|nostalgia|05044
+notario/ria|notary|05046
+notificar|to notify|05048
+notorio|well-known, notorious|05049
+novedad|newness, novelty|05052
+novela|novel|05053
+novelista|novelist|05054
+novicio/cia|novice, beginner, apprentice|05058
+nudismo|nudism|05065
+numeración\ciones|numeration|05075
+numérico/a|numerical|05076
+nupcial|nuptial|05078
+oasis|oasis|05082
+obediencia|obedience|05084
+obediente|obedient|05085
+obeso/a|obese|05086
+obesidad|obesity|05087
+objetar|to object|05089
+objeto|object|05090
+oblicuo/cua|oblique|05091
+obligar|to force, oblige|05092
+observar|to observe|05096
+observación\ciones|observation|05097
+observador/dora|observer|05098
+obsesionar|to obsess|05099
+obstreticia|obstetrics|05102
+obstetra|obstetrician|05103
+obstruir|to obstruct|05104
+obstrucción\ciones|obstruction|05105
+obtuso/a|obtuse|05107
+obviar|to avoid, obviate|05108
+obvio/via|obvious|05109
+obviamente|obviously|05110
+océano|ocean|05114
+octágono|octagon|05118
+odontología|dentist, odonology|05129
+oliva|olive|05150
+omelette|omelette|05154
+omitir|to omit|05155
+omisión\siones|omission|05156
+ómnibus|omnibus|05157
+omnipotente|omnipotente|05158
+ópalo|opal|05165
+opción\ciones|option|05166
+ópera|opera|05167
+operar|to operate|05168
+orientar|to orient|05171
+oriente|orient|05172
+orificio|orifice|05173
+origen/rígenes|origin|05174
+original|original|05175
+originalidad|originality|05176
+ornamental|ornamental|05180
+ornitología|ornithology|05181
+osteoporosis|osteoporosis|05195
+óvalo|oval|05200
+ovario|ovary|05201
+ovular|to ovulate|05204
+ovulación\ciones|ovulation|05205
+oxidar|to oxidize, rust|05206
+ozono|ozone|05209
+paciencia|patience|05212
+pacificar|to pacify|05213
+pacto|pact, agreement|05214
+paella|paella|05217
+pagano/a|pagan|05219
+palacio|palace|05229
+paladar|taste, palate|05230
+palestino/a|palestinian|05233
+palmera|palm tree|05237
+palpitar|to beat, palpitate|05241
+pampa|pampa|05244
+panameño/a|panamanian|05248
+páncreas|pancreas|05250
+panel|panel, plywood|05253
+pánico|panic|05255
+panorama|panorama|05256
+pantalón\lones|pants, trousers|05259
+pantera|panther|05261
+pantimedias|panty hose|05262
+pantomima|pantomime|05263
+papaya|papaya|05272
+papel|paper|05273
+parábola|parable|05278
+parada|stop, parade|05281
+paradoja|paradox|05282
+parafrasear|to paraphrase|05283
+paraguayo/a|paraguayan|05285
+paraíso|paradise|05286
+paralelo/a|parallel|05287
+parálisis|paralysis|05288
+parámetro|parameter|05289
+paranoia|paranoia|05290
+parásito/a|parasitic, parasite|05293
+parcial|partial|05294
+paréntesis|parenthesis|05298
+parking|parking|05301
+parodia|parody|05303
+parqué|parquet|05306
+parte|part|05312
+participar|to participate|05315
+partícula|particle|05316
+particular|particular, private|05317
+pasta|paste, pasta|05336
+pasteurizar|to pasteurize|05338
+patentar|to patent|05343
+paternal|paternal|05344
+patio|patio|05350
+patriarca|patriarch|05354
+patrimonio|patrimony|05355
+patriota|patriotic|05356
+patriotismo|patriotism|05357
+patrulla|patrol|05360
+pectoral|pectoral|05377
+peculiar|peculiar|05378
+peculiaridad|peculiarity|05379
+pedal|pedal|05381
+pedante|pedantic|05382
+pedestal|pedestal|05384
+pediatra|pediatrician|05385
+pedigrí|pedigri|05386
+pelícano|pelican|05394
+pelvis|pelvis|05407
+pena|pain, penalty|05408
+penalty|penalty|05410
+péndulo|pendulum|05412
+penetrar|to penetrate|05414
+penicilina|penicillin|05415
+península|peninsula|05416
+penitencia|penance, penitence|05417
+pentágono|pentagon|05420
+peón|laborer, peon|05424
+percepción\ciones|perception|05429
+percibir|to perceive|05430
+percusión\siones|percussion|05431
+perfección\ciones|perfection|05440
+perforar|to perforate|05442
+perfume|perfume|05443
+período|period|05447
+periquito|periquito|05448
+periscopio|periscope|05449
+permeable|permeable|05452
+pernicioso/a|pernicious|05454
+perpendicular|perpendicular|05456
+perpetrar|to perpetrate|05457
+perpetuar|to perpetuate|05458
+perplejo/a|perplexed|05459
+perseguir|to persecute, pursue|05461
+perseverar|to persevere|05462
+persistir|to persist|05464
+persona|person|05465
+perspectiva|perspective|05466
+persuadir|to persuade|05467
+pertinente|pertinent|05469
+peruano/a|peruvian|05471
+pervertir|to pervert|05472
+perverso/a|perverse|05473
+pervertido/a|perverted|05474
+pesimismo|pesimism|05484
+pestilencia|pestilence|05490
+pétalo|petal|05492
+petrificar|to petrify|05496
+petróleo|petroleum, oil|05497
+piano|piano|05502
+picnic|picnic|05508
+pigmento|pigment|05517
+pillaje|looting, pillage|05523
+piloto|pilot|05524
+pionero/a|pioneer|05538
+piraña|piranha|05541
+pirata|pirate|05542
+pistola|pistol, gun|05551
+pizza|pizza|05555
+placa|plate, sheet, badge|05556
+plácido/a|placid|05558
+plaga|plague|05559
+plagiar|to plagiarize|05560
+plan|plan|05561
+planear|to glide, plan|05565
+planeta|planet|05567
+planificar|to plan|05568
+plano/a|plane, flat, plan|05570
+planta|plant, floor|05571
+plástico/a|plastic|05575
+plataforma|platform|05577
+platino|platinum|05582
+plato|plate, dish|05583
+platónico/a|platonic|05584
+plural|plural|05594
+plutocracia|plutocracy|05596
+poción\ciones|potion|05601
+poema|poem|05606
+polar|polar|05608
+policía|police|05612
+polio|polio, poliomyelitis|05617
+política|politics|05619
+póliza|policy|05620
+poncho|poncho|05628
+popular|popular|05631
+porcelana|porcelain|05634
+porción\ciones|portion|05636
+pornografía|pornography|05638
+portátil|portable|05645
+pórtico|porch, portico|05646
+posición\ciones|position|05654
+positivo/a|positive|05655
+postal|postcard|05657
+postergar|to delay, postpone|05658
+posteridad|posterity|05659
+potable|potable, drinkable|05662
+potasio|potassium|05663
+práctica|practice|05667
+practicar|to practice|05668
+pragmático/a|pragmatic|05670
+preámbulo|introduction, preamble|05671
+precario/ria|precarious|05672
+precaución\ciones|precaution|05673
+precipicio|precipice|05676
+preciso/a|precise|05678
+preconcebido|preconceived|05679
+predecesor/sora|predecessor|05680
+predecir|to predict|05681
+predestinado/a|predestined|05682
+predeterminar|to predetermine|05683
+predicado|predicate|05685
+predicción\ciones|prediction|05688
+predilección\ciones|predilection|05689
+predisposición\ciones|predisposition|05691
+predominante|predominant|05692
+prefabricado/a|prefabricated|05693
+prefacio|preface|05694
+preferir|to prefer|05695
+preferencia|preference|05696
+preferente|preferred|05697
+preferido/a|preferred|05698
+prehistórico/a|prehistoric|05704
+prejuicio|prejudice|05705
+preliminar|preliminary|05706
+prematrimonial|premarital|05707
+prematuro/a|premature|05708
+premeditar|to premeditate|05709
+premenstrual|premenstrual|05710
+premisa|premise|05714
+premonicón\ciones|premonition|05715
+prenatal|prenatal|05717
+preparar|to prepare|05728
+preparación\ciones|preparation|05729
+preparado/a|prepared|05730
+preparativo|preparatory|05731
+preparatoria|preparatory|05732
+preposición\ciones|preposition|05733
+prerrogativa|prerogative|05735
+presencia|presence|05738
+presentar|to present|05740
+presentación\ciones|presentation|05741
+presentador/dora|presenter|05742
+presente|present|05743
+preservar|to preserve|05746
+preservación\ciones|preservation|05747
+preservativo|preservative, condom|05748
+presidente|president|05749
+presidencia|presidency|05750
+presidencial|presidential|05751
+presidir|to preside over|05754
+presión\siones|pressure|05755
+presionar|to press|05756
+prestigio|prestige|05759
+presumir|presume|05761
+presunción\ciones|presumption|05763
+presuponer|to estimate, presuppose|05764
+pretensiones|pretensions|05768
+pretexto|pretext|05770
+prevalecer|to prevail|05771
+prevenir|to prevent, warm|05772
+prevención\ciones|prevention|05773
+previo/via|previous|05776
+primario/ria|primary|05780
+primitivo/a|primitive|05783
+princesa|princess|05789
+principado|principality|05790
+principal|principal|05791
+príncipe|prince|05792
+principio|beginning, principle|05793
+prioridad|priority|05794
+prisión|prison|05796
+privado/a|private|05799
+privilegio|privilege|05801
+probabilidad|probability|05804
+probable|probable|05805
+probablemente|probably|05806
+problema|problem|05808
+problemático/a|problematic|05809
+proceder|to proceed|05810
+procedimiento|procedure|05812
+procesar|to process, prosecute|05813
+procesador|processor|05814
+procesameinto|processing|05815
+procesión\siones|procession|05816
+proceso|process|05817
+proclamar|to proclaim|05818
+proclamación\ciones|proclamation|05819
+procrear|to procreate|05820
+procreación\ciones|procreation|05821
+procurar|to try, procure|05822
+prodigio|prodigy, wonder|05824
+prodigioso|prodigious|05825
+pródigo/a|prodigal|05826
+producir|to produce|05827
+producción\ciones|production|05829
+productivo/a|productive|05830
+producto|product|05831
+productor/tora|producer|05832
+profanar|to desecrate, profane|05834
+profesar|to profess|05837
+profesión\siones|profession|05838
+profesional|professional|05839
+profesor/sora|professor, teacher|05840
+profuso/a|profuse|05849
+profusión\siones|profusion|05850
+programa|program|05851
+programación\ciones|programming|05852
+programador/dora|programmer|05853
+programar|to program|05854
+progreso|progress|05855
+progresión\ciones|progression|05856
+progresivo/a|progressive|05857
+prohibir|to prohibit|05858
+prohibición\ciones|prohibition|05859
+prohibido/a|prohibited|05860
+proletariado|proletariat|05863
+proliferar|to proliferate|05864
+prolífico/a|prolific|05865
+prólogo|prologue|05867
+prolongar|to prolong, legthen|05868
+promesa|promise|05871
+prometer|to promise|05872
+prometido/a|promised, engagement, fiancé|05873
+prominente|prominent|05874
+promiscuo/cua|promiscuous|05875
+promiscuidad|promiscuity|05876
+promocionar|to promote|05877
+promoción\ciones|promotion|05878
+promover|to promote|05879
+promotor/tora|promoter|05880
+promulgar|to promulgate, proclaim|05881
+pronombre|pronoun|05882
+pronunciar|to pronounce|05886
+pronunciación\ciones|pronunciation|05888
+propagación\ciones|propagation|05889
+propagar|to propagate|05891
+propano|propane|05892
+propensión\siones|propensity, inclination|05894
+propiamente|properly, exactly|05896
+propicio/cia|favorable, propitious|05897
+propiedad|property|05898
+propietario/ria|owner,proprietor|05899
+proponer|to propose, nominate|05902
+proporción\cioens|proportion|05903
+proporcionado/a|proportionated|05904
+proporcional|proportional|05905
+proposición\ciones|proposal, propposition|05906
+propuesta|proposal, offer|05908
+propulsar|to drive, propel|05909
+prosa|prose|05913
+prospecto|prospectus|05915
+prosperar|to prosper|05916
+prosperidad|prosperity|05917
+prostituir|to prostitute|05918
+prostitución|prostitution|05919
+prostituta|prostitute|05920
+protagonista|protagonist|05921
+proteger|to protect|05923
+protección\ciones|protection|05924
+protector/tora|protective|05925
+protegido/a|protégé|05926
+proteína|protein|05927
+protestar|to protest|05928
+protestante|protestant|05929
+protocolo|protocol|05930
+prototipo|prototype|05931
+protuberancia|protuberance|05932
+protuberante|protuberant|05933
+proveer|to provide, supply|05936
+proverbio|proverb|05937
+providencia|providence|05938
+provincia|province|05939
+provisión\siones|provision|05940
+provisional|provisional|05941
+provocación\ciones|provocation|05943
+prudencia|prudence|05950
+prudente|prudent|05951
+pubertad|puberty|05968
+publicar|to publish|05969
+publicación\ciones|publication|05970
+publicidad|publicity|05971
+publicista|publicist|05972
+publicitar|to publicize|05973
+pulpa|pulp|05998
+pulso|pulse|06004
+pulverizar|to pulverize, spray|06005
+puma|puma|06007
+pupila|pupil|06025
+puré|puree|06027
+purga|purge|06029
+purgar|to purge|06030
+purgatorio|purgatory|06031
+purificar|to purify|06032
+puritano/a|puritanical|06033
+putrefacción\ciones|rotting, putrefaction|06039
+quieto/a|quiet|06064
+quinteto/a|quintet|06075
+rabioso/a|rabid, enraged|06087
+ración\ciones|ration|06093
+racional|rational|06094
+racionalizar|to rationalize|06095
+racionar|to ration|06096
+racismo|racism|06097
+radar|radar|06098
+radiación\ciones|radiation|06099
+radiactivo/a|radioactive|06100
+radioactividad|radioactivity|06101
+radioemisora|radio station|06103
+radiofónico/a|radio|06105
+radiología|radiology|06107
+rancho|farm, ranch|06121
+rancio/cia|rancid|06123
+rapaz\paces|rapacious|06127
+rápido/a|rapid, quick|06128
+ratificar|to ratify|06154
+ratificación\ciones|ratification|06155
+rayón|rayon|06161
+reacción\ciones|reaction|06167
+reaccionar|to react|06168
+reaccionario|reactionary|06169
+reactivar|to reactivate|06171
+real|royal, real|06174
+realidad|reality|06177
+realismo|realism|06178
+realizar|to make, realize|06179
+realización\ciones|realization, accomplishment|06181
+realmente|really|06182
+reanimar|to reanimate, revive|06184
+reaparecer|to reappear|06186
+rebelarse|to rebel|06192
+rebelde|rebel|06193
+rebelión\liones|rebellion|06194
+recapitular|to recapitulate|06208
+recapitulación\ciones|recapitulation|06209
+recepción\ciones|reception|06215
+recepcionista|receptionist|06216
+receptivo/a|receptive|06217
+receptor|receiver|06218
+recesión\siones|recession|06219
+receso|recess|06220
+recíproco/a|reciprocal|06234
+recitar|to recite|06235
+recital|recital|06236
+reclamo|reclamation, lure|06239
+recobrar|to recover|06246
+recomendar|to recommend|06252
+recomendación\ciones|recommendation|06253
+reconciliar|to reconcile|06256
+reconciliación\ciones|reconciliation|06257
+recóndito/a|recondite, hidden|06258
+reconocer|to recognize|06260
+reconocido/a|recognized|06261
+reconocimiento|recognition|06262
+reconsiderar|to reconsider|06263
+reconstruir|to reconstruct|06264
+reconstrucción\ciones|reconstruction|06265
+récord\cords|record|06268
+recrear|to recreate, entertain|06274
+rectángulo|rectangle|06276
+rectangular|rectangular|06277
+rectificar|to rectify|06278
+rectitud|straightness, rectitude|06279
+recto/a|rectum, straight|06280
+rector/tora|director, rector|06281
+rectoría|rectory|06282
+redención\ciones|redemption|06295
+redoblar|to redouble|06296
+reducir|to reduce|06297
+reducción\ciones|reduction|06298
+redundante|redundant|06299
+redundancia|redundancy|06300
+referir|to refer|06309
+referéndum|referendum|06310
+referente|referring, concerning|06311
+refinar|to refine|06312
+refinado/a|refined|06313
+refinamiento|refinement|06314
+refinería|refinery|06315
+reflector|reflector|06316
+reflejar|to reflect|06317
+reflejo|reflection|06319
+reflexionar|to reflect, think|06320
+reflexión\xiones|reflection|06321
+reflexivo/a|reflexive|06322
+reforma|reform|06323
+reformador/dora|reformer|06324
+reformar|to reform|06325
+reformatorio|reformatory|06326
+refrescar|to refresh, cool|06332
+refrescante|refreshing|06333
+refrigeración\ciones|refrigeration|06336
+refrigerio|refreshment|06337
+refugiado/a|refugee|06341
+regenerar|to regenerate|06353
+régimen|regime|06354
+regimiento|regiment|06355
+región\giones|region|06357
+registrar|to register|06359
+registrador/dora|register|06360
+registro|registration|06361
+regresión\siones|regression|06371
+regresivo/a|regressive|06372
+regular|regular, to regulate|06374
+regulación\ciones|regulation|06375
+rehabilitar|to rehabilitate|06376
+rehabilitación\ciones|rehabilitation|06377
+reintegrar|to refund, reinstate|06387
+reiterar|to reiterate|06391
+rejuvenecer|to rejuvenate|06394
+relación\ciones|relation|06396
+relacionar|to relate|06397
+relajar|to relax|06398
+relajarse|to relax|06399
+relajación\ciones|relaxation|06400
+relajado/a|relaxed|06401
+relatar|to relate, tell|06404
+relativo/a|relative|06405
+relieve|relief|06410
+religión\giones|religion|06411
+religioso/a|religious|06412
+reliquia|relic|06413
+remanente|remainder|06418
+remediar|to remedy, repair|06422
+remisión\siones|remission|06425
+remitir|to send, remit|06427
+remodelar|to remodel|06430
+remordimiento|remorse|06437
+remoto/a|remote|06438
+remunerar|to remunerate|06439
+rendir|to render, to yield|06448
+renegado/a|renegade|06452
+renombre|reputation, renown|06455
+renombrado/a|famous, renowned|06456
+renovación\ciones|renewal, renovation|06458
+rentar|to rent|06459
+renuncia|renunciation|06461
+reorganizar|to reorganize|06463
+reparar|to repair|06464
+reparación\ciones|reparation|06465
+repeler|to repel|06472
+repertorio|repertoire|06473
+repetir|to repeat|06474
+repleto/a|replete, full|06475
+replicar|to reply|06476
+réplica|reply|06477
+reportar|to report|06480
+reporte|report|06482
+representar|to represent|06486
+representación\ciones|representation|06487
+representativo/a|representative|06488
+represión\siones|repression|06489
+reprimir|to repress|06490
+reprobar|to reprove|06491
+reproducir|to reproduce|06492
+reproducción\ciones|reproduction|06493
+reproductor/tora|reproductive|06494
+repulsivo/a|repulsive|06498
+requerir|to require|06500
+requisito|requirement|06502
+rescatar|to rescue|06509
+rescate|rescue|06510
+resentimiento|resentment|06516
+reserva|reserve|06517
+reserva|reservation|06518
+reservación\ciones|reservation|06519
+reservado/a|reserved|06520
+residencia|residence|06522
+resignar|to resign|06524
+resignación\ciones|resignation|06525
+resina|resin|06526
+resistir|to resist|06527
+resistencia|resistance|06528
+resolución\ciones|resolution|06530
+resonancia|resonance|06531
+respectivo/a|respective|06533
+respetar|to respect|06534
+respeto|respect|06535
+respetuoso/a|respectful|06536
+respiración\ciones|breathing, respiration|06538
+respiratorio/ria|respiratory|06539
+responsable|responsible|06545
+responsabilidad|responsibility|06546
+restablecer|to restore|06549
+restablecimiento|restoration|06551
+restante|rest, remaining|06553
+restauración\ciones|restoration|06554
+restaurante|restaurant|06555
+restituir|to restore|06557
+restitución\ciones|restitution|06558
+resto|rest|06559
+restringir|to restrict|06560
+restricción\ciones|restriction|06561
+resucitar|to resuscitate, revive|06562
+resurgiomiento|resurgence|06567
+resurrección\ciones|resurrection|06568
+retención\ciones|retention|06572
+retina|retina|06573
+retirado/a|retired, secluded|06577
+retraer|to retract|06584
+retroactivo/a|retroactive|06593
+revelar|to reveal|06599
+revelación\ciones|revelation|06600
+revelado|revealed, developing|06601
+revelador/dora|revealer|06602
+reverenciar|to revere|06605
+reverencia|reverence, bow|06606
+reverendo/a|reverend|06607
+reverente|reverent|06608
+reversa|reverse|06609
+revertir|to revert|06610
+revisar|to review|06612
+revisión\siones|revision|06613
+revivir|to revive|06616
+revocar|to revoke|06617
+revolución\ciones|revolution|06622
+revolucionar|to revolutionize|06623
+revolucionario/ria|revolutionary|06624
+revólver|revolver|06626
+ridiculizar|to ridicule|06631
+rifle|rifle|06638
+rígido/a|rigid|06639
+rigor|rigor|06640
+ritual|ritual|06655
+rival|rival|06656
+rivalidad|rivalry|06657
+robot\bots|robot|06665
+robótica|robotics|06666
+rollo|roll|06678
+romance|romance|06679
+romano/a|roman|06680
+romántico/a|romantic|06681
+romanticismo|romanticism|06682
+rosario|rosary|06697
+roseta|rosette|06699
+rotación\ciones|rotation|06702
+rotativo/a|rotary|06703
+rudimientos|rudiments|06712
+rudimentario/ria|rudimentary|06713
+ruina|ruin|06721
+rumano/a|rumanian|06726
+rumba|rumba|06727
+rumiante|ruminant|06730
+rumor|rumor|06731
+ruptura|rupture|06733
+rural|rural|06734
+sabotaje|sabotage|06745
+saboteador/dora|saboteur|06746
+sabotear|to sabotage|06747
+saciar|to satisfy|06757
+sacramento|sacrament|06759
+sacramental|sacramental|06760
+sacrificar|to sacrifice|06761
+sacrificarse|to sacrifice oneself|06762
+sacrificio|sacrifice|06763
+sacrilegio|sacrilege|06764
+sacrílego/a|sacrilegious|06765
+sacro/cra|sacred|06766
+sacrosanto|sacrosanct|06767
+sádico/a|sadistic|06771
+sadismo|sadism|06772
+safari|safari|06774
+salario|salary|06780
+saliva|saliva|06785
+salmón\mones|salmon|06787
+saludar|to greet, salute|06799
+salvación\ciones|salvation|06801
+salvadoreño/a|salvadoran|06804
+samba|samba|06810
+sanatorio|sanatorium|06812
+sanción\ciones|sanction|06813
+sancionar|to sanction|06814
+sandalia|sandal|06815
+sandwich\wiches|sandwich|06817
+sanguíneo/nea|sanguineous|06824
+sarcasmo|sarcasm|06833
+sarcástico/a|sarcastic|06834
+sardina|sardine|06835
+satanás|satan|06841
+satánico/a|satanic|06842
+satélite|satellite|06843
+sátira|satire|06844
+satírico/a|satirical, satirist|06845
+satisfacer|to satisfy|06846
+satisfacción\ciones|satisfaction|06847
+satisfactorio/ria|satisfactory|06848
+satisfecho/cha|satisfied|06849
+saturar|to saturate|06850
+saturno|saturn|06851
+sauna|sauna|06852
+saxofón\fones|saxophone|06853
+secretar|to secrete|06863
+secreción\ciones|secretion|06864
+secretario/ria|secretary|06865
+secretaría|secretariat|06866
+secreto/a|secret|06867
+secta|sect|06868
+sector|sector|06869
+secular|secular|06876
+secundar|to secundar|06877
+sedar|to sedate|06882
+sedentario/ria|sedentary|06884
+sedicioso/a|seditious|06885
+sedimento|sediment|06886
+seducir|to seduce|06888
+seducción\ciones|seduction|06889
+seductor/tora|seductive|06890
+segmento|segment|06891
+segregar|to segregate|06892
+segregación\ciones|segregation|06893
+selección\ciones|selection|06904
+seleccionar|to select|06905
+selectivo/a|selective|06906
+selecto/a|select|06907
+semántica|semantics|06914
+semántico|semantic|06915
+semen|semen|06918
+semestre|semester|06920
+semifinal|semifinal|06921
+seminario|seminary|06923
+sémola|semolina|06924
+senado|senate|06925
+senador/dora|senator|06926
+senil|senile|06930
+sensación\ciones|sensation, feeling|06932
+sensacional|sensational|06933
+sensacionalista|sensationalistic|06934
+sensato/a|sensible|06935
+sensible|sensitive|06937
+sensibilidad|sensitivity|06938
+sensitivo|sense|06939
+sensual|sensual|06940
+sensualidad|sensuality|06941
+sentencia|sentence|06945
+sentimental|sentimental|06948
+sentimentalismo|sentimentality|06949
+separar|to separate|06956
+septiembre|september|06957
+serenata|serenade|06967
+serenidad|serenity|06968
+sereno/a|serene, night watchman|06969
+serie/ria|series|06970
+seriedad|seriousness|06971
+sermón\mones|sermon|06972
+serpiente|serpent, snake|06974
+servicio|service|06976
+servir|to serve|06978
+severo/a|severe, harsh|06986
+sexista|sexist|06989
+sexteto|sextet|06990
+sexual|sexual|06992
+sexualidad|sexuality|06993
+sexy|sexy|06994
+siesta|siesta|07003
+significación\ciones|meaning, significance|07009
+significativo/a|significant|07011
+signo|sign|07012
+silenciar|to silence|07018
+silencio|silence|07020
+silencioso/a|quiet, silent|07021
+silicio|silicon|07022
+silo|silo|07024
+símil|simile|07034
+similar|similar|07035
+simple|simple|07040
+simpleza|simpleness|07041
+simplicidad|simplicity|07042
+simplificar|to simplify|07043
+simular|to simulate|07045
+sincero/a|sincere|07049
+sinceramente|sincerely|07050
+sinceridad|sincerity|07051
+singularizar|to distinguish, single out|07058
+siniestro/tra|sinister|07059
+situación\ciones|situation|07080
+sobriedad|sobriety|07114
+sociable|sociable|07117
+social|social|07118
+socialismo|socialism|07119
+socialista|socialist|07120
+sociedad|society|07121
+sociología|sociology|07122
+sociólogo/a|sociologist|07123
+soda|soda water|07127
+sodio|sodium|07128
+sofá|sofa|07129
+solar|to solar|07140
+soldado|soldier|07141
+solemne|solemn|07145
+solicitar|to solicit, request|07146
+solícito/a|solicitous|07148
+solidaridad|solidarity|07150
+sólido/a|solid|07151
+solidez|solidity|07152
+solidificar|to solidify|07153
+solidificarse|to solidify|07154
+solitario/ria|solitary, loleny|07156
+solsiticio|solstice|07161
+solución\ciones|solution|07164
+solvente|reliable, solvent|07167
+sonata|sonata|07177
+sonoro/a|sonorous|07180
+soprano|soprano|07194
+soviético/a|soviet|07215
+subcomité|subcommittee|07227
+subdividir|to subdivide|07230
+subdivisión\siones|subdivision|07231
+subjetivo/a|subjective|07238
+subjuntivo/a|subjunctive|07239
+sublime|sublime|07243
+submarino|submarine|07244
+subordinar|to subordinate|07246
+subordinado/a|subordinate|07247
+subsidio|subsidy|07251
+subsigueinte|subsequent|07252
+subsistir|to subsist|07253
+subterráneo/nea|subterranean|07254
+subtítulo|subtitle|07255
+suburbio|suburb|07256
+suburbano/a|suburban|07257
+subversivo/a|subversive|07259
+suicidio|suicide|07297
+suicida|suicidal|07298
+suite|suite|07300
+sulfuro|sulfur|07304
+sultán\tanes|sultan|07305
+superabundancia|superabundance|07318
+superestructura|superstructure|07322
+superficial|superficial|07324
+superfluo/flua|superfluous|07325
+superintendente|superintendent|07326
+superior|superior|07327
+superioridad|superiority|07328
+superlativo/a|superlative|07329
+supermercado|supermarket|07330
+supersónico/a|supersonic|07332
+supersticioso/a|superstitious|07333
+supervisar|to supervise|07334
+supervisión\siones|supervision|07335
+supervisor/sora|supervisor|07336
+supremo/a|supreme|07348
+supremacía|supremacy|07349
+surf|surfing|07356
+susceptible|susceptible|07363
+susceptibilidad|susceptibility|07364
+suspender|to suspend|07369
+suspenso|suspense|07372
+suspicaz\caces|suspicious|07373
+sustento|sustenance|07383
+sutura|suture|07394
+switch|switch|07396
+tableta|tablet|07401
+tabular|tabulate|07405
+tácito\ta|tacit|07410
+taciturno/a|taciturn|07411
+táctica|tactics|07414
+talco|talcum powder|07422
+talento|talent|07423
+talentoso/a|talented|07424
+talismán\manes|talisman|07425
+tamal|tamale|07431
+tampón\pones|tampon|07437
+tangente|tangent|07439
+tangible|tangible|07440
+tango|tango|07441
+tarántula|tarantula|07456
+taxi|taxi|07471
+taxista|taxi driver|07472
+tedioso/a|tedious|07486
+tele|tv, television|07494
+telecomunicación\ciones|telecommunication|07495
+telefonear|to telephone|07497
+telefónico/a|telephone|07498
+teléfono|telephone|07500
+telegrafiar|to telegraph|07501
+telegráfico/a|telegraphic|07502
+telégrafo|telegraph|07503
+telegrama|telegram|07504
+telepatía|telepathy|07506
+telepático/a|telepathic|07507
+telescopio|telescope|07508
+telescópico/a|telescopic|07509
+televisión\siones|television|07512
+televisar|to televise|07513
+televisor|television set|07514
+temperamento|temperament|07525
+temperamental|temperamental|07526
+temperatura|temperature|07527
+templo|temple|07532
+tenaz\naces|tenacious|07537
+tendencia|tendency|07540
+tenebroso/a|tenebrous|07546
+tenor|tenor|07553
+tensión\siones|tension|07554
+tentáculo|tentacle|07556
+tenue|tenuous|07560
+tequila|tequila|07567
+terminación\ciones|termination, conclusion|07579
+terminal|terminal|07580
+término|term|07581
+terminología|terminology|07582
+terracota|terra-cotta|07590
+terraza|terrace|07592
+terrible|terrible|07595
+territorio|territory|07596
+terror|terror|07598
+terrorífico/a|terrifying|07599
+terrorismo|terrorism|07600
+terrorista|terrorist|07601
+testamento|testament|07607
+testículo|testicle|07608
+testificar|to testify|07609
+testimoniar|to testify|07611
+testimonio|testimony|07612
+tétano|tetanuz|07613
+textil|textile|07617
+texto|text|07618
+textual|textual|07619
+textura|texture|07620
+tic|tic|07625
+timidez|timidity|07640
+tintura|tint|07650
+tobogán\ganes|toboggan|07684
+toga|toga|07695
+tolerar|to tolerate|07697
+tolerancia|tolerance|07698
+tolerante|tolerant|07699
+tomate|tomato|07702
+tónica|tonic|07706
+tónico|tonic|07707
+topacio|topaz|07710
+tópico/a|topic|07712
+tornado|tornado|07725
+torpedo|torpedo|07733
+torrente|torrent|07736
+torrencial|torrential|07737
+tortilla|tortilla|07740
+tortura|torture|07744
+torturar|to torture|07745
+total|total|07753
+totalidad|totality|07754
+tóxico/a|toxic, poison|07755
+toxina|toxin|07756
+tracción\ciones|traction|07764
+tractor|tractor|07765
+tradicción\ciones|tradition|07766
+tradicional|traditional|07767
+tráfico|traffic|07773
+tragedia|tragedy|07776
+trailer|trailer|07782
+tranquilidad|tranquillity|07796
+tranquilizante|tranquilizer|07797
+transacción\ciones|transaction|07800
+transatlántico/a|transatlantic|07801
+transbodar|to transfer|07803
+transcribir|to transcribe|07804
+transcripción\ciones|transcription|07805
+transferir|to transfer|07809
+transferencia|transference|07810
+transformar|to transform|07811
+transformación\ciones|transformation|07813
+transformador|transformer|07814
+transfusión\siones|transfusion|07815
+transgredir|to transgress|07816
+transgresión\siones|transgression|07817
+transción\ciones|transition|07818
+transistor|transistor|07819
+transitivo/a|transitive|07822
+tránsito|transit|07823
+transitorio/ria|transitory|07824
+transmitir|to transmit|07825
+transmisión\siones|transmission|07826
+transmisor|transmitter|07827
+transparente|transparent|07828
+transportar|to transport|07831
+transporte|transport|07833
+trapecio|trapeze|07836
+trauma|trauma|07865
+traumático/a|traumatic|07866
+tremendo/a|tremendous|07881
+trémulo/a|tremulous|07882
+triángulo|triangle|07891
+triangular|triangular|07892
+tribu|tribe|07893
+tribulación\ciones|tribulation|07894
+tribuna|tribune|07895
+tributo|tribute|07898
+triciclo|tricycle|07899
+tricolor|tricolored|07900
+trilogía|trilogy|07907
+trinidad|trinity|07911
+trío|trio|07913
+triple|triple|07915
+trípode|tripod|07916
+triunfal|triumphal|07923
+triunfante|triumphant|07924
+trivial|trivial|07926
+trombón\bones|trombone|07929
+trópico|tropic|07943
+tropical|tropical|07944
+trotar|to trot|07946
+trote|trot|07947
+tuba|tuba|07955
+tuberculosis|tuberculosis|07956
+tulipán\panes|tulip|07963
+tumor|tumor|07966
+turbante|turban|07973
+turbina|turbine|07975
+turbulencia|turbulence|07977
+turbulento/a|turbulent|07978
+turno|turn|07984
+turquesa|turquoise|07985
+turrón\rrones|turrón|07986
+tutor/tora|tutor|07987
+ultimátum\tums|ultimatum|07998
+ultrasonido|ultrasound|08003
+ultravioleta|ultraviolet|08004
+umbilical|umbilical|08005
+unánime|unanimous|08008
+unicornio|unicorn|08013
+unificar|to unify|08016
+unificación\ciones|unification|08017
+uniformar|to uniform|08018
+uniformado/a|uniformed|08019
+uniforme|uniform|08020
+uniformidad|uniformity|08021
+unilateral|unilateral|08022
+unión\niones|union|08025
+unitario/ria|unitary|08027
+universal|universal|08028
+universidad|university|08029
+universitario/ria|university, college student|08030
+universo|universe|08031
+uranio|uranium|08035
+urano|uranus|08036
+urbano/a|urban|08037
+urbanización\ciones|urbanization|08039
+urbanizar|to urbanize|08040
+urgencia|urgency|08042
+urgente|urgent|08043
+usual|usual|08051
+usurpar|to usurp|08053
+utensilio|utensil|08054
+utilidad|utility|08059
+utilitario/ria|utilitarian|08060
+vacaciones|vacations|08064
+vacante|vacancy|08065
+vacilar|to vacillate|08067
+vacilante|vacillating|08069
+vagina|vagina|08079
+validar|to validate|08091
+valija|valise, case|08093
+valle|valley|08095
+válvula|valve|08097
+vampiro|vampire|08098
+vándalo|vandal|08100
+vandalismo|vandalism|08101
+vanguardia|vanguard|08102
+vanidad|vanity|08103
+vaporizador|vaporizer|08107
+vaporizar|to vaporize|08108
+variable|variable|08114
+variación\ciones|variation|08115
+variado/a|varied|08116
+variante|variant|08117
+variedad|variety|08119
+vegetal|vegetable|08130
+vegetación\ciones|vegetation|08131
+vegetar|to vegetate|08132
+vegetariano/a|vegetarian|08133
+vehemente|vehement|08134
+vehículo|vehicle|08135
+veinteavo/a|veinteavo|08137
+venerar|to venerate|08165
+venerable|venerable|08166
+veneración\ciones|veneration|08167
+venéreo/rea|venereal|08168
+venezolano/a|venezuelan|08169
+venial|venial|08174
+ventilar|to ventilate|08183
+ventilación\ciones|ventilation|08184
+ventilador|ventilator, fan|08185
+ventrílocuo/cua|ventriloquist|08188
+veracidad|veracity|08192
+verbal|verbal|08198
+verbo|verb|08200
+verificar|to verify|08212
+verificación\ciones|verification|08213
+versátil|versatile|08215
+versión\siones|version|08216
+vértebra|vertebra|08217
+vertical|vertical|08218
+vértice|vertex|08219
+vértigo|vertigo|08220
+vestíbulo|vestibule|08222
+vestigio|vestige|08224
+veterano/a|veteran|08230
+veterinaria|veterinary medicine|08231
+veterinario/ria|veterinarian|08232
+vía|via|08234
+viable|viable|08235
+viabilidad|viability|08236
+vibrar|to vibrate|08242
+vibración\ciones|vibration|08243
+vibrante|vibrant|08244
+vicepresidente/a|vice-president|08245
+viceversa|vice versa|08246
+viciado/a|vitiated|08248
+viciar|to vitiate|08249
+vicioso/a|vicious person|08250
+vicisitud|vicissitude|08251
+víctima|victim|08252
+victoria|victory|08253
+victorioso/a|victorious|08254
+video|video|08257
+vigilancia|vigilance|08270
+vigoroso/a|vigorous|08273
+vileza|vileness|08276
+villa|village|08277
+villano/a|villain|08279
+vinagreta|vinaigrette|08281
+vindicar|to vindicate|08283
+viola|viola|08286
+violar|to violate, to rape|08287
+violación\ciones|violation, rape|08288
+violencia|violence|08289
+violeta|violet|08292
+violín\lines|violin|08293
+violinista|violinist|08294
+virgen\vírgenes|virgin|08298
+virginal|virginal|08299
+virginidad|virginity|08300
+viril|virile|08301
+virilidad|virility|08302
+virtual|virtual|08303
+virtud|virtue|08304
+virtuoso/a|virtuoso|08305
+virulento/a|virulent|08307
+virus|virus|08308
+visa|visa|08309
+visado|visa|08310
+viscoso/a|viscous|08312
+visión\siones|vision|08315
+visitar|to visit|08316
+visual|visual|08323
+visualizar|to visualize|08324
+vital|vital|08325
+vitalidad|vitality|08326
+vitamina|vitamin|08327
+vivacidad|vivacity|08332
+vivificar|to vivify|08340
+vocabulario|vocabulary|08344
+vocación\ciones|vocation|08345
+vocacional|vocational|08346
+vociferar|to vociferate|08351
+vodka|vodka|08352
+volátil|volatile|08356
+volcán/canes|volcano|08357
+volcánico/a|volcanic|08358
+voltaje|voltage|08362
+voltio|volt|08366
+volumen\lúmenes|volume|08368
+voluminoso/a|voluminous|08369
+voluntario/ria|volunteer|08371
+voluptuoso/a|voluptuous|08373
+vomitar|to vomit|08376
+voraz\races|voracious|08377
+vulgar|vulgar|08387
+vulgaridad|vulgarity|08388
+vulnerable|vulnerable|08389
+vulnerabilidad|vulnerability|08390
+whisky|whiskey|08392
+yoga|yoga|08406
+yogurt|yogurt|08407
+zigzag|zigzag|08433
+zinc|zinc|08434
+zodíaco|zodiac|08436
+zoo|zoo|08438
+zoología|zoology|08439
+zoológico/a|zoological|08440
+zoólogo/a|zoologist|08441
+me|me|08469
+cultura|culture|08471
+existencia|existence|08490
+humana|human(fem)|08493
+latina|latin(fem)|08499
+esencial|esential|08502
+estados|estates|08505
+transcendental|transcendental|08506
+precisamente|precisely|08508
+europa|europe|08511
+principios|principles, values|08513
+límite|limit|08515
+nacional|national|08518
+posible|posible|08528
+cultural|cultural|08529
+crítica|critic|08533
+futuro|future|08534
+efecto|efect|08538
+poeta|poet|08558
+político|political|08567
+millón|million|08573
+partido|party, game|08574
+importante|important|08578
+resultado|result, outcome|08587
+económico|economic, economical|08589
+centro|center, downtown|08595
+personal|personal|08596
+completo|complete, full|08616
+opinión|opinion|08620
+directo|direct, straight|08621
+personaje|person|08623
+definitivo|definitive|08624
+grave|grave, deep|08625
+objetivo|objective|08628
+instante|moment, instant|08629
+barcelona|barcelona|08630
+operación|operation|08631
+causa|cause, reason|08633
+diverso|diverse|08635
+interesar|to interest|08636
+serio|serious|08637
+normal|normal|08641
+modelo|model|08646
+material|material|08650
+paciente|patient|08652
+histórico|historical|08653
+expresión|expression|08656
+figura|figure, shape|08657
+práctico|practical|08659
+base|base, basis|08660
+marcha|march|08662
+defensa|defense|08664
+familiar|familial, family|08666
+conversación|conversation|08670
+concreto|concrete, specific|08672
+extremo|extreme|08676
+fundamental|fundamental|08677
+distancia|distance|08684
+control|control, check|08687
+evidente|evident|08691
+habitual|habitual, usual|08695
+francia|france|08696
+perfecto|perfect|08698
+destino|destiny, destination|08700
+individuo|individual|08701
+famoso|famous|08704
+introducir|to introduce, insert|08707
+contacto|contact|08713
+radio|radio|08714
+informar|to inform|08716
+constante|constant|08718
+catalán|catalan|08719
+declaración|declaration, statement|08723
+complejo|complex|08731
+visita|visits|08734
+factor|factor|08735
+distinguir|to distinguish|08738
+franco|frank, franc|08743
+contenido|restrained, contents|08744
+literario|literary|08746
+numeroso|numerous|08747
+interno|internal|08748
+denominar|to denominate|08751
+explicación|explanation|08758
+vario|varied|08760
+crítico|critical, critic, reviewer|08763
+curioso|curious, inquisitive|08765
+detalle|detail|08768
+electoral|electoral|08772
+referencia|reference|08775
+lógico|logical|08776
+perfectamente|perfectly|08781
+falso|false, untrue|08782
+intervención|intervention|08784
+nervioso|nervous|08786
+formación|formation, training|08789
+construcción|construction, building|08791
+parís|paris|08803
+intento|intention|08804
+tradición|tradition|08806
+guardia|guard, vigilence|08809
+confianza|confidence, trust|08813
+constitución|constitution|08814
+básico|basic|08815
+radical|radical|08816
+consumo|consumption|08821
+excesivo|excessive|08824
+identificar|to identify|08825
+eléctrico|electrical, electric|08827
+gonzález|gonzález|08828
+educación|education, manners|08830
+genético|genetic|08833
+remedio|remedy|08834
+industrial|industrialist, industrial|08836
+investigador|investigator, researcher|08840
+negativo|negative|08841
+exclusivo|exclusive|08842
+personalidad|personality|08846
+concentración|concentration|08848
+infinito|infinite|08849
+laboratorio|laboratory, lab|08850
+intenso|intense|08851
+argumento|argument|08852
+destruir|to destroy, dismiss|08853
+parlamentario|parliamentary|08858
+documento|document|08863
+manifestación|manifestation|08866
+permanente|permanent|08869
+imaginación|imagination|08873
+impulso|impulse|08877
+interesante|interesting|08880
+biológico|biological|08889
+consciente|conscious|08890
+incapaz|incapable|08894
+beneficio|benefit|08896
+violento|violent|08897
+equilibrio|balance, equilibrium|08901
+inicial|initial|08902
+derivar|to derive, drift|08909
+facilitar|to facilitate, provide, supply|08913
+notable|notable|08916
+empleo|use, employment, job|08917
+circular|to circulate, drive|08921
+banda|band|08923
+nuclear|nuclear|08924
+decisivo|decisive|08929
+artístico|artistic|08930
+delicado|delicate|08931
+pendiente|pending|08935
+medicina|medicine|08936
+representante|representative|08944
+transición|transition|08945
+curiosidad|curiosity|08946
+consideración|consideration|08948
+participación|participation|08950
+competencia|competition, competence|08954
+correspondiente|corresponding, respective|08960
+debate|debate|08961
+parlamento|parliament|08964
+iniciativa|initiative|08970
+precisión|precision|08974
+diálogo|dialogue|08979
+reservar|to reserve, keep, save|08981
+financiero|financial, financier|08982
+ideológico|ideological|08983
+obligación|obligation|08984
+humanidad|humanity|08992

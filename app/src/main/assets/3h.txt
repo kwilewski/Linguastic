@@ -1,0 +1,100 @@
+mí|me, not my|04761
+cual|as, like|02186
+después|afterwards, then|02494
+después de|after|08571
+pequeño/a|small|05427
+tipo/a|guy|07653
+joven|young person|04271
+entrar|to enter|02901
+tal|so|07419
+escribir|to write|02985
+agua|water|00450
+gobierno|government|08572
+humano/a|human|03794
+millón|million|08573
+final|end, final|03336
+todavía|still|07691
+primer|first|08510
+verdad|truth|08201
+público/a|public|05975
+fin|end|03335
+puerta|door|05985
+realidad|reality|06177
+viejo/a|old|08261
+frente|in front|03436
+partido|party, game|08574
+nombre|name|08575
+oír|to hear|05141
+caer|to fall|01425
+conseguir|to obtain|01978
+permitir|to allow|05453
+gente|people|03524
+ciudad|city|01737
+estado|state|03058
+ocurrir|to happen|05127
+mes|month|04740
+luz|light, lighting|04498
+mantener|to maintain|04583
+cuenta|count|02213
+largo|long|08576
+voz\voces|voice|08383
+grupo|group|03617
+considerar|to consider|01983
+razón\zones|reason|06163
+calle|street|01445
+paso|step|05335
+paso|step|08577
+aparecer|to appear|00901
+entender|to understand|02889
+sistema|system|07075
+libro|book|04410
+país|country, nation|05223
+además|in addition, besides, furthermore|00248
+buscar|to look for, to seek|01389
+punto|point|06015
+amigo/a|friend|00710
+cuatro|four|02200
+pedir|to request, ask for|05387
+muerte|death|04918
+realizar|to make, realize|06179
+relación\ciones|relation|06396
+comenzar|to begin, start|01851
+importante|important|08578
+social|social|07118
+cambio|change|08548
+hecho/cha|fact|03676
+mal|badly, poorly, incorrectly|04524
+gustar|to taste, like|03647
+idea|idea|03809
+suponer|to suppose|07345
+sentar|to seat, sit|06942
+pueblo|town|05982
+pueblo|town|08579
+antes de|before|08580
+mañana|tomorrow|04591
+sentido/a|heartfelt,sense|06946
+presentar|to present|05740
+situación\ciones|situation|07080
+amor|love|00725
+decidir|to decide|02268
+demasiado|too much|02320
+negro/gra|black|04998
+recibir|to receive|06223
+manera|way, manner|04563
+explicar|to explain|03196
+guerra|war|03637
+fuerza|force, strength|03458
+servir|to serve|06978
+real|royal, real|06174
+intentar|to try|04140
+tierra|earth|07629
+levantar|to lift, raise|04396
+leer|to read|04364
+éste/a|this one|03079
+equipo|equipment, team|02933
+presidente|president|05749
+número|number|08581
+lado|side|04319
+siglo|century|07007
+crear|to create|02135
+sociedad|society|07121

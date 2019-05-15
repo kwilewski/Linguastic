@@ -1,0 +1,100 @@
+de|of, from|02254
+el/a|the|02731
+lo|the for it|08457
+que|that|06040
+y|and|08393
+él|he, him|02732
+en|in, into, inside, on|02804
+a|a, to|00001
+un/una|a, an|08007
+ser|to be|06964
+no|no|05029
+su|his|07220
+haber|to have, has|03650
+del|of, from|08455
+con|with|08458
+por|by, for, per|05633
+yo|I|08404
+uno/una|one|08032
+al|to, to the|08459
+para|for, towars, stop|05277
+como|as, since, like|01865
+más|more|04635
+estar|to be, stay|03070
+todo/a|everything|07692
+tener|to have|07548
+poder|to be able to, can, might, may|05604
+pero|but|05455
+este/a|this|03076
+este|this|03078
+o|or|05081
+hacer|to do, make|03659
+decir|to say, tell|02277
+otro/tra|another, other|05199
+si|if, yes|06995
+sin|without|07047
+mi\mis|my, not me|04760
+ese/a|that|02996
+ir|to go|04206
+dar|to give|02251
+cuando|when|02191
+ya|already|08394
+ver|to see|08191
+sobre|envelope, on|07093
+saber|to know|06742
+año|year|01182
+entre|between, among|02902
+muy|very, highly|04949
+mismo|same|04814
+qué|what|06041
+mucho|much|04911
+dos|two|02666
+porque|because, why|05640
+sólo|only|07160
+también|also, too|07434
+vez\veces|time|08233
+día|day|02528
+aquel|that|00948
+parecer|to seem|05295
+querer|to want|06055
+ni|nor, neither|05011
+pasar|to happen, pass|05325
+hasta|until, even|03672
+llegar|to arrive, come|04451
+tan|so|07438
+deber|to owe|02257
+hombre|man|03746
+tiempo|time|07626
+desde|from, since|02417
+nuestro/tra|ours|05068
+poner|to put|05629
+primero/a|first|05782
+dejar|to leave|02302
+vida|life|08256
+ahora|now|00470
+tanto/a|so much|07444
+poco/a|little, few|05602
+siempre|always|06999
+eso|that|03009
+llevar|to take, carry|04453
+nuevo/a|new|05071
+quedar|to stay|06048
+cosa|thing|02112
+nada|nothing|04954
+parte|part|05312
+mujer/jeres|woman, women|04921
+aunque|though, although|01123
+cada|each|08477
+bien|well, good|01273
+seguir|to follow|06894
+así|like this|01065
+buen|good, well|08563
+algo|something|00572
+hablar|to speak, talk|03656
+donde|where|02661
+volver|to return|08374
+encontrar|to find|02829
+pensar|to think|05419
+casa|house|01561
+mundo|world|04931
+último/a|last|07999

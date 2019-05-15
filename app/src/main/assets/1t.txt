@@ -1,0 +1,999 @@
+a partir de|from, as of|08709
+a través de|through, across|08611
+a|a, to|00001
+abajo|down, below, downstairs|00002
+abandonar|to abandon|00003
+abrir|to open, unlock|00071
+absoluto/a|absolute|00076
+abuelo|grandfathers, grandpa|08693
+acabar|to finish|00101
+acaso|perhaps, maybe|00113
+acción\ciones|action|00122
+aceptar|to accept|00134
+acercar|to approach|08599
+acompañar|to accompany|00166
+acordar|to decide|00176
+actitud|attitude|00201
+actividad|activity|00203
+acto|act|00205
+actual|present|00208
+actuar|to act|00213
+acudir|to go, come|00218
+acuerdo|agreement|00220
+adelante|ahead|00245
+además de|in addition to, besides, furthermore|08702
+además|in addition, besides, furthermore|00248
+adquirir|to acquire|00307
+advertir|to notice, warn|08651
+afectar|to affect|00342
+afirmar|to affirm|00368
+agua|water|00450
+ahí|there|00464
+ahí|there|08585
+ahora|now|00470
+aire|air|00481
+al|to, to the|08459
+alcanzar|to reach|00530
+alejar|to move away, remove|00547
+alemán/mana|german|00551
+algo|something|00572
+alguien|somebody, someone|08588
+alguien|somebody|00575
+algún|some, any|08564
+alguno/a|some, any|00576
+allá|there|00602
+allí|there|00606
+alma|soul|00607
+alto/a|tall, high, stop|00654
+altura|height|00658
+amar|to love|00682
+ambos/bas|both|00697
+americano/a|american|00705
+amigo/a|friend|00710
+amor|love|00725
+amplio/plia|ample|00741
+añadir|to add|00893
+análisis|analysis|00752
+andar|to walk|00770
+animal|animal|00801
+año|year|01182
+ante|before, in front of|00845
+ante|before|00829
+anterior|previous|00842
+antes de|before|08580
+antiguo/gua|ancient, old|00862
+anunciar|to announce|00889
+aparecer|to appear|00901
+apenas|hardly,scarcely|08590
+aplicar|to apply|00922
+apoyar|to support, lean|00929
+aprender|to learn|00932
+aprovechar|to take advantage of|00939
+aquel|that|00948
+aquello/a|that|00949
+aquí|here|00952
+árbol|tree|01186
+arma|weapon|08673
+arriba|up|00995
+arte|art|01008
+asegurar|to assure|01027
+así como|as well as, such, like that|08649
+así que|so, therefore|08722
+así|like this|01065
+aspecto|aspect|01046
+asunto|matter, bussiness|01063
+atención\ciones|attention|01075
+atrás|back, behind|01108
+atreverse|to dare|01102
+aumentar|to increase, raise|01120
+aun|even|01122
+aún|still|01184
+aunque|though, although|01123
+auténtico/a|authentic|01150
+autor/a|author|01144
+autoridad|authority|01146
+avanzar|to advance|01155
+ayer|yesterday|01174
+ayuda|aid, help|08669
+ayudar|to help|01175
+azul|blue|01180
+bajar|to bring down, lower, go down|01198
+bajo/a|low, short, faint|01199
+barcelona|barcelona|08630
+barrio|neighborhood|01240
+base|base, basis|08660
+bastante|fairly, rather|08597
+bastar|to be enough, suffice|08640
+beber|to drink|01255
+bien|well, good|01273
+blanco/a|white|01301
+boca|mouth|01308
+brazo|arm|01352
+buen|good, well|08563
+buscar|to look for, to seek|01389
+caballo|horse|01403
+caber|to fit, go into|08663
+cabeza|head|01407
+cabo|end, stub|08675
+cada|each|08477
+cadena|chain|01419
+caer|to fall|01425
+calle|street|01445
+cama|bed|01453
+cambiar|to change|01457
+cambio|change|08548
+caminar|to walk|01460
+camino|road|01461
+campaña|countryside|01467
+campo|field|01471
+cantar|to sing|01495
+cantidad|quantity|01497
+capacidad|capacity|01504
+capaz\paces|able|01506
+capital|capital|01509
+cara|face|01516
+carácter/racteres|character|01559
+carne|meat|01538
+carrera|running|01549
+carta|letter|01555
+casa|house|01561
+casar|to marry|01562
+casi|almost|01566
+caso|case|08489
+catalán|catalan|08719
+causa|cause, reason|08633
+celebrar|to celebrate|01610
+célula|cell|01706
+central|central|01631
+centro|center, downtown|08595
+cerebro|brain|01643
+cerrar|to close|01647
+chica|small, girl,litlle|08661
+chico/a|boy, girl|01673
+cielo|sky, heaven|01695
+ciencia|science|01711
+científico/a|scientific|01712
+ciento|one hundred|01713
+cierto/a|true|01715
+cinco|five|01721
+cine|cinema, movies|01723
+circunstancia|circumstance|01730
+ciudad|city|01737
+ciudadano/a|citizen|01738
+civil|civil|01741
+claro/a|clearly, clear|01750
+clase|class|01751
+coche|car, automobile, coach, carriage|01789
+coger|to take|01803
+colocar|to place, put|08634
+color|color|01836
+comentar|to comment, discuss, mention|08632
+comenzar|to begin, start|01851
+comer|to eat|01852
+como|as, since, like|01865
+cómo|how|01866
+compañero/a|partner, companion|01873
+compañía|company|01874
+completo|complete, full|08616
+comprar|to buy, purchase|01896
+comprender|to comprehend, to understand|01897
+comprobar|to check|01900
+común\munes|common|01906
+comunicación\ciones|communication|01908
+con que|so long as|08638
+con|with|08458
+concepto|concept|01917
+conciencia|conscience|01921
+concreto|concrete, specific|08672
+condición\siones|condition|01933
+conducir|to drive|01937
+conjunto|joint, outfit, band|01966
+conocer|to know, meet|01971
+conocimiento|knowlogde|08501
+consecuencia|consequence|01976
+conseguir|to obtain|01978
+conservar|to conserve|01982
+considerar|to consider|01983
+consistir|to consist|01985
+constante|constant|08718
+constituir|to constitute|01998
+construir|to construct, build|01999
+contacto|contact|08713
+contar|to count|02010
+contemplar|to contemplate|02011
+contener|to contain|02014
+contestar|to answer, reply|02015
+continuar|to continue|02020
+contra|against|02021
+contrario|opposite|08667
+control|control, check|08687
+controlar|to control|02038
+convencer|to convince|02042
+conversación|conversation|08670
+convertir|to turn into, convert|02047
+corazón|heart|02066
+correr|to run, race|02095
+corresponder|to correspond, belong|02096
+corriente|current|02099
+cortar|to cut|02104
+cosa|thing|02112
+costumbre|custom, habit|02127
+crear|to create|02135
+crecer|to grow, increase|02138
+creer|to believe|02143
+crisis|crisis|02157
+cruzar|to cross|02176
+cuadro|picture, square, painting|02183
+cual|as, like|02186
+cuál|which, what|02187
+cualquier|any|08547
+cuando|when|02191
+cuanto|how much, as|08488
+cuánto|how much|02193
+cuarto/a|quarter|02198
+cuatro|four|02200
+cubrir|to cover|02207
+cuenta|count|02213
+cuerpo|body|02217
+cuestión\tiones|matter, affair|02219
+cultura|culture|08471
+cultural|cultural|08529
+cumplir|to accomplish, carry out|02227
+cuyo/a|whose, of whom|02243
+dar|to give|02251
+dato|data|02253
+de|of, from|02254
+deber|to owe|02257
+decidir|to decide|02268
+decir|to say, tell|02277
+decisión|decision|02278
+declarar|to declare|02279
+dedicar|to dedicate|02287
+dedo|finger, toe|08639
+defender|to defend|02291
+defensa|defense|08664
+definir|to define|02295
+definitivo|definitive|08624
+dejar|to leave|02302
+del|of, from|08455
+demás|rest of the|02319
+demasiado|too much|02320
+democracia|democracy|02322
+demostrar|to demonstrate|02328
+dentro de|within, in|08601
+depender|to depend|02338
+derecha|right|02346
+derecho|straight, rigth|02347
+desaparecer|to disappear|02378
+desarrollar|to develop|02384
+desarrollo|development|02385
+desconocer|to not know, fail to recognize|08682
+descubrir|to discover|02414
+desde que|since|08715
+desde|from, since|02417
+desear|to wish|02419
+deseo|desire|02433
+despertar|to wake up|02483
+después de|after|08571
+después|afterwards, then|02494
+destino|destiny, destination|08700
+detener|to stop|02515
+determinar|to determine|02518
+día|day|02528
+diario/ria|newspaper|02540
+diez|ten|02555
+diferencia|difference|02557
+diferente|different|08600
+difícil|difficult|02559
+dificultad|difficulty|08694
+dinero|money|02580
+dios/diosa|god, goddes|02582
+dirección|address, direction|02587
+directo|direct, straight|08621
+director/tora|director, manager|02588
+dirigir|to direct|02591
+disponer|to arrange|02620
+distancia|distance|08684
+distinto|different|08582
+diverso|diverse|08635
+doble|double|08708
+doctor/tora|doctor|02647
+dolor|pain|08643
+don|gift, talent|02659
+donde|where|02661
+dónde|where|02662
+dormir|to sleep|02665
+dos|two|02666
+duda|doubt|02677
+durante|during|02691
+duro|hard|02694
+e|and|08460
+echar|to throw, cast|02698
+económico|economic, economical|08589
+edad|age|02708
+efecto|efect|08538
+ejemplo|example|02728
+ejército|army|02730
+ejército|army|08699
+el/a|the|02731
+él|he, him|02732
+elección|election|02735
+elegir|to choose, select|02744
+elemento|element|02745
+elevar|to elevate, raise|02747
+empezar|to begin, start|02795
+empresa|company|02801
+en|in, into, inside, on|02804
+encender|to light, switch on, set fire to|02817
+encima|on top|02825
+encontrar|to find|02829
+encuentro|encounter, meeting|02835
+energía|energy|02845
+enfermedad|illness, disease, sickness|08603
+enfermo|ill, sick|08645
+enorme|enormous|02875
+enseñar|to teach|02886
+entender|to understand|02889
+enterar|to find out, inform|02890
+entonces|then|02898
+entrada|entrance, entry|02900
+entrar|to enter|02901
+entre|between, among|02902
+entregar|to deliver, give|02903
+enviar|to send|02916
+época|epoch, period|02927
+equipo|equipment, team|02933
+error|error, mistake|02947
+es decir|that is to say|08612
+escapar|to escape, run away|02962
+escribir|to write|02985
+escritor/tora|writer|02987
+escuchar|to listen, heard|02992
+ese/a|that|02996
+esfuerzo|effort, endeavor, exertion|08627
+eso|that|03009
+espacio|space|08604
+espalda|back|03013
+españa|spain|08512
+español/ñola|spanish|03015
+española|Spanish, spaniard|08618
+especial|special|03020
+especie|species|03021
+esperanza|hope, prospect|08685
+esperar|to hope, wait|03026
+espíritu|spirit|03035
+ésta|is|08532
+establecer|to establish|03050
+estado|state|03058
+estados unidos| united States|08678
+estar|to be, stay|03070
+éste/a|this one|03079
+este/a|this|03076
+este|this|03078
+esto|this|03091
+estrella|star|03101
+estructura|structure|03113
+estudiar|to study|03115
+estudio|study, studio|08586
+etapa|stage|03118
+europa|europe|08511
+europeo/pea|european|03129
+evidente|evident|08691
+evitar|to avoid|03141
+exacto/a|exact|03144
+exigir|to demand|03175
+existencia|existence|08490
+existir|to exist|03179
+éxito|success|03180
+experiencia|experience|03188
+explicar|to explain|03196
+expresión|expression|08656
+extender|to extend|03217
+exterior|outside, exterior|03219
+extranjero/a|foreigner, foreign|03228
+extraño|strange, foreign|08605
+extremo|extreme|08676
+fácil|easy|03249
+falta|lack|03262
+faltar|to lack|08602
+familia|family|03264
+familiar|familial, family|08666
+famoso|famous|08704
+fenómeno|phenomenon|03296
+fiesta|celebration, party|03323
+figura|figure, shape|08657
+figura|to figure|03324
+fijar|to faten, affix|08654
+fin|end|03335
+final|end, final|03336
+físico|physical, physicist|08615
+flor|flower|03365
+fondo|bottom, rear|03380
+forma|shape|08496
+formar|to form|03389
+francés/cesa|french|03421
+francés|french|03422
+francia|france|08696
+frase|phrase|03427
+frecuencia|frequency|03431
+frente|in front|03436
+frío/a|cold, cool|03444
+fuego|fire|03454
+fuente|source|03455
+fuera de|outside of, beyond|08712
+fuerte|hard, strong|03457
+fuerza|force, strength|03458
+función|function|03461
+funcionar|to work, run, function|03462
+fundamental|fundamental|08677
+fútbol|soccer, football|08706
+futuro|future|08534
+ganar|to win|03483
+general|general|03514
+gente|people|03524
+gesto|gesture|03538
+gobierno|government|08572
+golpe|blow|03570
+gracia|grace|03584
+gran|big|08530
+grande|big, great|03591
+grave|grave, deep|08625
+gritar|to shout, scream|03611
+grupo|group|03617
+guardar|to keep|03631
+guerra|war|03637
+gustar|to taste, like|03647
+gusto|taste, pleasure, liking|08689
+haber|to have, has|03650
+habitación|room, bedroom|08644
+habitual|habitual, usual|08695
+hablar|to speak, talk|03656
+hacer|to do, make|03659
+hacia|towards|03661
+hallar|to find, discover|03666
+hasta que|until, even|08598
+hasta|until, even|03672
+hecho/cha|fact|03676
+hermana|sister|08705
+hermano/a|brother|03689
+hermoso/a|beautiful|03692
+hija|daughter|08619
+hijo/a|son, daughter|03717
+historia|history|03740
+histórico|historical|08653
+hombre|man|03746
+hombro|shoulder|03748
+hora|hour|03761
+hoy|today|03781
+humano/a|human|03794
+idea|idea|03809
+iglesia|church|03818
+igual|equal|03821
+imagen\imágenes|image|03836
+imaginar|to imagine|03837
+impedir|to prevent|03847
+imponer|to impose, command|03862
+importancia|importance|03868
+importante|important|08578
+importar|to matter, be important|08648
+imposible|impossible|03870
+incluir|to include|03921
+incluso|even, in fact|08569
+indicar|to indicate|03979
+individuo|individual|08701
+información\ciones|information|04037
+informar|to inform|04039
+informar|to inform|08716
+inglés/glesa|english|04057
+iniciar|to initiate|04066
+inmediato/a|immediate|04074
+insistir|to insist|04107
+instante|moment, instant|08629
+intentar|to try|04140
+interés\reses|interest|04144
+interesar|to interest|08636
+interior|interior, inner|04147
+internacional|international|04155
+introducir|to introduce, insert|08707
+ir|to go|04206
+izquierda|left|04238
+jamás|never|04247
+jefe/a|chief, leader, boss|04260
+joven|young person|04271
+juego|game, playing|04281
+jugador|player, gambler|08655
+jugar|to play, gambler|04285
+juicio|judgment, sense|04289
+junto a|next to|08610
+junto|together, joined, close|08720
+justo|just, fair|04301
+labio|lip|04312
+lado|side|04319
+lanzar|to throw|04336
+largo|long|08576
+lector/tora|reader|04363
+leer|to read|04364
+lengua|language, tongue|04381
+lenguaje|language|04382
+lento|slow|08703
+levantar|to lift, raise|04396
+ley|law|04398
+libertad|freedom|04404
+libre|free|04409
+libro|book|04410
+limitar|to limit|04424
+línea|line|04430
+literatura|literature|04439
+llamar|to call, phone|04446
+llegar|to arrive, come|04451
+llenar|to fill|04452
+lleno|full|08608
+llevar|to take, carry|04453
+llorar|to cry, weep|04454
+lo|the for it|08457
+loco/a|crazy, insane|04460
+lograr|to obtain, achieve, get|04469
+lucha|fight, struggle|08671
+luego|then, later|04488
+lugar|place|04489
+luz|light, lighting|04498
+madre|mother|04506
+mal|badly, poorly, incorrectly|04524
+malo/a|bad|04543
+mañana|tomorrow|04591
+mandar|to command|04556
+manera|way, manner|04563
+manifestar|to declare|04572
+mano|hand|04577
+mantener|to maintain|04583
+máquina|machine|04595
+mar|sea|04596
+marcar|to mark|04601
+marcha|march|08662
+marchar|to march|04602
+marido|husband|08609
+mas|but|04634
+más|more|04635
+masa|mass|08690
+matar|to kill|04649
+materia|matter|04651
+material|material|08650
+máximo|maximum|04662
+mayor|greater|04666
+mayoría|majority|04667
+mediante|by means of|04683
+médico/a|doctor|04686
+medida|measurement|04687
+medio/dia|means|04689
+mejor|better|04700
+memoria|memory|04713
+menor|minor|04717
+menos|less|04718
+menudo|small, insignificant|08717
+mercado|market|04733
+merecer|to deserve|04737
+mes|month|04740
+mesa|it pulls|04741
+meter|to put|04751
+método|method|04753
+metro|meter|04755
+mi\mis|my, not me|04760
+mí|me, not my|04761
+miedo|fear|04769
+miembro|member|08617
+mientras que|whereas, while|08686
+mientras|while|04770
+mil|thousand|04775
+militar|military man|04783
+millón|million|08573
+mínimo/a|minimum|04794
+ministro/tra|minister|04797
+minuto|minute|04802
+mío/a|mine|04803
+mirada|watched|08591
+mirar|to watch|04805
+mismo|same|04814
+mitad|half|04817
+modelo|model|08646
+moderno/a|modern|04828
+modo|way, manner, mode|04833
+momento|moment|04847
+moral|moral|04881
+morir|to die|04888
+mostrar|to show|04898
+motivo|reason|04902
+mover|to move, stir|04905
+movimiento|movement, motion|04907
+muchacho/cha|boy|04909
+mucho|much|04911
+muerte|death|04918
+mujer/jeres|woman, women|04921
+mundial|worldwide|08688
+mundo|world|04931
+música|music|04944
+muy|very, highly|04949
+nacer|to be born|04952
+nacional|national|08518
+nada|nothing|04954
+nadie|nobody, no-one|04956
+natural|natural|04972
+naturaleza|nature|04973
+necesario/ria|necessary|04989
+necesidad|necessity,need|04991
+necesitar|to need|08583
+negar|to deny|04995
+negocio|business|08721
+negro/gra|black|04998
+ni siquiera|not even|08606
+ni|nor, neither|05011
+niña|girl, child|08626
+ningún|none|08593
+ninguno/a|no, none, nobody, no one|05021
+niño/a|boy, girl|05022
+nivel|level|05028
+no|no|05029
+noche|night|05031
+nombre|name|08575
+normal|normal|08641
+norteamericano/a|North American|05040
+notar|to notice|08679
+noticia|the news|05047
+novela|novel|05053
+nuestro/tra|ours|05068
+nuevo/a|new|05071
+número|number|08581
+nunca|never|05077
+o|or|05081
+objetivo|objective|08628
+objeto|object|05090
+obligar|to force, oblige|05092
+obra|work|05093
+observar|to observe|05096
+obtener|to obtain, get|05106
+ocasión\siones|occasion|05111
+ocho|eight|05116
+ocupar|to occupy|05124
+ocurrir|to happen|05127
+oficial|official|05134
+ofrecer|to offer|05137
+oír|to hear|05141
+ojo|eye|05143
+olvidar|to forget|05152
+operación|operation|08631
+opinión|opinion|08620
+origen/rígenes|origin|05174
+oro|gold|05182
+oscuro/a|dark, obscure|05192
+otro/tra|another, other|05199
+paciente|patient|08652
+padre|father|05216
+pagar|to pay|05220
+página|page|05221
+país|country, nation|05223
+países|countries|08527
+palabra|word|05228
+papel|paper|05273
+par|pair, couple|05276
+para que|so that|08568
+para|for, towars, stop|05277
+parar|to stop, stand|05291
+parecer|to seem|05295
+pared|wall|05296
+pareja|even, couple, pair|08674
+parte|part|05312
+participar|to participate|05315
+particular|particular, private|05317
+partido|party, game|08574
+partir|to start off, depart, slipt, divide|05318
+pasado|past|08541
+pasar|to happen, pass|05325
+paso|step|05335
+paso|step|08577
+paz|peace|05366
+pecho|chest|05375
+pedir|to request, ask for|05387
+película|film, movie|05395
+peligro|danger|05396
+pelo|hair|05400
+pena|pain, penalty|05408
+pensamiento|though|08503
+pensar|to think|05419
+peor|worse|05425
+pequeño/a|small|05427
+perder|to lose, miss|08565
+perfecto|perfect|08698
+periódico/a|newspaper|05446
+periodista|journalist|08681
+permanecer|to remain|05451
+permitir|to allow|05453
+pero|but|05455
+perro/rra|dog, bitch|05460
+persona|person|05465
+personaje|person|08623
+personal|personal|08596
+pertenecer|to belong to|05468
+pesar|to weigh|05479
+peso|weight|05486
+pie|foot|05510
+piedra|stone|05512
+piel|skin|05513
+pierna|leg|08668
+piso|floor|05549
+placer|to please|05557
+plan|plan|05561
+plantear|to expound, raise|05572
+plaza|seat, square|05586
+pleno|full, complete|08647
+población\ciones|population|05599
+pobre|poor|05600
+poco/a|little, few|05602
+poder|to be able to, can, might, may|05604
+policía|police|05612
+política|politics|05619
+político|political|08567
+poner|to put|05629
+por ejemplo|for example|08584
+por|by, for, per|05633
+porque|because, why|05640
+poseer|to posses, own|05652
+posibilidad|possibility|05653
+posible|posible|08528
+posición\ciones|position|05654
+práctico|practical|08659
+precio|price, cost|05675
+preciso/a|precise|05678
+preferir|to prefer|05695
+pregunta|a question|05701
+preguntar|to ask|05702
+prensa|press|05724
+preocupar|to worry|05726
+preparar|to prepare|05728
+presencia|presence|05738
+presentar|to present|05740
+presente|present|05743
+presidente|president|05749
+pretender|to try, court|05767
+primer|first|08510
+primero/a|first|05782
+principal|principal|05791
+principio|beginning, principle|05793
+privar|deprive|05797
+probable|probable|05805
+problema|problem|05808
+proceso|process|05817
+producir|to produce|05827
+producto|product|05831
+profesional|professional|05839
+profesor/sora|professor, teacher|05840
+profundo/a|deep|05845
+programa|program|05851
+pronto/a|soon, quick, prompt|05885
+propio/pia|own|05901
+proponer|to propose, nominate|05902
+provocar|to cause|05942
+próximo/a|next|05944
+proyecto|project|05948
+prueba|test, proof, evidence|05952
+publicar|to publish|05969
+público/a|public|05975
+pueblo|town|05982
+pueblo|town|08579
+puerta|door|05985
+pues|then, since, because|05988
+puesto|position, place|05990
+punto|point|06015
+puro/a|pure|06034
+que|that|06040
+qué|what|06041
+quedar|to stay|06048
+querer|to want|06055
+quien|who|06061
+quién|who|06062
+quitar|to remove, take away|06082
+quizá|perhaps, maybe|06083
+radio|radio|08714
+rápido/a|rapid, quick|06128
+rato|short while|06156
+razón\zones|reason|06163
+real|royal, real|06174
+realidad|reality|06177
+realizar|to make, realize|06179
+recibir|to receive|06223
+reciente|recent|06230
+recoger|to gather, pick up|06248
+reconocer|to recognize|06260
+recordar|to remember, remind|06269
+recorrer|to cross, travel through|06271
+recuerdo|memory, remembrance|06285
+recuperar|to recover|06286
+reducir|to reduce|06297
+referir|to refer|06309
+régimen|regime|06354
+regresar|to return, come back|06370
+reír|to laugh|06389
+relación\ciones|relation|06396
+religioso/a|religious|06412
+repetir|to repeat|06474
+representar|to represent|06486
+resolver|to solve|06529
+responder|to answer|06544
+responsable|responsible|06545
+respuesta|answer|06547
+resto|rest|06559
+resultado|result, outcome|08587
+resultar|to turn out, work out, succeed|08570
+reunión\niones|meeting|06597
+reunir|to unite, join|06596
+revista|magazine|06615
+rey|king|06627
+rico/a|rich|06630
+riesgo|risk|06634
+río|river|06647
+rodear|to surround, encircle|08658
+rojo/a|red|06675
+romper|to break|06685
+ropa|clothes|06691
+rostro|face|06701
+saber|to know|06742
+sacar|to remove, take out|06752
+sala|room, living room|06777
+salida|exit, departure|08680
+salir|to leave, go out|06784
+sangre|blood|06821
+secreto/a|secret|06867
+sector|sector|06869
+seguir|to follow|06894
+según|according to|06897
+segundo|second|06898
+seguridad|security|06901
+seguro/a|safe|06899
+seis|six|06902
+semana|week|06911
+semejante|similar|08692
+señalar|to indicate, point out|08594
+señor/ñora|sir/madam|06953
+sensación\ciones|sensation, feeling|06932
+sentar|to seat, sit|06942
+sentido/a|heartfelt,sense|06946
+sentimiento|feeling|06947
+sentimiento|feeling|08683
+sentir|to feel|06950
+separar|to separate|06956
+ser|to be|06964
+serie/ria|series|06970
+serio|serious|08637
+servicio|service|06976
+servir|to serve|06978
+sexo|sex|06988
+sexual|sexual|06992
+si|if, yes|06995
+sí|yes|08480
+sido|been|08485
+siempre|always|06999
+siete|seven|07004
+siglo|century|07007
+significar|to mean|07008
+siguiente|following, next|07013
+silencio|silence|07020
+simple|simple|07040
+sin|without|07047
+sino que|but that|08613
+sino|but, rather|07060
+sistema|system|07075
+sitio|place, site|07077
+situación\ciones|situation|07080
+situar|to locate|07078
+sobre|envelope, on|07093
+social|social|07118
+socialista|socialist|07120
+sociedad|society|07121
+sol|sun|07137
+solo/a|alone|07159
+sólo|only|07160
+solución\ciones|solution|07164
+sombra|shadow|07168
+someter|to subjugate|07173
+sonar|to sound|07176
+sonreír|to smile|07181
+sonrisa|smile|07183
+sorprender|to surprise|07199
+sostener|to maintain, support, hold|07211
+su|his|07220
+subir|to raise|07233
+suceder|to happen/ occur|07262
+suelo|ground, floor|08607
+sueño|dream|07281
+suerte|luck|07283
+suficiente|enough|07286
+sufrir|to suffer|07290
+superar|to surpass|07319
+superior|superior|07327
+suponer|to suppose|07345
+surgir|to arise|07357
+suyo/a|his/her/its|07395
+tal vez|perhaps|08622
+tal|so|07419
+también|also, too|07434
+tampoco|neither|07436
+tan|so|07438
+tanto/a|so much|07444
+tarde|late|07460
+tarea|homewrok|07462
+técnica|technique|07482
+técnico/a|technician|07483
+televisión\siones|television|07512
+tema|theme|07516
+temer|to fear|07520
+tender|to strech out|07541
+tener|to have|07548
+teoría|theory|07565
+tercer|third|08614
+terminar|to finish|07578
+término|term|07581
+texto|text|07618
+tía|aunt|08711
+tiempo|time|07626
+tierra|earth|07629
+tío/tía|uncle / aunt|07651
+tipo/a|guy|07653
+tirar|to throw|07666
+título|title|07679
+tocar|to touch|07688
+todavía|still|07691
+todo/a|everything|07692
+tomar|to take, to drink|07701
+tono|tone|08697
+total|total|07753
+trabajar|to work|07758
+trabajo|job|08504
+traer|to bring|07771
+tras|after|07839
+tratar|to try|07861
+tres|three|07888
+tu|your, you|07954
+último/a|last|07999
+un/una|a, an|08007
+único/a|only|08011
+único|only, unique|08566
+unidad|unit|08014
+unir|to unite|08023
+uno/una|one|08032
+usar|to use|08047
+uso|use|08665
+usted|you|08050
+utilizar|to use|08056
+vacío/cía|empty|08070
+valer|to be worth|08089
+valor|value|08096
+varias|several|08642
+varios|several|08710
+vecino/a|neighbor|08126
+veinte|twenty|08136
+velocidad|speed|08148
+vender|to sell|08159
+venir|to come|08175
+ventana|window|08181
+ver|to see|08191
+verano|summer|08193
+verdad|truth|08201
+verdadero/a|true|08203
+verde|green|08204
+vestir|to dress|08225
+vez\veces|time|08233
+viaje|travel|08239
+vida|life|08256
+viejo/a|old|08261
+viento|wind|08262
+violencia|violence|08289
+vista|vision|08320
+vivir|to live|08341
+vivo/a|alive|08342
+voluntad|will|08370
+volver|to return|08374
+voz\voces|voice|08383
+vuelta|return|08385
+y|and|08393
+ya que|since|08592
+ya|already|08394
+yo|I|08404
+zona|zone|08437

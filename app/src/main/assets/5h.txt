@@ -1,0 +1,100 @@
+mayoría|majority|04667
+responder|to answer|06544
+detener|to stop|02515
+afirmar|to affirm|00368
+empresa|company|02801
+interior|interior, inner|04147
+ocupar|to occupy|05124
+señalar|to indicate, point out|08594
+centro|center, downtown|08595
+sol|sun|07137
+especie|species|03021
+sufrir|to suffer|07290
+cumplir|to accomplish, carry out|02227
+interés\reses|interest|04144
+próximo/a|next|05944
+tema|theme|07516
+anterior|previous|00842
+futuro|future|08534
+observar|to observe|05096
+francés/cesa|french|03421
+francés|french|03422
+juego|game, playing|04281
+libertad|freedom|04404
+antiguo/gua|ancient, old|00862
+determinar|to determine|02518
+suceder|to happen/ occur|07262
+médico/a|doctor|04686
+personal|personal|08596
+bastante|fairly, rather|08597
+movimiento|movement, motion|04907
+sueño|dream|07281
+obligar|to force, oblige|05092
+animal|animal|00801
+pagar|to pay|05220
+política|politics|05619
+sangre|blood|06821
+tocar|to touch|07688
+hasta que|until, even|08598
+valor|value|08096
+nacer|to be born|04952
+libre|free|04409
+silencio|silence|07020
+acercar|to approach|08599
+zona|zone|08437
+acción\ciones|action|00122
+constituir|to constitute|01998
+diferente|different|08600
+dedicar|to dedicate|02287
+pronto/a|soon, quick, prompt|05885
+absoluto/a|absolute|00076
+obtener|to obtain, get|05106
+subir|to raise|07233
+traer|to bring|07771
+memoria|memory|04713
+brazo|arm|01352
+periódico/a|newspaper|05446
+película|film, movie|05395
+fuerte|hard, strong|03457
+prueba|test, proof, evidence|05952
+provocar|to cause|05942
+corazón|heart|02066
+imaginar|to imagine|03837
+principal|principal|05791
+presencia|presence|05738
+edad|age|02708
+referir|to refer|06309
+romper|to break|06685
+dentro de|within, in|08601
+medida|measurement|04687
+cultura|culture|08471
+mar|sea|04596
+cuestión\tiones|matter, affair|02219
+desear|to wish|02419
+menor|minor|04717
+resto|rest|06559
+faltar|to lack|08602
+teoría|theory|07565
+objeto|object|05090
+pesar|to weigh|05479
+allá|there|00602
+coche|car, automobile, coach, carriage|01789
+experiencia|experience|03188
+televisión\siones|television|07512
+repetir|to repeat|06474
+enfermedad|illness, disease, sickness|08603
+espacio|space|08604
+países|countries|08527
+boca|mouth|01308
+extraño|strange, foreign|08605
+siguiente|following, next|07013
+añadir|to add|00893
+fácil|easy|03249
+cuarto/a|quarter|02198
+minuto|minute|04802
+ni siquiera|not even|08606
+miedo|fear|04769
+director/tora|director, manager|02588
+rostro|face|06701
+pobre|poor|05600
+suelo|ground, floor|08607

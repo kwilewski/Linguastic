@@ -1,0 +1,100 @@
+tirar|to throw|07666
+advertir|to notice, warn|08651
+sombra|shadow|07168
+acudir|to go, come|00218
+impedir|to prevent|03847
+particular|particular, private|05317
+indicar|to indicate|03979
+paciente|patient|08652
+mediante|by means of|04683
+pregunta|a question|05701
+espalda|back|03013
+fuente|source|03455
+gracia|grace|03584
+privar|deprive|05797
+histórico|historical|08653
+fijar|to faten, affix|08654
+jugador|player, gambler|08655
+mercado|market|04733
+éxito|success|03180
+expresión|expression|08656
+celebrar|to celebrate|01610
+figura|to figure|03324
+figura|figure, shape|08657
+profesional|professional|05839
+rodear|to surround, encircle|08658
+cultural|cultural|08529
+vacío/cía|empty|08070
+par|pair, couple|05276
+usar|to use|08047
+construir|to construct, build|01999
+paz|peace|05366
+coger|to take|01803
+práctico|practical|08659
+base|base, basis|08660
+profesor/sora|professor, teacher|05840
+sensación\ciones|sensation, feeling|06932
+aumentar|to increase, raise|01120
+inglés/glesa|english|04057
+chica|small, girl,litlle|08661
+convencer|to convince|02042
+siete|seven|07004
+sonar|to sound|07176
+marcha|march|08662
+defender|to defend|02291
+plaza|seat, square|05586
+responsable|responsible|06545
+moderno/a|modern|04828
+probable|probable|05805
+caber|to fit, go into|08663
+imponer|to impose, command|03862
+presente|present|05743
+suerte|luck|07283
+ciudadano/a|citizen|01738
+comunicación\ciones|communication|01908
+posición\ciones|position|05654
+sitio|place, site|07077
+defensa|defense|08664
+serie/ria|series|06970
+uso|use|08665
+azul|blue|01180
+música|music|04944
+pasado|past|08541
+actitud|attitude|00201
+aun|even|01122
+gritar|to shout, scream|03611
+familiar|familial, family|08666
+prensa|press|05724
+mandar|to command|04556
+contrario|opposite|08667
+sexual|sexual|06992
+corresponder|to correspond, belong|02096
+importancia|importance|03868
+altura|height|00658
+exigir|to demand|03175
+sector|sector|06869
+solución\ciones|solution|07164
+encima|on top|02825
+llorar|to cry, weep|04454
+técnica|technique|07482
+desarrollo|development|02385
+pierna|leg|08668
+frase|phrase|03427
+sonrisa|smile|07183
+encuentro|encounter, meeting|02835
+ayuda|aid, help|08669
+norteamericano/a|North American|05040
+apoyar|to support, lean|00929
+contener|to contain|02014
+estructura|structure|03113
+precio|price, cost|05675
+conversación|conversation|08670
+lucha|fight, struggle|08671
+temer|to fear|07520
+ciento|one hundred|01713
+concreto|concrete, specific|08672
+compañía|company|01874
+ocho|eight|05116
+arma|weapon|08673
+encender|to light, switch on, set fire to|02817
+piedra|stone|05512

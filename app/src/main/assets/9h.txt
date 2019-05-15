@@ -1,0 +1,100 @@
+pareja|even, couple, pair|08674
+exacto/a|exact|03144
+cabo|end, stub|08675
+conciencia|conscience|01921
+elevar|to elevate, raise|02747
+preocupar|to worry|05726
+verde|green|08204
+verano|summer|08193
+surgir|to arise|07357
+beber|to drink|01255
+consistir|to consist|01985
+dios/diosa|god, goddes|02582
+extremo|extreme|08676
+perro/rra|dog, bitch|05460
+voluntad|will|08370
+doctor/tora|doctor|02647
+ejemplo|example|02728
+avanzar|to advance|01155
+fundamental|fundamental|08677
+plantear|to expound, raise|05572
+separar|to separate|06956
+escapar|to escape, run away|02962
+estados unidos| united States|08678
+notar|to notice|08679
+insistir|to insist|04107
+arriba|up|00995
+cuál|which, what|02187
+máximo|maximum|04662
+salida|exit, departure|08680
+cadena|chain|01419
+pertenecer|to belong to|05468
+resolver|to solve|06529
+vender|to sell|08159
+periodista|journalist|08681
+desconocer|to not know, fail to recognize|08682
+pena|pain, penalty|05408
+revista|magazine|06615
+vecino/a|neighbor|08126
+vivo/a|alive|08342
+abajo|down, below, downstairs|00002
+partir|to start off, depart, slipt, divide|05318
+rato|short while|06156
+izquierda|left|04238
+placer|to please|05557
+sentimiento|feeling|06947
+sentimiento|feeling|08683
+someter|to subjugate|07173
+adquirir|to acquire|00307
+cantar|to sing|01495
+atreverse|to dare|01102
+carne|meat|01538
+distancia|distance|08684
+peso|weight|05486
+definir|to define|02295
+esperanza|hope, prospect|08685
+mientras que|whereas, while|08686
+población\ciones|population|05599
+peligro|danger|05396
+control|control, check|08687
+mundial|worldwide|08688
+pensamiento|though|08503
+democracia|democracy|02322
+reunir|to unite, join|06596
+justo|just, fair|04301
+enseñar|to teach|02886
+autoridad|authority|01146
+civil|civil|01741
+declarar|to declare|02279
+gusto|taste, pleasure, liking|08689
+masa|mass|08690
+merecer|to deserve|04737
+espíritu|spirit|03035
+sostener|to maintain, support, hold|07211
+técnico/a|technician|07483
+sorprender|to surprise|07199
+alemán/mana|german|00551
+corriente|current|02099
+veinte|twenty|08136
+evidente|evident|08691
+semejante|similar|08692
+abuelo|grandfathers, grandpa|08693
+circunstancia|circumstance|01730
+flor|flower|03365
+internacional|international|04155
+plan|plan|05561
+caballo|horse|01403
+dificultad|difficulty|08694
+habitual|habitual, usual|08695
+página|page|05221
+cuadro|picture, square, painting|02183
+aprovechar|to take advantage of|00939
+exterior|outside, exterior|03219
+hombro|shoulder|03748
+puesto|position, place|05990
+etapa|stage|03118
+régimen|regime|06354
+caminar|to walk|01460
+capital|capital|01509
+francia|france|08696
+tono|tone|08697

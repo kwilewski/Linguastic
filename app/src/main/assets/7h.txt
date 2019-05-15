@@ -1,0 +1,100 @@
+conjunto|joint, outfit, band|01966
+elección|election|02735
+instante|moment, instant|08629
+jamás|never|04247
+estudiar|to study|03115
+barcelona|barcelona|08630
+operación|operation|08631
+comentar|to comment, discuss, mention|08632
+reducir|to reduce|06297
+elemento|element|02745
+diferencia|difference|02557
+pared|wall|05296
+recoger|to gather, pick up|06248
+rojo/a|red|06675
+arte|art|01008
+socialista|socialist|07120
+causa|cause, reason|08633
+colocar|to place, put|08634
+sonreír|to smile|07181
+aprender|to learn|00932
+guardar|to keep|03631
+carrera|running|01549
+actuar|to act|00213
+imposible|impossible|03870
+golpe|blow|03570
+célula|cell|01706
+deseo|desire|02433
+autor/a|author|01144
+reír|to laugh|06389
+aquello/a|that|00949
+existencia|existence|08490
+situar|to locate|07078
+diverso|diverse|08635
+término|term|07581
+poseer|to posses, own|05652
+vestir|to dress|08225
+quitar|to remove, take away|06082
+riesgo|risk|06634
+compañero/a|partner, companion|01873
+lanzar|to throw|04336
+publicar|to publish|05969
+acto|act|00205
+interesar|to interest|08636
+motivo|reason|04902
+jefe/a|chief, leader, boss|04260
+afectar|to affect|00342
+oscuro/a|dark, obscure|05192
+moral|moral|04881
+cielo|sky, heaven|01695
+enterar|to find out, inform|02890
+novela|novel|05053
+serio|serious|08637
+casar|to marry|01562
+marcar|to mark|04601
+despertar|to wake up|02483
+vista|vision|08320
+superior|superior|07327
+lengua|language, tongue|04381
+energía|energy|02845
+con que|so long as|08638
+cine|cinema, movies|01723
+decisión|decision|02278
+atrás|back, behind|01108
+crecer|to grow, increase|02138
+río|river|06647
+consecuencia|consequence|01976
+dedo|finger, toe|08639
+bastar|to be enough, suffice|08640
+significar|to mean|07008
+alma|soul|00607
+noticia|the news|05047
+anunciar|to announce|00889
+elegir|to choose, select|02744
+normal|normal|08641
+reciente|recent|06230
+varias|several|08642
+cantidad|quantity|01497
+limitar|to limit|04424
+iglesia|church|03818
+contestar|to answer, reply|02015
+dolor|pain|08643
+regresar|to return, come back|06370
+carácter/racteres|character|01559
+entregar|to deliver, give|02903
+habitación|room, bedroom|08644
+parar|to stop, stand|05291
+enfermo|ill, sick|08645
+pelo|hair|05400
+seguridad|security|06901
+modelo|model|08646
+cruzar|to cross|02176
+conducir|to drive|01937
+origen/rígenes|origin|05174
+pleno|full, complete|08647
+valer|to be worth|08089
+importar|to matter, be important|08648
+labio|lip|04312
+así como|as well as, such, like that|08649
+material|material|08650
+chico/a|boy, girl|01673
