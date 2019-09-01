@@ -312,8 +312,8 @@ public class FloatingViewService extends Service {
         float xper, yper;
 
         if(newConfig.orientation == Configuration.ORIENTATION_LANDSCAPE){
-            tx = params.x;
-            ty = params.y;
+            tx = params.y;
+            ty = params.x;
             xper = (float) tx / screenWidth;
             yper = (float) ty / screenHeight;
             nxpf = xper * screenHeight;
@@ -327,10 +327,10 @@ public class FloatingViewService extends Service {
         else if(newConfig.orientation == Configuration.ORIENTATION_PORTRAIT){
             tx = params.x;
             ty = params.y;
-            xper = (float) tx / screenWidth;
-            yper = (float) ty / screenHeight;
-            nxpf = xper * screenHeight;
-            nypf = yper * screenWidth;
+            xper = (float) tx / screenHeight;
+            yper = (float) ty / screenWidth;
+            nxpf = xper * screenWidth;
+            nypf = yper * screenHeight;
             nxp = (int) nxpf;
             nyp = (int) nypf;
             params.x = nxp;
