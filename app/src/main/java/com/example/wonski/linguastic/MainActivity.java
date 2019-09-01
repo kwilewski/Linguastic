@@ -117,6 +117,12 @@ public class MainActivity extends Activity {
 
     }
 
+    @Override
+    public void onBackPressed() {
+        super.onBackPressed();
+        this.moveTaskToBack(true);
+    }
+
 
     public void openLS(){
         Intent intent = new Intent(this,ListSelection.class);
@@ -193,22 +199,6 @@ public class MainActivity extends Activity {
     }
 
 
-
-
-   /* protected void onActivityResult(int requestCode, int resultCode, Intent data) {
-        if (requestCode == DRAW_OVER_OTHER_APP_PERMISSION_REQUEST_CODE) {
-            //Check if the permission is granted or not.
-            if (resultCode == RESULT_OK)
-                //If permission granted start floating widget service
-//                startFloatingWidgetService();
-            else
-                //Permission is not available then display toast
-//                Toast.makeText(this, getResources().getString(R.string.draw_other_app_permission_denied),Toast.LENGTH_SHORT).show();
-
-        } else {
-            super.onActivityResult(requestCode, resultCode, data);
-        }
-    }*/
 
 
 

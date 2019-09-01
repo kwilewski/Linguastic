@@ -5,47 +5,49 @@
     android:id="@+id/mainLayout"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".MainActivity"
-    android:background="@drawable/background_gradient_bright">
+    android:background="@drawable/background_gradient_bright"
+    tools:context=".MainActivity">
 
     <Button
         android:id="@+id/startB"
         android:layout_width="0dp"
-        android:layout_height="267dp"
-        android:layout_marginTop="92dp"
+        android:layout_height="0dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginBottom="8dp"
         android:background="?android:attr/selectableItemBackground"
-        android:text="Start"
-        android:textSize="36sp"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.0"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        android:textColor="#ffffff"
         android:shadowColor="#000000"
         android:shadowDx="3"
         android:shadowDy="3"
-        android:shadowRadius="60"/>
+        android:shadowRadius="60"
+        android:text="Start"
+        android:textColor="#ffffff"
+        android:textSize="36sp"
+        app:layout_constraintBottom_toTopOf="@+id/guideline5"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/guideline4" />
 
     <Button
         android:id="@+id/settingB"
         android:layout_width="0dp"
-        android:layout_height="107dp"
+        android:layout_height="0dp"
         android:layout_marginStart="8dp"
         android:layout_marginTop="8dp"
         android:layout_marginEnd="8dp"
         android:layout_marginBottom="8dp"
         android:background="?android:attr/selectableItemBackground"
-        android:text="Settings"
-        app:layout_constraintBottom_toTopOf="@+id/infoB"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.0"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/startB"
-        android:textColor="#ffffff"
         android:shadowColor="#000000"
         android:shadowDx="3"
         android:shadowDy="3"
-        android:shadowRadius="60"/>
+        android:shadowRadius="60"
+        android:text="Settings"
+        android:textColor="#ffffff"
+        app:layout_constraintBottom_toTopOf="@+id/guideline6"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/startB" />
 
     <ImageButton
         android:id="@+id/infoB"
@@ -54,7 +56,31 @@
         android:background="?android:attr/selectableItemBackground"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:srcCompat="@drawable/ic_android"/>
+        app:srcCompat="@drawable/ic_android" />
+
+    <android.support.constraint.Guideline
+        android:id="@+id/guideline4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        app:layout_constraintGuide_begin="20dp"
+        app:layout_constraintGuide_percent="0.15"/>
+
+    <android.support.constraint.Guideline
+        android:id="@+id/guideline5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        app:layout_constraintGuide_begin="20dp"
+        app:layout_constraintGuide_percent="0.55"/>
+
+    <android.support.constraint.Guideline
+        android:id="@+id/guideline6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        app:layout_constraintGuide_begin="20dp"
+        app:layout_constraintGuide_percent="0.8"/>
 
 
 </android.support.constraint.ConstraintLayout>

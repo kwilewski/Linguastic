@@ -5,25 +5,28 @@
     android:id="@+id/relativeLayout"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:orientation="vertical"
-    android:background="@drawable/background_gradient_bright">
+    android:background="@drawable/background_gradient_bright"
+    android:orientation="vertical">
 
     <TextView
         android:id="@+id/textView"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
         android:layout_marginEnd="8dp"
-        android:text="Select your lists"
-        android:textSize="@android:dimen/app_icon_size"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-
-        android:textColor="#ffffff"
         android:shadowColor="#000000"
         android:shadowDx="3"
         android:shadowDy="3"
-        android:shadowRadius="60"/>
+
+        android:shadowRadius="60"
+        android:text="Select your lists"
+        android:textColor="#ffffff"
+        android:textSize="@android:dimen/app_icon_size"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
 
     <android.support.v7.widget.RecyclerView
         android:id="@+id/listRV"
@@ -33,42 +36,57 @@
         android:layout_marginTop="6dp"
         android:layout_marginEnd="6dp"
         android:layout_marginBottom="6dp"
+        android:background="?android:attr/selectableItemBackground"
         android:padding="4dp"
         android:scrollbars="vertical"
-        app:layout_constraintBottom_toTopOf="@+id/startButton"
+        app:layout_constraintBottom_toTopOf="@+id/guidelineLS2"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/textView"
-        android:background="?android:attr/selectableItemBackground"/>
+        app:layout_constraintTop_toBottomOf="@+id/guidelineLS1" />
 
 
     <Button
         android:id="@+id/startButton"
         android:layout_width="150dp"
-        android:layout_height="70dp"
+        android:layout_height="0dp"
         android:layout_marginStart="16dp"
-        android:layout_marginBottom="16dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginBottom="8dp"
+        android:background="?android:attr/selectableItemBackground"
         android:text="Start"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        android:background="?android:attr/selectableItemBackground"
-        />
+        app:layout_constraintTop_toTopOf="@+id/guidelineLS2" />
 
     <Button
         android:id="@+id/startAFWButton"
         android:layout_width="150dp"
-        android:layout_height="70dp"
+        android:layout_height="0dp"
         android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
         android:layout_marginEnd="16dp"
-        android:layout_marginBottom="16dp"
+        android:layout_marginBottom="8dp"
+        android:background="?android:attr/selectableItemBackground"
         android:text="Start as floating window"
-        app:layout_constraintBottom_toBottomOf="@+id/startButton"
+        app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="1.0"
         app:layout_constraintStart_toEndOf="@+id/startButton"
-        app:layout_constraintTop_toTopOf="@+id/startButton"
-        app:layout_constraintVertical_bias="0.0"
-        android:background="?android:attr/selectableItemBackground"
-        />
+        app:layout_constraintTop_toTopOf="@+id/guidelineLS2" />
+
+    <android.support.constraint.Guideline
+        android:id="@+id/guidelineLS1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        app:layout_constraintGuide_begin="150dp"
+        app:layout_constraintGuide_percent="0.1" />
+
+    <android.support.constraint.Guideline
+        android:id="@+id/guidelineLS2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        app:layout_constraintGuide_end="87dp" />
 
 </android.support.constraint.ConstraintLayout>

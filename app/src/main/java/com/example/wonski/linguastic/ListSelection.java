@@ -65,8 +65,6 @@ public class ListSelection extends Activity implements MyAdapter.OnItemListener 
 
 
 
-
-
         sBut.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {

@@ -2,11 +2,14 @@ package com.example.wonski.linguastic;
 
 import android.app.Service;
 import android.content.Intent;
+import android.content.res.Configuration;
 import android.graphics.PixelFormat;
+import android.graphics.Point;
 import android.opengl.Visibility;
 import android.os.Build;
 import android.os.Handler;
 import android.os.IBinder;
+import android.view.Display;
 import android.view.Gravity;
 import android.view.LayoutInflater;
 import android.view.MotionEvent;
@@ -15,6 +18,7 @@ import android.view.WindowManager;
 import android.widget.ImageView;
 import android.widget.TextView;
 import android.widget.Toast;
+
 
 
 public class FloatingViewService extends Service {
@@ -26,6 +30,7 @@ public class FloatingViewService extends Service {
     private long startTime = 0, millis;
     private boolean running = false;
     private ImageView playButton;
+    final WindowManager.LayoutParams params = show();
 
     Handler timerHandler = new Handler();
     Runnable timerRunnable = new Runnable() {
@@ -54,6 +59,7 @@ public class FloatingViewService extends Service {
 
 
 
+
     public FloatingViewService() {
 
     }
@@ -66,6 +72,8 @@ public class FloatingViewService extends Service {
     public int onStartCommand (Intent intent, int flags, int startId) {
         mWM = (WordManager) intent.getExtras().get("list");
         mWM.setMax(mWM.getSize());
+        int posit = (Integer) intent.getExtras().get("position");
+        mWM.setCurrentPosition(posit);
 
         String lineS = (String) mWM.getRandomLine();
         diviningString(lineS);
@@ -88,7 +96,7 @@ public class FloatingViewService extends Service {
 
         //mWM = (WordManager) getIntent().getSerializableExtra("list");
 
-        final WindowManager.LayoutParams params = show();
+        //final WindowManager.LayoutParams params = show();
 
 
         mWindowManager = (WindowManager) getSystemService(WINDOW_SERVICE);
@@ -205,13 +213,9 @@ public class FloatingViewService extends Service {
             @Override
             public void onClick(View view) {
                 //Open the application  click.
-                int currP = mWM.getCurrentPosition();
-                Intent intent = new Intent(FloatingViewService.this, WordsLister.class);
-                intent.putExtra("list", mWM);
-                intent.putExtra("position",currP);
-                intent.addFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
-                startActivity(intent);
-                stopSelf();
+
+                goFull();
+
             }
         });
 
@@ -276,6 +280,10 @@ public class FloatingViewService extends Service {
 
 
 
+
+
+
+
     }
 
 
@@ -290,10 +298,56 @@ public class FloatingViewService extends Service {
 
 
     @Override
+    public void onConfigurationChanged(Configuration newConfig) {
+        super.onConfigurationChanged(newConfig);
+
+        Display display = mWindowManager.getDefaultDisplay();
+        Point size = new Point();
+        display.getSize(size);
+        int screenWidth = size.x;
+        int screenHeight = size.y;
+        int tx, ty;
+        int nxp, nyp;
+        float nxpf, nypf;
+        float xper, yper;
+
+        if(newConfig.orientation == Configuration.ORIENTATION_LANDSCAPE){
+            tx = params.x;
+            ty = params.y;
+            xper = (float) tx / screenWidth;
+            yper = (float) ty / screenHeight;
+            nxpf = xper * screenHeight;
+            nypf = yper * screenWidth;
+            nxp = (int) nxpf;
+            nyp = (int) nypf;
+            params.x = nyp;
+            params.y = nxp;
+            Toast.makeText(this,"x: " + nxp + " y: " + nyp, Toast.LENGTH_SHORT ).show();
+        }
+        else if(newConfig.orientation == Configuration.ORIENTATION_PORTRAIT){
+            tx = params.x;
+            ty = params.y;
+            xper = (float) tx / screenWidth;
+            yper = (float) ty / screenHeight;
+            nxpf = xper * screenHeight;
+            nypf = yper * screenWidth;
+            nxp = (int) nxpf;
+            nyp = (int) nypf;
+            params.x = nxp;
+            params.y = nyp;
+            Toast.makeText(this,"x: " + nxp + " y: " + nyp, Toast.LENGTH_SHORT ).show();
+        }
+        mWindowManager.updateViewLayout(mFloatingView, params);
+    }
+
+
+
+    @Override
     public void onDestroy() {
         super.onDestroy();
         if (mFloatingView != null) mWindowManager.removeView(mFloatingView);
     }
+
 
 
     private WindowManager.LayoutParams show(){
@@ -305,7 +359,8 @@ public class FloatingViewService extends Service {
                     WindowManager.LayoutParams.FLAG_NOT_FOCUSABLE
                             | WindowManager.LayoutParams.FLAG_NOT_TOUCH_MODAL
                             | WindowManager.LayoutParams.FLAG_WATCH_OUTSIDE_TOUCH
-                            | WindowManager.LayoutParams.FLAG_LAYOUT_NO_LIMITS,
+                            | WindowManager.LayoutParams.FLAG_LAYOUT_NO_LIMITS
+                            | WindowManager.LayoutParams.SCREEN_ORIENTATION_CHANGED,
                     PixelFormat.TRANSLUCENT);
 
             params.gravity = Gravity.START | Gravity.TOP;
@@ -322,7 +377,8 @@ public class FloatingViewService extends Service {
                     WindowManager.LayoutParams.FLAG_NOT_FOCUSABLE
                             | WindowManager.LayoutParams.FLAG_NOT_TOUCH_MODAL
                             | WindowManager.LayoutParams.FLAG_WATCH_OUTSIDE_TOUCH
-                            | WindowManager.LayoutParams.FLAG_LAYOUT_NO_LIMITS,
+                            | WindowManager.LayoutParams.FLAG_LAYOUT_NO_LIMITS
+                            | WindowManager.LayoutParams.SCREEN_ORIENTATION_CHANGED,
                     PixelFormat.TRANSLUCENT);
 
 
@@ -333,6 +389,18 @@ public class FloatingViewService extends Service {
         }
     }
 
+
+
+
+    private void goFull(){
+        int currP = mWM.getCurrentPosition();
+        Intent intent = new Intent(FloatingViewService.this, WordsLister.class);
+        intent.putExtra("list", mWM);
+        intent.putExtra("position",currP);
+        intent.addFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
+        startActivity(intent);
+        stopSelf();
+    }
 
 
 

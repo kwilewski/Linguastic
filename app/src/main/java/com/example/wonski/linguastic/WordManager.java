@@ -1,18 +1,6 @@
 package com.example.wonski.linguastic;
 
-import android.app.Activity;
-import android.content.Intent;
-import android.os.Handler;
-import android.support.v7.app.AppCompatActivity;
-import android.os.Bundle;
-import android.view.View;
-import android.widget.Button;
-import android.widget.TextView;
 
-import java.io.BufferedReader;
-import java.io.IOException;
-import java.io.InputStream;
-import java.io.InputStreamReader;
 import java.io.Serializable;
 import java.util.ArrayList;
 import java.util.Random;
@@ -61,7 +49,11 @@ public class WordManager implements Serializable {
             String retString = queueArray.get(currentEl - 1);
             return retString;
         }
-        return null;
+        else{
+            currentEl = 1;
+            String retString = queueArray.get(currentEl - 1);
+            return retString;
+        }
     }
 
     public String getPrevLine(){
@@ -70,7 +62,11 @@ public class WordManager implements Serializable {
             String retString = queueArray.get(currentEl - 1);
             return retString;
         }
-        return null;
+        else{
+            currentEl = queueArray.size();
+            String retString = queueArray.get(currentEl - 1);
+            return retString;
+        }
     }
 
     public void createQ(){
@@ -116,69 +112,25 @@ public class WordManager implements Serializable {
     }
 
 
-
-    private String getText(InputStream inputStream) {
-        StringBuilder stringBuilder = new StringBuilder();
-        try {;
-            if ( inputStream != null ) {
-                InputStreamReader inputStreamReader = new InputStreamReader(inputStream);
-                BufferedReader bufferedReader = new BufferedReader(inputStreamReader);
-                String newLine = null;
-                while ((newLine = bufferedReader.readLine()) !=
-                        null ) {
-                    stringBuilder.append(newLine+"\n");
-                }
-                inputStream.close();
-            }
-        } catch (java.io.IOException e) {
-            e.printStackTrace();
+    public void addElements(){
+        int el;
+        int newID;
+        String retString = null;
+        ArrayList<String> randArray = (ArrayList) wordArray.clone();
+        for(el = 0; el < wordArray.size(); el++) {
+            max = randArray.size();
+            int line = newRandom();
+            retString = (String) randArray.get(line - 1);
+            String[] parts = retString.split("\\|");
+            String partID = parts[2];
+            newID = Integer.valueOf(partID);
+            qID.add(newID);
+            queueArray.add(retString);
+            randArray.remove(line-1);
         }
-        return stringBuilder.toString();
+
     }
 
-    private ArrayList<String> getArrayList(InputStream inputStream){
-        ArrayList<String> temp = new ArrayList<String>();
-        try {
-            if ( inputStream != null ) {
-                InputStreamReader inputStreamReader = new InputStreamReader(inputStream);
-                BufferedReader bufferedReader = new BufferedReader(inputStreamReader);
-                String newLine = null;
-                while ((newLine = bufferedReader.readLine()) != null ) {
-                    temp.add(newLine);
-                }
-                inputStream.close();
-            }
-        }
-        catch (java.io.IOException e) {
-            e.printStackTrace();
-        }
-
-        return temp;
-    }
-
-
-    /*private void arrayToString(int line){
-
-        ArrayList<String> tempArray = new ArrayList<String>();
-        String retString = new String();
-
-        try{
-            tempArray = getArrayList(getAssets().open("1st100.txt"));
-            retString = (String) tempArray.get(line-1);
-        }
-        catch (IOException e){
-            e.printStackTrace();
-        }
-        diviningString(retString);
-    }*/
-
-    private void diviningString(String input){
-        String[] parts = input.split("\\|");
-        String part1 = parts[0];
-        String part2 = parts[1];
-        String part3 = parts[2];
-        //MainActivity.MAChanger(part1, part2, part3);
-    }
 
 
 

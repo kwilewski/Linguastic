@@ -1,6 +1,7 @@
 package com.example.wonski.linguastic;
 
 import android.app.Activity;
+import android.content.Intent;
 import android.media.Image;
 import android.os.Bundle;
 import android.os.Handler;
@@ -15,7 +16,7 @@ import java.util.ArrayList;
 
 public class WordsLister extends Activity {
 
-    private ImageButton prevB, ppB, nextB;
+    private ImageButton prevB, ppB, nextB, homeB, settB, sfB;
     private TextView spTV, enTV;
     private WordManager mWM;
     private long startTime = 0,millis;
@@ -58,11 +59,19 @@ public class WordsLister extends Activity {
         prevB = (ImageButton) findViewById(R.id.prevB);
         ppB = (ImageButton) findViewById(R.id.ppB);
         nextB = (ImageButton) findViewById(R.id.nextB);
+        homeB = (ImageButton) findViewById(R.id.homeB);
+        sfB = (ImageButton) findViewById(R.id.startFloatingB);
+        settB = (ImageButton) findViewById(R.id.settingsB);
 
         getWindow().setStatusBarColor(0x66ff0000);
 
         mWM = (WordManager) getIntent().getSerializableExtra("list");
         int posit = (Integer) getIntent().getSerializableExtra("position");
+        if (savedInstanceState != null){
+            mWM = (WordManager) savedInstanceState.getSerializable("list");
+            posit = (Integer) savedInstanceState.getSerializable("position");
+
+        }
         mWM.setCurrentPosition(posit);
 
         mWM.setMax(mWM.getSize());
@@ -140,8 +149,45 @@ public class WordsLister extends Activity {
             }
         });
 
+        homeB.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+
+                goHome();
+
+            }
+        });
+
+        sfB.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+
+                initializeView();
+
+            }
+        });
 
 
+
+
+    }
+
+
+    private void goHome(){
+        Intent intent = new Intent(WordsLister.this, MainActivity.class);
+        startActivity(intent);
+    }
+
+
+    private void initializeView() {
+
+        int currP = mWM.getCurrentPosition();
+        Intent intent = new Intent(WordsLister.this, FloatingViewService.class);
+        intent.putExtra("position", currP);
+        intent.putExtra("list", mWM);
+        this.startService(intent);
+        finish();
+        this.moveTaskToBack(true);
 
     }
 
@@ -155,6 +201,19 @@ public class WordsLister extends Activity {
         spTV.setText(part1);
         enTV.setText(part2);
     }
+
+
+
+    @Override
+    protected void onSaveInstanceState(Bundle outState){
+        super.onSaveInstanceState(outState);
+
+        outState.putSerializable("position", mWM.getCurrentPosition());
+        outState.putSerializable("list", mWM);
+
+    }
+
+
 
 
 
