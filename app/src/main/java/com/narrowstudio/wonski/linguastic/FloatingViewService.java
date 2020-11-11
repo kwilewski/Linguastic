@@ -35,7 +35,8 @@ public class FloatingViewService extends Service {
     private TextView spanishTV, englishTV, spanishExp, englishExp;
     private int  seconds, secSet=5;
     private long startTime = 0, millis;
-    private boolean running = false;
+    private boolean running = false; //contains info if playlist is played rn
+    private boolean isAudio = false; //contains info if audio is being played
     private ImageView playButton;
     private boolean stateDarkModeSwitch, stateDoubleTimeSwitch;
     private SharedPreferences preferences;
@@ -45,8 +46,8 @@ public class FloatingViewService extends Service {
     NotificationCompat.Builder builder;
     Notification notification;
     NotificationManager notificationManager;
-    Intent notificationHomeIntent;
-    PendingIntent pendingHomeIntent;
+    Intent notificationHomeIntent, playBroadcastIntent, expandBroadcastIntent, audioBroadcastIntent, killBroadcastIntent;
+    PendingIntent pendingHomeIntent, playActionIntent, expandActionIntent, audioActionIntent, killActionIntent;
 
     int notificationID = 1; //ID of notification
 
@@ -94,23 +95,23 @@ public class FloatingViewService extends Service {
                 0, notificationHomeIntent, PendingIntent.FLAG_CANCEL_CURRENT);
 
         //play / pause action Intent
-        Intent playBroadcastIntent = new Intent(this, ServiceReceiver.class).setAction("play");
-        PendingIntent playActionIntent = PendingIntent.getBroadcast(this,
+        playBroadcastIntent = new Intent(this, ServiceReceiver.class).setAction("play");
+        playActionIntent = PendingIntent.getBroadcast(this,
                 0, playBroadcastIntent, PendingIntent.FLAG_UPDATE_CURRENT);
 
         //kill action Intent
-        Intent killBroadcastIntent = new Intent(this, ServiceReceiver.class).setAction("kill");
-        PendingIntent killActionIntent = PendingIntent.getBroadcast(this,
+        killBroadcastIntent = new Intent(this, ServiceReceiver.class).setAction("kill");
+        killActionIntent = PendingIntent.getBroadcast(this,
                 0, killBroadcastIntent, PendingIntent.FLAG_UPDATE_CURRENT);
 
         //expand action Intent
-        Intent expandBroadcastIntent = new Intent(this, ServiceReceiver.class).setAction("expand");
-        PendingIntent expandActionIntent = PendingIntent.getBroadcast(this,
+        expandBroadcastIntent = new Intent(this, ServiceReceiver.class).setAction("expand");
+        expandActionIntent = PendingIntent.getBroadcast(this,
                 0, expandBroadcastIntent, PendingIntent.FLAG_UPDATE_CURRENT);
 
         //audio action Intent
-        Intent audioBroadcastIntent = new Intent(this, ServiceReceiver.class).setAction("audio");
-        PendingIntent audioActionIntent = PendingIntent.getBroadcast(this,
+        audioBroadcastIntent = new Intent(this, ServiceReceiver.class).setAction("audio");
+        audioActionIntent = PendingIntent.getBroadcast(this,
                 0, audioBroadcastIntent, PendingIntent.FLAG_UPDATE_CURRENT);
 
 
@@ -529,13 +530,41 @@ public class FloatingViewService extends Service {
             timerHandler.removeCallbacks(timerRunnable);
             startTime = System.currentTimeMillis();
             timerHandler.postDelayed(timerRunnable, 0);
-
         }
         else{
             running = false;
             timerHandler.removeCallbacks(timerRunnable);
             playButton.setImageResource(R.drawable.ic_play);
         }
+        updateNotification();
+    }
+
+    //update notification after every state change
+    private void updateNotification(){
+        NotificationCompat.Builder notificationBuilder = new NotificationCompat.Builder(this, getResources().getString(R.string.service_channel))
+                .setSmallIcon(R.drawable.ic_launcher_foreground)
+                .setNotificationSilent()
+                .setContentIntent(playActionIntent)
+                .setShowWhen(false);
+
+        //setting play / pause text
+        if(running){
+            notificationBuilder.setContentText(getString(R.string.service_context2));
+        } else {
+            notificationBuilder.setContentText(getString(R.string.service_context));
+        }
+
+        //setting audio on / off text
+        if(isAudio){
+                notificationBuilder.addAction(R.mipmap.ic_launcher, getString(R.string.service_button12), audioActionIntent);
+        } else {
+            notificationBuilder.addAction(R.mipmap.ic_launcher, getString(R.string.service_button11), audioActionIntent);
+        }
+
+        notificationBuilder.addAction(R.mipmap.ic_launcher, getString(R.string.service_button21), expandActionIntent);
+        notificationBuilder.addAction(R.mipmap.ic_launcher, getString(R.string.service_button31), killActionIntent);
+
+        notificationManager.notify(notificationID, notificationBuilder.build());
     }
 
 

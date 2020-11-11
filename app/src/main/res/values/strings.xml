@@ -11,8 +11,8 @@
     <string name="service_channel">LinguasticForegroundServiceChannel</string>
     <string name="service_context">Tap to start</string>
     <string name="service_context2">Tap to pause</string>
-    <string name="service_button11">Audio on</string>
-    <string name="service_button12">Audio off</string>
+    <string name="service_button11">Play audio</string>
+    <string name="service_button12">Mute audio</string>
     <string name="service_button21">Expand</string>
     <string name="service_button31">Close</string>
 </resources>
