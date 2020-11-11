@@ -1,4 +1,4 @@
-package com.example.wonski.linguastic;
+package com.narrowstudio.wonski.linguastic;
 
 
 import java.io.Serializable;
@@ -51,6 +51,18 @@ public class WordManager implements Serializable {
         }
         else{
             currentEl = 1;
+            String retString = queueArray.get(currentEl - 1);
+            return retString;
+        }
+    }
+
+    public String getCurrentLine(){
+        if (currentEl == 0) {
+            currentEl = 1;
+            String retString = queueArray.get(currentEl - 1);
+            return retString;
+        }
+        else {
             String retString = queueArray.get(currentEl - 1);
             return retString;
         }

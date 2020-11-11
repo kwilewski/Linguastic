@@ -1,25 +1,25 @@
-package com.example.wonski.linguastic;
+package com.narrowstudio.wonski.linguastic;
 
 import android.app.Activity;
 import android.content.Intent;
+import android.content.SharedPreferences;
 import android.net.Uri;
 import android.os.Build;
 import android.os.Bundle;
 import android.provider.Settings;
-import android.support.v7.app.AppCompatActivity;
-import android.support.v7.widget.LinearLayoutManager;
-import android.support.v7.widget.RecyclerView;
 import android.view.View;
 import android.widget.Button;
 import android.widget.TextView;
 import android.widget.Toast;
+
+import androidx.recyclerview.widget.LinearLayoutManager;
+import androidx.recyclerview.widget.RecyclerView;
 
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStream;
 import java.io.InputStreamReader;
 import java.util.ArrayList;
-import java.util.concurrent.ThreadLocalRandom;
 
 public class ListSelection extends Activity implements MyAdapter.OnItemListener {
 
@@ -35,13 +35,40 @@ public class ListSelection extends Activity implements MyAdapter.OnItemListener 
     private ArrayList<Integer> selectedArray = new ArrayList<>();
     private ArrayList<String> selWords = new ArrayList<>();
     private WordManager mWMLS;
+    private boolean stateDarkModeSwitch, stateDoubleTimeSwitch;
+    private SharedPreferences preferences;
+    private int stateTime;
+    private static final String SHARED_PREFS = "PREFS";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+
+
+
+
+
+    }
+
+    @Override
+    protected void onResume(){
+        super.onResume();
+        createUI();
+    }
+
+    private void createUI(){
+        preferences = getSharedPreferences(SHARED_PREFS, MODE_PRIVATE);
+        stateDarkModeSwitch = preferences.getBoolean("dark_mode", false);
+        stateDoubleTimeSwitch = preferences.getBoolean("double_time", false);
+        stateTime = preferences.getInt("time", 0);
+
+        if (stateDarkModeSwitch) {
+            setTheme(R.style.AppDarkTheme);
+        }
+        else {
+            setTheme(R.style.AppTheme);
+        }
         setContentView(R.layout.list_selection);
-
-
 
         textView = (TextView) findViewById(R.id.textView);
         mRecyclerView = (RecyclerView) findViewById(R.id.listRV);
@@ -49,21 +76,12 @@ public class ListSelection extends Activity implements MyAdapter.OnItemListener 
         sfwBut = (Button) findViewById(R.id.startAFWButton);
 
 
-        getWindow().setStatusBarColor(0xaaff0000);
-
-
-        //mRecyclerView.setHasFixedSize(true);
-
-
         getLists();
-
 
         LinearLayoutManager layoutManager = new LinearLayoutManager(this);
         mRecyclerView.setLayoutManager(layoutManager);
-        mAdapter = new MyAdapter(listsArray, selectedArray, this);
+        mAdapter = new MyAdapter(listsArray, selectedArray, this, this.getApplicationContext());
         mRecyclerView.setAdapter(mAdapter);
-
-
 
         sBut.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -84,6 +102,7 @@ public class ListSelection extends Activity implements MyAdapter.OnItemListener 
                     intent.putExtra("list", mWMLS);
                     intent.putExtra("position", 0);
                     startActivity(intent);
+                    finish();
                 }
                 else{
                     Toast.makeText(ListSelection.this, "Select at leats one list of words",Toast.LENGTH_SHORT).show();
@@ -128,20 +147,16 @@ public class ListSelection extends Activity implements MyAdapter.OnItemListener 
                         selWords = setArray();
                         mWMLS = new WordManager(selWords);
                         initializeView();
+                        finish();
 
                     } else {
-                        Toast.makeText(ListSelection.this, "Select at leats one list of words", Toast.LENGTH_SHORT).show();
+                        Toast.makeText(ListSelection.this, "Select at least one list", Toast.LENGTH_SHORT).show();
                     }
                 }
 
             }
         });
-
-
-
-
     }
-
 
     /**
      * Set and initialize the view elements.

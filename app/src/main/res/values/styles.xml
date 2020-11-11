@@ -1,11 +1,50 @@
 <resources>
 
     <!-- Base application theme. -->
+    <!-- Day mode -->
     <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
         <!-- Customize your theme here. -->
         <item name="colorPrimary">@color/colorPrimary</item>
         <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
         <item name="colorAccent">@color/colorAccent</item>
+        <item name="colorBackground">@color/colorBackground</item>
+        <item name="colorBackground2">@color/colorBackground2</item>
+        <item name="colorBackgroundFV">@color/colorBackgroundFV</item>
+        <item name="colorChecked">@color/colorChecked</item>
+        <item name="colorFont">@color/colorMainFont</item>
+        <item name="colorFont2">@color/colorMainFont2</item>
+        <item name="colorFont3">@color/colorMainFont3</item>
+        <item name="colorFont4">@color/colorMainFont4</item>
+
+        <item name="android:windowAnimationStyle"> @style/WindowAnimationTransition</item>
     </style>
+
+
+    <!-- Night mode -->
+    <style name="AppDarkTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary2</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark2</item>
+        <item name="colorAccent">@color/colorAccentDark</item>
+        <item name="colorBackground">@color/colorBackgroundDark</item>
+        <item name="colorBackground2">@color/colorBackgroundDark2</item>
+        <item name="colorBackgroundFV">@color/colorBackgroundFVDark</item>
+        <item name="colorChecked">@color/colorCheckedDark</item>
+        <item name="colorFont">@color/colorMainFontDark</item>
+        <item name="colorFont2">@color/colorMainFontDark2</item>
+        <item name="colorFont3">@color/colorMainFontDark3</item>
+        <item name="colorFont4">@color/colorMainFontDark4</item>
+
+
+        <item name="android:windowAnimationStyle"> @style/WindowAnimationTransition</item>
+    </style>
+
+    <style name="WindowAnimationTransition">
+        <item name="android:windowEnterAnimation" >@android:anim/fade_in</item>
+        <item name="android:windowExitAnimation" >@android:anim/fade_out</item>
+    </style>
+
+
+
 
 </resources>

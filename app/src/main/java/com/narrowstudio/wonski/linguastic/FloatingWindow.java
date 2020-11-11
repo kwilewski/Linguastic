@@ -1,4 +1,4 @@
-package com.example.wonski.linguastic;
+package com.narrowstudio.wonski.linguastic;
 
 import android.app.Service;
 import android.content.Intent;
@@ -10,7 +10,6 @@ import android.view.MotionEvent;
 import android.view.View;
 import android.view.ViewGroup;
 import android.view.WindowManager;
-import android.view.WindowManager.LayoutParams;
 import android.widget.Button;
 import android.widget.LinearLayout;
 

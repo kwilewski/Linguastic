@@ -1,10 +1,8 @@
-package com.example.wonski.linguastic;
+package com.narrowstudio.wonski.linguastic;
 
 
-import android.graphics.Color;
-import android.support.annotation.NonNull;
-import android.support.v7.widget.CardView;
-import android.support.v7.widget.RecyclerView;
+import android.content.Context;
+import android.content.SharedPreferences;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -12,7 +10,8 @@ import android.widget.ImageView;
 import android.widget.RelativeLayout;
 import android.widget.TextView;
 
-import org.w3c.dom.Text;
+import androidx.annotation.NonNull;
+import androidx.recyclerview.widget.RecyclerView;
 
 import java.util.ArrayList;
 
@@ -20,6 +19,10 @@ public class MyAdapter extends RecyclerView.Adapter<MyAdapter.MyViewHolder> {
     private ArrayList<String> mDataset;
     private ArrayList<Integer> mSel;
     private OnItemListener mOnItemListener;
+    private Context mContext;
+    private boolean stateDarkModeSwitch;
+    private SharedPreferences preferences;
+    private static final String SHARED_PREFS = "PREFS";
 
     // Provide a reference to the views for each data item
     // Complex data items may need more than one view per item, and
@@ -46,10 +49,11 @@ public class MyAdapter extends RecyclerView.Adapter<MyAdapter.MyViewHolder> {
     }
 
     // Provide a suitable constructor (depends on the kind of dataset)
-    public MyAdapter(ArrayList<String> myDataset, ArrayList<Integer> list, OnItemListener onItemListener) {
+    public MyAdapter(ArrayList<String> myDataset, ArrayList<Integer> list, OnItemListener onItemListener, Context context) {
         this.mDataset = myDataset;
         this.mSel = list;
         this.mOnItemListener = onItemListener;
+        this.mContext = context;
     }
 
     // Create new views (invoked by the layout manager)
@@ -69,14 +73,38 @@ public class MyAdapter extends RecyclerView.Adapter<MyAdapter.MyViewHolder> {
         // - replace the contents of the view with that element
         holder.textCardView.setText(mDataset.get(position));
 
+
+        preferences = mContext.getSharedPreferences(SHARED_PREFS, 0);
+        stateDarkModeSwitch = preferences.getBoolean("dark_mode", false);
+
         if(mSel.get(position)==0) {
             holder.imageView.setImageResource(0);
-            holder.mLayout.setBackgroundColor(0x22ff5500);
+            int colorBackground, colorText;
+            if (stateDarkModeSwitch){
+                colorBackground = 0xff222222;
+                colorText = 0xffaaaaaa;
+            }
+            else {
+                colorBackground = 0xffcccccc;
+                colorText = 0xff444444;
+            }
+            holder.mLayout.setBackgroundColor(colorBackground);
+            holder.textCardView.setTextColor(colorText);
 
         }
         else{
             holder.imageView.setImageResource(R.drawable.ic_check_circle);
-            holder.mLayout.setBackgroundColor(0x4400ff00);
+            int colorBackground, colorText;
+            if (stateDarkModeSwitch){
+                colorBackground = 0xff555555;
+                colorText = 0xffaaaaaa;
+            }
+            else {
+                colorBackground = 0xffe30000;
+                colorText = 0xff000000;
+            }
+            holder.mLayout.setBackgroundColor(colorBackground);
+            holder.textCardView.setTextColor(colorText);
         }
 
     }
@@ -98,4 +126,3 @@ public class MyAdapter extends RecyclerView.Adapter<MyAdapter.MyViewHolder> {
     }
 
 }
-

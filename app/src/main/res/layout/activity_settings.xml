@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/settingsLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="?attr/colorBackground"
+    android:orientation="vertical">
+
+    <Switch
+        android:id="@+id/switchSett"
+        android:layout_width="0dp"
+        android:layout_height="40dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="8dp"
+        android:text="Dark mode"
+        android:textColor="?attr/colorFont3"
+        app:layout_constraintEnd_toStartOf="@+id/guidelineSettings2"
+        app:layout_constraintStart_toStartOf="@+id/guidelineSettings"
+        app:layout_constraintTop_toTopOf="parent"/>
+
+    <androidx.constraintlayout.widget.Guideline
+        android:id="@+id/guidelineSettings"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        app:layout_constraintGuide_percent="0.05" />
+
+    <androidx.constraintlayout.widget.Guideline
+        android:id="@+id/guidelineSettings2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        app:layout_constraintGuide_percent="0.95" />
+
+    <TextView
+        android:id="@+id/textViewSett"
+        android:layout_width="0dp"
+        android:layout_height="40dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:text="@string/activity_settings_time"
+        android:textAlignment="viewStart"
+        android:textColor="?attr/colorFont3"
+        app:layout_constraintEnd_toEndOf="@+id/switchSett"
+        app:layout_constraintStart_toStartOf="@+id/guidelineSettings"
+        app:layout_constraintTop_toBottomOf="@+id/switchSett"/>
+
+    <SeekBar
+        android:id="@+id/seekBarSett"
+        style="@style/Widget.AppCompat.SeekBar.Discrete"
+        android:layout_width="0dp"
+        android:layout_height="40dp"
+        android:layout_marginTop="8dp"
+        android:max="2"
+        android:progress="1"
+        app:layout_constraintEnd_toEndOf="@+id/textViewSett"
+        app:layout_constraintStart_toStartOf="@+id/textViewSett"
+        app:layout_constraintTop_toBottomOf="@+id/textViewSett"/>
+
+    <Switch
+        android:id="@+id/switch2Sett"
+        android:layout_width="0dp"
+        android:layout_height="40dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="8dp"
+        android:textColor="?attr/colorFont3"
+        android:text="@string/activity_settings_double_time"
+        app:layout_constraintEnd_toEndOf="@+id/seekBarSett"
+        app:layout_constraintStart_toStartOf="@+id/seekBarSett"
+        app:layout_constraintTop_toBottomOf="@+id/seekBarSett"/>
+</androidx.constraintlayout.widget.ConstraintLayout>

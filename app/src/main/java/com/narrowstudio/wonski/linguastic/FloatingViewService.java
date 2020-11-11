@@ -1,11 +1,18 @@
-package com.example.wonski.linguastic;
+package com.narrowstudio.wonski.linguastic;
 
+import android.app.Notification;
+import android.app.NotificationChannel;
+import android.app.NotificationManager;
+import android.app.PendingIntent;
 import android.app.Service;
+import android.content.BroadcastReceiver;
+import android.content.Context;
 import android.content.Intent;
+import android.content.IntentFilter;
+import android.content.SharedPreferences;
 import android.content.res.Configuration;
 import android.graphics.PixelFormat;
 import android.graphics.Point;
-import android.opengl.Visibility;
 import android.os.Build;
 import android.os.Handler;
 import android.os.IBinder;
@@ -17,8 +24,8 @@ import android.view.View;
 import android.view.WindowManager;
 import android.widget.ImageView;
 import android.widget.TextView;
-import android.widget.Toast;
 
+import androidx.core.app.NotificationCompat;
 
 
 public class FloatingViewService extends Service {
@@ -30,7 +37,18 @@ public class FloatingViewService extends Service {
     private long startTime = 0, millis;
     private boolean running = false;
     private ImageView playButton;
+    private boolean stateDarkModeSwitch, stateDoubleTimeSwitch;
+    private SharedPreferences preferences;
+    private int stateTime;
+    private static final String SHARED_PREFS = "PREFS";
     final WindowManager.LayoutParams params = show();
+    NotificationCompat.Builder builder;
+    Notification notification;
+    NotificationManager notificationManager;
+    Intent notificationHomeIntent;
+    PendingIntent pendingHomeIntent;
+
+    int notificationID = 1; //ID of notification
 
     Handler timerHandler = new Handler();
     Runnable timerRunnable = new Runnable() {
@@ -70,6 +88,46 @@ public class FloatingViewService extends Service {
     }
 
     public int onStartCommand (Intent intent, int flags, int startId) {
+        createNotificationChannel();
+        notificationHomeIntent = new Intent(this, MainActivity.class);
+        pendingHomeIntent = PendingIntent.getActivity(this,
+                0, notificationHomeIntent, PendingIntent.FLAG_CANCEL_CURRENT);
+
+        //play / pause action Intent
+        Intent playBroadcastIntent = new Intent(this, ServiceReceiver.class).setAction("play");
+        PendingIntent playActionIntent = PendingIntent.getBroadcast(this,
+                0, playBroadcastIntent, PendingIntent.FLAG_UPDATE_CURRENT);
+
+        //kill action Intent
+        Intent killBroadcastIntent = new Intent(this, ServiceReceiver.class).setAction("kill");
+        PendingIntent killActionIntent = PendingIntent.getBroadcast(this,
+                0, killBroadcastIntent, PendingIntent.FLAG_UPDATE_CURRENT);
+
+        //expand action Intent
+        Intent expandBroadcastIntent = new Intent(this, ServiceReceiver.class).setAction("expand");
+        PendingIntent expandActionIntent = PendingIntent.getBroadcast(this,
+                0, expandBroadcastIntent, PendingIntent.FLAG_UPDATE_CURRENT);
+
+        //audio action Intent
+        Intent audioBroadcastIntent = new Intent(this, ServiceReceiver.class).setAction("audio");
+        PendingIntent audioActionIntent = PendingIntent.getBroadcast(this,
+                0, audioBroadcastIntent, PendingIntent.FLAG_UPDATE_CURRENT);
+
+
+        notification = new NotificationCompat.Builder(this, getResources().getString(R.string.service_channel))
+                .setContentText(getString(R.string.service_context))
+                .setSmallIcon(R.drawable.ic_launcher_foreground)
+                .setNotificationSilent()
+                .setContentIntent(playActionIntent)
+                .addAction(R.mipmap.ic_launcher, getString(R.string.service_button11), audioActionIntent)
+                .addAction(R.mipmap.ic_launcher, getString(R.string.service_button21), expandActionIntent)
+                .addAction(R.mipmap.ic_launcher, getString(R.string.service_button31), killActionIntent)
+                .setShowWhen(false)
+                .build();
+
+        startForeground(notificationID, notification);
+
+
         mWM = (WordManager) intent.getExtras().get("list");
         mWM.setMax(mWM.getSize());
         int posit = (Integer) intent.getExtras().get("position");
@@ -87,7 +145,39 @@ public class FloatingViewService extends Service {
     public void onCreate() {
         super.onCreate();
         //Inflate the floating view layout we created
+        preferences = getSharedPreferences(SHARED_PREFS, MODE_PRIVATE);
+        stateDarkModeSwitch = preferences.getBoolean("dark_mode", false);
+        stateDoubleTimeSwitch = preferences.getBoolean("double_time", false);
+        stateTime = preferences.getInt("time", 0);
+        IntentFilter filter = new IntentFilter("com.narrowstudio.wonski.linguastic.SERVICE_ACTION");
+        registerReceiver(mBroadcastReceiver, filter);
+
+
+
+        if (stateDarkModeSwitch) {
+            setTheme(R.style.AppDarkTheme);
+        }
+        else {
+            setTheme(R.style.AppTheme);
+        }
+
+        if (stateTime == 0) {
+            secSet = 5;
+        }
+        else if (stateTime == 1) {
+            secSet = 10;
+        }
+        else if (stateTime == 2) {
+            secSet = 15;
+        }
+
+        if (stateDoubleTimeSwitch){
+            secSet = secSet * 2;
+        }
+
+
         mFloatingView = LayoutInflater.from(this).inflate(R.layout.layout_floating_widget, null);
+
 
         spanishTV = (TextView) mFloatingView.findViewById(R.id.spanishTV);
         englishTV = (TextView) mFloatingView.findViewById(R.id.englishTV);
@@ -100,6 +190,7 @@ public class FloatingViewService extends Service {
 
 
         mWindowManager = (WindowManager) getSystemService(WINDOW_SERVICE);
+        //mFloatingView.setSystemUiVisibility(getUIFlag());
         mWindowManager.addView(mFloatingView, params);
 
 
@@ -132,20 +223,7 @@ public class FloatingViewService extends Service {
         playButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                if(running == false) {
-                    running = true;
-                    playButton.setImageResource(R.drawable.ic_pause);
-                    //String lineS = (String) mWM.getRandomLine();
-                    //diviningString(lineS);
-                    timerHandler.removeCallbacks(timerRunnable);
-                    startTime = System.currentTimeMillis();
-                    timerHandler.postDelayed(timerRunnable, 0);
-                }
-                else{
-                    running = false;
-                    timerHandler.removeCallbacks(timerRunnable);
-                    playButton.setImageResource(R.drawable.ic_play);
-                }
+                playSwitch();
 
             }
         });
@@ -287,6 +365,18 @@ public class FloatingViewService extends Service {
     }
 
 
+    private void createNotificationChannel() {
+        if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.O) {
+            NotificationChannel serviceChannel = new NotificationChannel(
+                    getResources().getString(R.string.service_channel),
+                    "Foreground Service Channel",
+                    NotificationManager.IMPORTANCE_MIN
+            );
+            notificationManager = getSystemService(NotificationManager.class);
+            notificationManager.createNotificationChannel(serviceChannel);
+        }
+    }
+
     /**
      * Detect if the floating view is collapsed or expanded.
      *
@@ -295,6 +385,18 @@ public class FloatingViewService extends Service {
     private boolean isViewCollapsed() {
         return mFloatingView == null || mFloatingView.findViewById(R.id.collapse_view).getVisibility() == View.VISIBLE;
     }
+
+    private int getUIFlag(){
+        int mFlag;
+        mFlag = View.SYSTEM_UI_FLAG_IMMERSIVE_STICKY
+                | View.SYSTEM_UI_FLAG_FULLSCREEN
+                | View.SYSTEM_UI_FLAG_HIDE_NAVIGATION
+                | View.SYSTEM_UI_FLAG_LAYOUT_FULLSCREEN
+                | View.SYSTEM_UI_FLAG_LAYOUT_HIDE_NAVIGATION
+                | View.SYSTEM_UI_FLAG_LOW_PROFILE;
+        return mFlag;
+    }
+
 
 
     @Override
@@ -322,7 +424,6 @@ public class FloatingViewService extends Service {
             nyp = (int) nypf;
             params.x = nyp;
             params.y = nxp;
-            Toast.makeText(this,"x: " + nxp + " y: " + nyp, Toast.LENGTH_SHORT ).show();
         }
         else if(newConfig.orientation == Configuration.ORIENTATION_PORTRAIT){
             tx = params.x;
@@ -335,7 +436,6 @@ public class FloatingViewService extends Service {
             nyp = (int) nypf;
             params.x = nxp;
             params.y = nyp;
-            Toast.makeText(this,"x: " + nxp + " y: " + nyp, Toast.LENGTH_SHORT ).show();
         }
         mWindowManager.updateViewLayout(mFloatingView, params);
     }
@@ -356,10 +456,10 @@ public class FloatingViewService extends Service {
                     WindowManager.LayoutParams.WRAP_CONTENT,
                     WindowManager.LayoutParams.WRAP_CONTENT,
                     WindowManager.LayoutParams.TYPE_PHONE,
-                    WindowManager.LayoutParams.FLAG_NOT_FOCUSABLE
+                    WindowManager.LayoutParams.FLAG_LAYOUT_IN_SCREEN
+                            | WindowManager.LayoutParams.FLAG_FULLSCREEN
                             | WindowManager.LayoutParams.FLAG_NOT_TOUCH_MODAL
                             | WindowManager.LayoutParams.FLAG_WATCH_OUTSIDE_TOUCH
-                            | WindowManager.LayoutParams.FLAG_LAYOUT_NO_LIMITS
                             | WindowManager.LayoutParams.SCREEN_ORIENTATION_CHANGED,
                     PixelFormat.TRANSLUCENT);
 
@@ -374,10 +474,10 @@ public class FloatingViewService extends Service {
                     WindowManager.LayoutParams.WRAP_CONTENT,
                     WindowManager.LayoutParams.WRAP_CONTENT,
                     WindowManager.LayoutParams.TYPE_APPLICATION_OVERLAY,
-                    WindowManager.LayoutParams.FLAG_NOT_FOCUSABLE
+                    WindowManager.LayoutParams.FLAG_LAYOUT_IN_SCREEN
+                            | WindowManager.LayoutParams.FLAG_FULLSCREEN
                             | WindowManager.LayoutParams.FLAG_NOT_TOUCH_MODAL
                             | WindowManager.LayoutParams.FLAG_WATCH_OUTSIDE_TOUCH
-                            | WindowManager.LayoutParams.FLAG_LAYOUT_NO_LIMITS
                             | WindowManager.LayoutParams.SCREEN_ORIENTATION_CHANGED,
                     PixelFormat.TRANSLUCENT);
 
@@ -388,6 +488,7 @@ public class FloatingViewService extends Service {
             return params;
         }
     }
+
 
 
 
@@ -414,5 +515,51 @@ public class FloatingViewService extends Service {
         spanishExp.setText(part1);
         englishExp.setText(part2);
     }
+
+    private void killService(){
+        stopSelf();
+    }
+
+    private void playSwitch(){
+        if(running == false) {
+            running = true;
+            playButton.setImageResource(R.drawable.ic_pause);
+            //String lineS = (String) mWM.getRandomLine();
+            //diviningString(lineS);
+            timerHandler.removeCallbacks(timerRunnable);
+            startTime = System.currentTimeMillis();
+            timerHandler.postDelayed(timerRunnable, 0);
+
+        }
+        else{
+            running = false;
+            timerHandler.removeCallbacks(timerRunnable);
+            playButton.setImageResource(R.drawable.ic_play);
+        }
+    }
+
+
+    private BroadcastReceiver mBroadcastReceiver = new BroadcastReceiver() {
+        @Override
+        public void onReceive(Context context, Intent intent) {
+            String action = intent.getExtras().getString("actionname");
+            switch (action) {
+                case "expand":
+                    goFull();
+                    killService();
+                    break;
+                case "play":
+                    playSwitch();
+                    break;
+                case "kill":
+                    killService();
+                    break;
+                case "audio":
+                    break;
+                default:
+                    break;
+            }
+        }
+    };
 
 }

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ds" >
+        <attr name="colorBackground" format="color" />
+        <attr name="colorBackground2" format="color" />
+        <attr name="colorBackgroundFV" format="color" />
+        <attr name="colorChecked" format="color" />
+        <attr name="colorFont" format="color" />
+        <attr name="colorFont2" format="color" />
+        <attr name="colorFont3" format="color" />
+        <attr name="colorFont4" format="color" />
+
+
+
+    </declare-styleable>
+</resources>

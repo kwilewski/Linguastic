@@ -1,27 +1,31 @@
-package com.example.wonski.linguastic;
+package com.narrowstudio.wonski.linguastic;
 
 import android.app.Activity;
 import android.content.Intent;
-import android.media.Image;
+import android.content.SharedPreferences;
+import android.net.Uri;
+import android.os.Build;
 import android.os.Bundle;
 import android.os.Handler;
+import android.provider.Settings;
 import android.view.View;
-import android.widget.Button;
 import android.widget.ImageButton;
 import android.widget.TextView;
-import android.widget.Toast;
-
-import java.util.ArrayList;
-
 
 public class WordsLister extends Activity {
 
+    private static final int CODE_DRAW_OVER_OTHER_APP_PERMISSION = 2084;
     private ImageButton prevB, ppB, nextB, homeB, settB, sfB;
     private TextView spTV, enTV;
     private WordManager mWM;
     private long startTime = 0,millis;
     private int min=1,max=100,line,id,seconds,secSet=5;
     private boolean running = false;
+    private boolean stateDarkModeSwitch, stateDoubleTimeSwitch;
+    private SharedPreferences preferences;
+    private int stateTime;
+
+    private static final String SHARED_PREFS = "PREFS";
 
     Handler timerHandler = new Handler();
     Runnable timerRunnable = new Runnable() {
@@ -52,19 +56,6 @@ public class WordsLister extends Activity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.words_lister);
-
-        spTV = (TextView) findViewById(R.id.spTV);
-        enTV = (TextView) findViewById(R.id.enTV);
-        prevB = (ImageButton) findViewById(R.id.prevB);
-        ppB = (ImageButton) findViewById(R.id.ppB);
-        nextB = (ImageButton) findViewById(R.id.nextB);
-        homeB = (ImageButton) findViewById(R.id.homeB);
-        sfB = (ImageButton) findViewById(R.id.startFloatingB);
-        settB = (ImageButton) findViewById(R.id.settingsB);
-
-        getWindow().setStatusBarColor(0x66ff0000);
-
         mWM = (WordManager) getIntent().getSerializableExtra("list");
         int posit = (Integer) getIntent().getSerializableExtra("position");
         if (savedInstanceState != null){
@@ -76,12 +67,56 @@ public class WordsLister extends Activity {
 
         mWM.setMax(mWM.getSize());
 
-        String lineS = (String) mWM.getRandomLine();
-        diviningString(lineS);
+
+    }
+
+    @Override
+    protected void onResume() {
+        super.onResume();
+        createUI();
+    }
+
+    private void createUI(){
+        preferences = getSharedPreferences(SHARED_PREFS, MODE_PRIVATE);
+        stateDarkModeSwitch = preferences.getBoolean("dark_mode", false);
+        stateDoubleTimeSwitch = preferences.getBoolean("double_time", false);
+        stateTime = preferences.getInt("time", 0);
+
+        if (stateDarkModeSwitch) {
+            setTheme(R.style.AppDarkTheme);
+        }
+        else {
+            setTheme(R.style.AppTheme);
+        }
+
+        setContentView(R.layout.words_lister);
+
+        spTV = (TextView) findViewById(R.id.spTV);
+        enTV = (TextView) findViewById(R.id.enTV);
+        prevB = (ImageButton) findViewById(R.id.prevB);
+        ppB = (ImageButton) findViewById(R.id.ppB);
+        nextB = (ImageButton) findViewById(R.id.nextB);
+        homeB = (ImageButton) findViewById(R.id.homeB);
+        sfB = (ImageButton) findViewById(R.id.startFloatingB);
+        settB = (ImageButton) findViewById(R.id.settingsB);
 
         ppB.setImageResource(R.drawable.ic_play);
         prevB.setImageResource(R.drawable.ic_backward);
         nextB.setImageResource(R.drawable.ic_forward);
+
+        if (stateTime == 0) {
+            secSet = 5;
+        }
+        else if (stateTime == 1) {
+            secSet = 10;
+        }
+        else if (stateTime == 2) {
+            secSet = 15;
+        }
+
+
+        String lineS = (String) mWM.getCurrentLine();
+        diviningString(lineS);
 
 
 
@@ -153,6 +188,8 @@ public class WordsLister extends Activity {
             @Override
             public void onClick(View v) {
 
+                running = false;
+                timerHandler.removeCallbacks(timerRunnable);
                 goHome();
 
             }
@@ -162,13 +199,21 @@ public class WordsLister extends Activity {
             @Override
             public void onClick(View v) {
 
+                running = false;
+                timerHandler.removeCallbacks(timerRunnable);
                 initializeView();
 
             }
         });
 
-
-
+        settB.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                running = false;
+                timerHandler.removeCallbacks(timerRunnable);
+                openSett();
+            }
+        });
 
     }
 
@@ -176,19 +221,35 @@ public class WordsLister extends Activity {
     private void goHome(){
         Intent intent = new Intent(WordsLister.this, MainActivity.class);
         startActivity(intent);
+        finish();
+    }
+
+    private void openSett(){
+        Intent intent = new Intent(this,MySettings.class);
+        startActivity(intent);
+
     }
 
 
     private void initializeView() {
 
-        int currP = mWM.getCurrentPosition();
-        Intent intent = new Intent(WordsLister.this, FloatingViewService.class);
-        intent.putExtra("position", currP);
-        intent.putExtra("list", mWM);
-        this.startService(intent);
-        finish();
-        this.moveTaskToBack(true);
+        if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.M && !Settings.canDrawOverlays(WordsLister.this)) {
 
+
+            //If the draw over permission is not available open the settings screen
+            //to grant the permission.
+            Intent intent = new Intent(Settings.ACTION_MANAGE_OVERLAY_PERMISSION,
+                    Uri.parse("package:" + getPackageName()));
+            startActivityForResult(intent, CODE_DRAW_OVER_OTHER_APP_PERMISSION);
+        } else {
+            int currP = mWM.getCurrentPosition();
+            Intent intent = new Intent(WordsLister.this, FloatingViewService.class);
+            intent.putExtra("position", currP);
+            intent.putExtra("list", mWM);
+            this.startService(intent);
+            finish();
+            this.moveTaskToBack(true);
+        }
     }
 
 

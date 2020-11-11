@@ -4,4 +4,15 @@
     <string name="floating_widget_label">Floating Widget Label</string>
     <string name="floating_widget_details">Floating Widget Details</string>
     <string name="draw_other_app_permission_denied">Draw over other app permission not available. App won\'t work without permission. Please try again.</string>
+    <string name="activity_settings_time">Time per word</string>
+    <string name="activity_settings_double_time">Double time in floating mode</string>
+    <string name="app_info_1">Linguastic created by Narrow Studio. App is based on WordsGalore database. If you found any mistakes, bugs or you have development request, feel free to contact via email. </string>
+    <string name="app_info_2">narrowstudiodev@gmail.com</string>
+    <string name="service_channel">LinguasticForegroundServiceChannel</string>
+    <string name="service_context">Tap to start</string>
+    <string name="service_context2">Tap to pause</string>
+    <string name="service_button11">Audio on</string>
+    <string name="service_button12">Audio off</string>
+    <string name="service_button21">Expand</string>
+    <string name="service_button31">Close</string>
 </resources>
