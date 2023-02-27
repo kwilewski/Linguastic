@@ -1,4 +1,4 @@
-package com.example.wonski.linguastic;
+package com.narrowstudio.wonski.linguastic;
 
 import org.junit.Test;
 

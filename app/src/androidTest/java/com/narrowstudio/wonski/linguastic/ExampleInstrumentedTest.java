@@ -1,4 +1,4 @@
-package com.example.wonski.linguastic;
+package com.narrowstudio.wonski.linguastic;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
